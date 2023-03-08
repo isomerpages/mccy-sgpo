@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: SG Partnerships Office
+      title: Partner for SG!
       background: /images/hero-banner.png
       button: Learn more
       url: /contact-us/
@@ -21,6 +21,7 @@ sections:
         - title: Find Support
           description: Page A is important too
           url: /privacy/
+      subtitle: A website by SG Partnerships Office
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
