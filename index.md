@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Partner for SG!
-      background: /images/hero-banner.png
+      background: /images/Teamphoto.jpeg
       button: Learn more
       url: /contact-us/
       key_highlights:
