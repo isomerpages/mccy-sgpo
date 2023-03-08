@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: SGPO
+      title: SG Partnerships Office
       background: /images/hero-banner.png
       button: Learn more
       url: /contact-us/
