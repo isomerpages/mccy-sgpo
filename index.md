@@ -33,9 +33,6 @@ sections:
       url: /how-to-partner-us
       image: /images/Teamphoto.jpeg
       alt: Image alt text
-  - resources:
-      title: Opportunities
-      button: Resources Button Name
   - infopic:
       title: Be Inspired by fellow citizens
       description: Discover interesting successful partnerships stories
@@ -43,4 +40,7 @@ sections:
       url: /Get-Inspired
       image: /images/Teamphoto.jpeg
       alt: Image alt text
+  - resources:
+      title: Opportunities
+      button: Resources Button Name
 ---
