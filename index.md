@@ -40,7 +40,4 @@ sections:
       url: /Get-Inspired
       image: /images/Teamphoto.jpeg
       alt: Image alt text
-  - resources:
-      title: Opportunities
-      button: Resources Button Name
 ---
