@@ -26,24 +26,21 @@ sections:
       alt: Image alt text
       image: /images/Teamphoto.jpeg
       url: /why-partner-us
-  - resources:
-      title: Opportunities
-      button: Resources Button Name
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
-  - infobar:
-      title: Infobar Title
-      subtitle: Why PARTNER US
-      description: Infobar description
-      button: Button Text
   - infopic:
       title: How to Partner Us
       description: Find out how you can partner us
       button: Learn more
       url: /how-to-partner-us
+      image: /images/Teamphoto.jpeg
+      alt: Image alt text
+  - resources:
+      title: Opportunities
+      button: Resources Button Name
+  - infopic:
+      title: Be Inspired by fellow citizens
+      description: Discover interesting successful partnerships stories
+      button: Read more
+      url: /Get-Inspired
       image: /images/Teamphoto.jpeg
       alt: Image alt text
 ---
