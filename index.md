@@ -40,4 +40,9 @@ sections:
       url: /Get-Inspired
       image: /images/Teamphoto.jpeg
       alt: Image alt text
+  - infobar:
+      title: Partner Us!
+      description: All set with the information.
+      button: SUBMIT NOW
+      url: /info
 ---
