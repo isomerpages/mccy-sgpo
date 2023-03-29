@@ -9,15 +9,6 @@ links:
         url: /permalink
   - title: Get Inspired
     url: /example-page/
-  - title: Get Support
-    url: /permalink
-    sublinks:
-      - title: FAQs
-        url: /permalink
-      - title: List of Funds
-        url: /permalink
-      - title: Contact Us
-        url: /permalink
   - title: Take Action
     url: /permalink
     sublinks:
@@ -28,4 +19,13 @@ links:
       - title: Partnership Checklist
         url: /permalink
       - title: Submit now
+        url: /permalink
+  - title: Get Support
+    url: /permalink
+    sublinks:
+      - title: FAQs
+        url: /permalink
+      - title: List of Funds
+        url: /permalink
+      - title: Contact Us
         url: /permalink
