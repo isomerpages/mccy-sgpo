@@ -1,12 +1,5 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: About Us
-    url: /permalink
-    sublinks:
-      - title: Who We Are
-        url: /permalink
-      - title: Why Partner Us
-        url: /permalink
   - title: Get Inspired
     url: /example-page/
   - title: Take Action
@@ -29,3 +22,5 @@ links:
         url: /permalink
       - title: Contact Us
         url: /permalink
+  - title: About
+    collection: about
