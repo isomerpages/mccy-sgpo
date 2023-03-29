@@ -35,7 +35,7 @@ sections:
       button: Button Text
   - infobar:
       title: Infobar Title
-      subtitle: Get in touch!
+      subtitle: Why PARTNER US
       description: Infobar description
       button: Button Text
 ---
