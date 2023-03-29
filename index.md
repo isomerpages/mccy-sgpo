@@ -7,21 +7,18 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Partner for SG!
+      title: Partner Us!
       background: /images/Teamphoto.jpeg
-      button: Learn more
-      url: /contact-us/
-      key_highlights:
-        - title: Get Involved
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Explore Stories
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Find Support
-          description: Page A is important too
-          url: /privacy/
-      subtitle: A website by SG Partnerships Office
+      subtitle: "Welcome to Partners First- Stop! Dedicated to form partnerships with
+        active citizens and communities together to co-create solutions for a
+        better Singapore. "
+      dropdown:
+        title: What would you like to do?
+        options:
+          - title: Find out more on partnerships
+            url: ""
+          - title: Submit your partnership idea
+            url: ""
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
