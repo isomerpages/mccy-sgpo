@@ -20,11 +20,12 @@ sections:
           - title: Submit your partnership idea
             url: ""
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Why Partner Us
+      description: Find out why you should be partnering us
+      button: Learn more
       alt: Image alt text
+      image: /images/Teamphoto.jpeg
+      url: /why-partner-us
   - resources:
       title: Opportunities
       button: Resources Button Name
