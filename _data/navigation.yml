@@ -1,8 +1,8 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
+  - title: Who We Are
     url: /contact-us/
-  - title: Example Page
+  - title: Get Inspired
     url: /example-page/
-  - title: Example Folder
+  - title: Take Action
     collection: example-folder
