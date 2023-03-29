@@ -39,4 +39,11 @@ sections:
       subtitle: Why PARTNER US
       description: Infobar description
       button: Button Text
+  - infopic:
+      title: How to Partner Us
+      description: Find out how you can partner us
+      button: Learn more
+      url: /how-to-partner-us
+      image: /images/Teamphoto.jpeg
+      alt: Image alt text
 ---
