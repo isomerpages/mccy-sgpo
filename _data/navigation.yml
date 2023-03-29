@@ -1,8 +1,31 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Who We Are
-    url: /contact-us/
+  - title: About Us
+    url: /permalink
+    sublinks:
+      - title: Who We Are
+        url: /permalink
+      - title: Why Partner Us
+        url: /permalink
   - title: Get Inspired
     url: /example-page/
+  - title: Get Support
+    url: /permalink
+    sublinks:
+      - title: FAQs
+        url: /permalink
+      - title: List of Funds
+        url: /permalink
+      - title: Contact Us
+        url: /permalink
   - title: Take Action
-    collection: example-folder
+    url: /permalink
+    sublinks:
+      - title: Partner Us
+        url: /permalink
+      - title: Form Tutorial
+        url: /permalink
+      - title: Partnership Checklist
+        url: /permalink
+      - title: Submit now
+        url: /permalink
