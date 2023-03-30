@@ -2,19 +2,10 @@ logo: /images/isomer-logo.svg
 links:
   - title: About
     collection: about
+  - title: Take Action
+    collection: take-action
   - title: Get Inspired
     url: /example-page/
-  - title: Take Action
-    url: /permalink
-    sublinks:
-      - title: Partner Us
-        url: /permalink
-      - title: Form Tutorial
-        url: /permalink
-      - title: Submission Checklist
-        url: /permalink
-      - title: Submission Form
-        url: /permalink
   - title: Get Support
     url: /permalink
     sublinks:
@@ -24,5 +15,3 @@ links:
         url: /permalink
       - title: Contact Us
         url: /permalink
-  - title: Take Action
-    collection: take-action
