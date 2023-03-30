@@ -2,5 +2,6 @@ collections:
   get-support:
     output: true
     order:
+      - Contact us.md
       - List of Funds.md
       - faq.md
