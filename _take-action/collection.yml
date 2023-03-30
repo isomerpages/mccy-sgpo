@@ -2,4 +2,5 @@ collections:
   take-action:
     output: true
     order:
+      - Tutorial.md
       - Partner Us.md
