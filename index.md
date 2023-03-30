@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Partner Us!
-      background: /images/Teamphoto.jpeg
+      background: /images/hero-banner.png
       subtitle: "Welcome to Partners First- Stop! Dedicated to form partnerships with
         active citizens and communities together to co-create solutions for a
         better Singapore. "
@@ -46,4 +46,3 @@ sections:
       button: SUBMIT NOW
       url: /info
 ---
-
