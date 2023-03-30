@@ -2,6 +2,7 @@ collections:
   take-action:
     output: true
     order:
+      - Submission Form.md
       - Submission Checklist.md
       - Tutorial.md
       - Partner Us.md
