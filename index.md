@@ -21,11 +21,13 @@ sections:
             url: ""
   - infopic:
       title: Why Partner Us
-      description: Find out why you should be partnering us
+      description: Find out how we could help you seek out potential partners or
+        collaborators to help actualize your ideas.
       button: Learn more
       alt: Image alt text
       image: /images/Teamphoto.jpeg
       url: /why-partner-us
+      subtitle: WHY
   - infopic:
       title: How to Partner Us
       description: Find out how you can partner us
