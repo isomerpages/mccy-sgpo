@@ -9,9 +9,9 @@ sections:
   - hero:
       title: Partner Us!
       background: /images/STOCK_Hero.jpg
-      subtitle: "Welcome to Partners First- Stop! Dedicated to form partnerships with
-        active citizens and communities together to co-create solutions for a
-        better Singapore. "
+      subtitle: At the Singapore Partnerships Office, we are dedicated to working with
+        you - active citizens and communities - to co-create solutions for a
+        better Singapore.
       dropdown:
         title: What would you like to do?
         options:
