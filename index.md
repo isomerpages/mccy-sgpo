@@ -39,7 +39,7 @@ sections:
       subtitle: how
   - infopic:
       title: Be Inspired by fellow citizens
-      description: Discover interesting successful partnerships stories
+      description: Explore compelling partnerships successstories
       button: Read more
       url: /Get-Inspired
       image: /images/Teamphoto.jpeg
