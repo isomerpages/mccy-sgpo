@@ -2,6 +2,6 @@ collections:
   take-action:
     output: true
     order:
-      - Submission Checklist.md
+      - Checklist.md
       - Explainer Video.md
       - Partner Us.md
