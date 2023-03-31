@@ -2,6 +2,6 @@ collections:
   take-action:
     output: true
     order:
-      - Partner Us Now.md
+      - Sign up to partner us.md
       - Explainer Video.md
       - Checklist.md
