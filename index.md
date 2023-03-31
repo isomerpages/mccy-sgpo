@@ -30,11 +30,13 @@ sections:
       subtitle: WHY
   - infopic:
       title: How to Partner Us
-      description: Find out how you can partner us
+      description: Discover the necessary criteria and step-by-step procedure for
+        submitting a partnership application
       button: Learn more
       url: /how-to-partner-us
       image: /images/Teamphoto.jpeg
       alt: Image alt text
+      subtitle: how
   - infopic:
       title: Be Inspired by fellow citizens
       description: Discover interesting successful partnerships stories
