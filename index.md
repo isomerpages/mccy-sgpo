@@ -25,7 +25,7 @@ sections:
         collaborators to help actualize your ideas.
       button: Learn more
       alt: Image alt text
-      image: /images/Teamphoto.jpeg
+      image: /images/whatsapp image_2.jpg
       url: /why-partner-us
       subtitle: WHY
   - infopic:
@@ -34,7 +34,7 @@ sections:
         submitting a partnership application
       button: Learn more
       url: /how-to-partner-us
-      image: /images/Teamphoto.jpeg
+      image: /images/20210306-loveourhood-katong-142.JPG
       alt: Image alt text
       subtitle: how
   - infopic:
@@ -42,7 +42,7 @@ sections:
       description: Explore compelling partnerships successstories
       button: Read more
       url: /Get-Inspired
-      image: /images/Teamphoto.jpeg
+      image: /images/explore-stories_1296x550.jpg
       alt: Image alt text
       subtitle: inspire
   - infobar:
