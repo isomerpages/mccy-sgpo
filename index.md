@@ -44,6 +44,7 @@ sections:
       url: /Get-Inspired
       image: /images/Teamphoto.jpeg
       alt: Image alt text
+      subtitle: inspire
   - infobar:
       title: Partner Us!
       description: All set with the information.
