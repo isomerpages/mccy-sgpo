@@ -47,7 +47,7 @@ sections:
       subtitle: inspire
   - infobar:
       title: Partner Us!
-      description: All set with the information.
+      description: All set with the necessary information?
       button: SUBMIT NOW
       url: /info
 ---
