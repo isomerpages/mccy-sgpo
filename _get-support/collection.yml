@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Contact us.md
-      - List of Funds.md
+      - Resources.md
       - faq.md
