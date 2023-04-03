@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Partners First-Stop
+title: Singapore Partnerships Office
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
