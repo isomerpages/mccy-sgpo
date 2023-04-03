@@ -38,7 +38,7 @@ sections:
       alt: Image alt text
       subtitle: how
   - infopic:
-      title: Be Inspired by fellow citizens
+      title: Be Inspired by Fellow Citizens
       description: Explore partnership stories
       button: Read more
       url: /Get-Inspired
