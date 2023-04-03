@@ -20,7 +20,7 @@ sections:
           - title: Submit your partnership idea
             url: ""
   - infopic:
-      title: Why Partner Us
+      title: Why Take Action
       description: Find out how we could help you seek out potential partners or
         collaborators to help actualize your ideas.
       button: Learn more
@@ -29,7 +29,7 @@ sections:
       url: /why-partner-us
       subtitle: WHY
   - infopic:
-      title: How to Partner Us
+      title: How to Take Action
       description: Discover the necessary criteria and step-by-step procedure for
         submitting a partnership application
       button: Learn more
@@ -39,7 +39,7 @@ sections:
       subtitle: how
   - infopic:
       title: Be Inspired by fellow citizens
-      description: Explore compelling partnerships success stories
+      description: Explore partnership stories
       button: Read more
       url: /Get-Inspired
       image: /images/explore-stories_1296x550.jpg
