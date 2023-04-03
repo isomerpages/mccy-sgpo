@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2zbhvw0ev634k.amplifyapp.com
 prod: https://master.d2zbhvw0ev634k.amplifyapp.com
-shareicon: /images/sgt_sgpo_logo.svg
+shareicon: /images/sgt_sgpo_logo_3-01.svg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
