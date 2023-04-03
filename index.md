@@ -34,7 +34,7 @@ sections:
         submitting a partnership application
       button: Learn more
       url: /how-to-partner-us
-      image: /images/20210306-loveourhood-katong-142.JPG
+      image: /images/20210306-loveourhood-katong-142_1.jpg
       alt: Image alt text
       subtitle: how
   - infopic:
