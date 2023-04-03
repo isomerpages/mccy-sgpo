@@ -25,7 +25,7 @@ sections:
         collaborators to help actualize your ideas.
       button: Learn more
       alt: Image alt text
-      image: /images/whatsapp image_2.jpg
+      image: /images/parking-heroes_img_5022.jpg
       url: /why-partner-us
       subtitle: WHY
   - infopic:
