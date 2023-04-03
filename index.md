@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Partner Us!
-      background: /images/STOCK_Hero.jpg
+      background: /images/masthead_participate-009_christmas_esplanadewaterfront.jpg
       subtitle: At the Singapore Partnerships Office, we are dedicated to working with
         you - active citizens and communities - to co-create solutions for a
         better Singapore.
