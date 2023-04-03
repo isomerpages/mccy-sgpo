@@ -45,7 +45,7 @@ sections:
       alt: Image alt text
       subtitle: inspire
   - infobar:
-      title: All set with your partnership ideas?
+      title: All set with your partnership idea?
       button: submit now
       url: /info
 ---
