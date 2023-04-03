@@ -30,8 +30,7 @@ sections:
       subtitle: WHY
   - infopic:
       title: How to Take Action
-      description: Discover the necessary criteria and step-by-step procedure for
-        submitting a partnership application
+      description: Find out how to submit a partnership application
       button: Learn more
       url: /how-to-partner-us
       image: /images/20210306-loveourhood-katong-142_1.jpg
