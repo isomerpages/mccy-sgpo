@@ -2,7 +2,7 @@
 layout: homepage
 title: Singapore Partnerships Office
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/sgt_sgpo_logo.svg
 permalink: /
 notification: ""
 sections:
