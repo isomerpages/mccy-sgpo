@@ -21,8 +21,8 @@ sections:
             url: ""
   - infopic:
       title: Why Take Action
-      description: Find out how we could help you seek out potential partners or
-        collaborators to help actualize your ideas.
+      description: Find out how to tap potential partners or collaborators to
+        actualise your ideas.
       button: Learn more
       alt: Image alt text
       image: /images/parking-heroes_img_5022.jpg
