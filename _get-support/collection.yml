@@ -2,6 +2,6 @@ collections:
   get-support:
     output: true
     order:
-      - Contact us.md
-      - Resources.md
       - FAQs.md
+      - Resources.md
+      - Contact us.md
