@@ -46,6 +46,6 @@ sections:
       subtitle: inspire
   - infobar:
       title: All set with your partnership idea?
-      button: submit now
+      button: Act now
       url: /info
 ---
