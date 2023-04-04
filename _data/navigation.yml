@@ -1,17 +1,6 @@
 logo: /images/sgt_sgpo_logo_4.png
 links:
-  - title: About
-    collection: about
-  - title: Take Action
-    collection: take-action
   - title: Get Inspired
     url: /example-page/
-  - title: Get Support
-    url: /permalink
-    sublinks:
-      - title: FAQs
-        url: /permalink
-      - title: Resources
-        url: https://www.sg
-      - title: Contact Us
-        url: /permalink
+  - title: About
+    collection: about
