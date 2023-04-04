@@ -1,6 +1,8 @@
 logo: /images/sgt_sgpo_logo_4.png
 links:
+  - title: About
+    collection: about
   - title: Get Inspired
     url: /example-page/
-  - title: About
+  - title: Take action
     collection: about
