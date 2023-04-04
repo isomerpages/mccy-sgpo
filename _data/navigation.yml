@@ -6,3 +6,12 @@ links:
     collection: take-action
   - title: Get Inspired
     url: /get-inspired
+  - title: Get Support
+    url: /permalink
+    sublinks:
+      - title: FAQs
+        url: /faqs
+      - title: Resources
+        url: https://www.sg/resources
+      - title: Contact Us
+        url: /contact-us
