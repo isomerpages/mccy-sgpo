@@ -16,9 +16,9 @@ sections:
         title: What would you like to do?
         options:
           - title: Find out more on partnerships
-            url: ""
+            url: /why-partner
           - title: Submit your partnership idea
-            url: ""
+            url: /submit
   - infopic:
       title: Why Take Action
       description: Find out how to tap potential partners or collaborators to
