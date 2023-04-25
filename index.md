@@ -53,8 +53,7 @@ sections:
   - infopic:
       title: Read Stories on Citizen Partnerships
       subtitle: get inspired
-      description: Explore partnership stories
-      button: read more
+      button: learn more
       url: /inpire
       image: /images/explore-stories_1296x550.jpg
       alt: Image alt text
