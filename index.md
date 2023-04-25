@@ -15,6 +15,8 @@ sections:
       dropdown:
         title: What would you like to do?
         options:
+          - title: Submit your partnership idea
+            url: /submit-your-partnership-ideas
           - title: Find out more on partnerships
             url: /why-partner
           - title: Find out more on event spaces
@@ -23,8 +25,6 @@ sections:
             url: ""
           - title: Volunteering opportunities
             url: ""
-          - title: Submit your partnership idea
-            url: /submit-your-partnership-ideas
   - infobar:
       title: All set with your partnership idea?
       button: Get Started
