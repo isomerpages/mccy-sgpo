@@ -35,6 +35,7 @@ sections:
       button: learn more
       url: /learn
       alt: Image alt text
+      image: /images/ysn_whatsapp-image_2.jpg
   - infopic:
       title: Learn More on Government Funding
       subtitle: get funded
