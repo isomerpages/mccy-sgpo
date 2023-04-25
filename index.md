@@ -51,7 +51,7 @@ sections:
       image: /images/joshua_liang_1296x550.jpg
       subtitle: give back
   - infopic:
-      title: Be Inspired by Fellow Citizens
+      title: Get Inspired by Fellow Citizens
       subtitle: inspire
       description: Explore partnership stories
       button: read more
