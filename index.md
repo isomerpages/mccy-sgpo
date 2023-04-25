@@ -27,21 +27,5 @@ sections:
       title: All set with your partnership idea?
       button: get started
       url: partnersio idea
-      image: /images/img_mountbatten-parking-hero---1296x550.jpg
-  - infopic:
-      title: Why Take Action
-      subtitle: why
-      description: Infopic description
-      button: learn more
-      url: /learn
-      alt: Image alt text
-      image: /images/ysn_whatsapp-image_2.jpg
-  - infopic:
-      title: Learn More on Government Funding
-      subtitle: get funded
-      description: Infopic description
-      button: get started
-      url: "-"
-      image: /images/parking-heroes_img_5022.jpg
-      alt: Image alt text
+      image: /images/img_mountbatten-parking-hero
 ---
