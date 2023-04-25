@@ -36,4 +36,11 @@ sections:
       url: Why
       image: /images/20210306-loveourhood-katong-142_1.jpg
       alt: Image alt text
+  - infopic:
+      title: Learn More About Funding Available
+      subtitle: get funded
+      button: start here
+      url: /get-funded
+      image: /images/ysn_whatsapp-image_2.jpg
+      alt: Image alt text
 ---
