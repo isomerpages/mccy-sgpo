@@ -38,7 +38,7 @@ sections:
       image: /images/20210306-loveourhood-katong-142_1.jpg
       alt: Image alt text
   - infopic:
-      title: Learn More About Funding Available
+      title: Learn More About Government Funding Opportunities
       subtitle: get funded
       button: start here
       url: /get-funded
