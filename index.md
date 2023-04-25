@@ -28,7 +28,7 @@ sections:
       button: Get Started
       url: /info
   - infopic:
-      title: Why Take Action
+      title: How  to Take Action
       description: Find out how to tap potential partners or collaborators to
         actualise your ideas.
       button: Learn more
