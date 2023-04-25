@@ -37,13 +37,12 @@ sections:
       url: /why-partner-us
       subtitle: WHY
   - infopic:
-      title: How to Take Action
-      description: Find out how to submit a partnership application
-      button: Learn more
+      title: Learn More About Government Funding Opportunities
+      button: Start here
       url: /how-to-partner-us
       image: /images/20210306-loveourhood-katong-142_1.jpg
       alt: Image alt text
-      subtitle: how
+      subtitle: get funded
   - infopic:
       title: Be Inspired by Fellow Citizens
       description: Explore partnership stories
