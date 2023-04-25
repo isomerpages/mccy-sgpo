@@ -29,10 +29,11 @@ sections:
       url: partnersio idea
       image: /images/parking-heroes_img_5022.jpg
   - infopic:
-      title: Why Take Action to Partner
+      title: Why Take Action
       subtitle: why
-      description: Infopic description
-      button: Button Text
+      description: Find out how to tap potential partners or collaborators to
+        actualise your ideas.
+      button: learn more
       url: Why
       image: /images/20210306-loveourhood-katong-142_1.jpg
       alt: Image alt text
