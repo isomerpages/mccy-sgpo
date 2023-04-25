@@ -9,9 +9,9 @@ sections:
   - hero:
       title: Be the Change
       background: /images/masthead_1_participate-009_christmas_esplanadewaterfront.jpg
-      subtitle: At the Singapore Partnerships Office, we are dedicated to working with
-        you - active citizens and communities - to co-create solutions for a
-        better Singapore.
+      subtitle: At the Singapore Government Partnerships Office, we are dedicated to
+        working with you - citizens and communities - to co-create solutions for
+        a better Singapore
       dropdown:
         title: What would you like to do?
         options:
