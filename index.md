@@ -47,6 +47,5 @@ sections:
       title: Find out more on Volunteering Opportunities
       button: Start here
       url: /get-volunteer
-      image: /images/img_mountbatten-parking-hero---1296x550.jpg
-      alt: Image alt text
+      image: /images/joshua_liang_1296x550.jpg
 ---
