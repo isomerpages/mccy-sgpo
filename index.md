@@ -19,6 +19,12 @@ sections:
             url: /why-partner
           - title: Submit your partnership idea
             url: /submit-your-partnership-ideas
+          - title: Looking event spaces
+            url: "-"
+          - title: Look for government grants
+            url: ""
+          - title: Volunteering opportunities
+            url: ""
   - infopic:
       title: Why Take Action
       description: Find out how to tap potential partners or collaborators to
