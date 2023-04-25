@@ -43,4 +43,10 @@ sections:
       url: /get-funded
       image: /images/ysn_whatsapp-image_2.jpg
       alt: Image alt text
+  - infopic:
+      title: Find out more on Volunteering Opportunities
+      button: Start here
+      url: /get-volunteer
+      image: /images/img_mountbatten-parking-hero---1296x550.jpg
+      alt: Image alt text
 ---
