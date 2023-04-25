@@ -45,10 +45,11 @@ sections:
       image: /images/ysn_whatsapp-image_2.jpg
       alt: Image alt text
   - infopic:
-      title: Find out more on Volunteering Opportunities
-      button: Start here
+      title: Volunteering and Donation Opportunities
+      button: learn more
       url: /get-volunteer
       image: /images/joshua_liang_1296x550.jpg
+      subtitle: give back
   - infopic:
       title: Be Inspired by Fellow Citizens
       subtitle: inspire
