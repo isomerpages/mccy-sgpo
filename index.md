@@ -21,7 +21,7 @@ sections:
             url: /why-partner
           - title: Look for government grants
             url: ""
-          - title: Volunteering opportunities
+          - title: Give back to community
             url: ""
   - infobar:
       title: All set with your partnership idea?
