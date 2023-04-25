@@ -25,6 +25,10 @@ sections:
             url: ""
           - title: Submit your partnership idea
             url: /submit-your-partnership-ideas
+  - infobar:
+      title: All set with your partnership idea?
+      button: Get Started
+      url: /info
   - infopic:
       title: Why Take Action
       description: Find out how to tap potential partners or collaborators to
@@ -50,8 +54,4 @@ sections:
       image: /images/explore-stories_1296x550.jpg
       alt: Image alt text
       subtitle: inspire
-  - infobar:
-      title: All set with your partnership idea?
-      button: Get Started
-      url: /info
 ---
