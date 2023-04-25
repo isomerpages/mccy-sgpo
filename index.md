@@ -51,4 +51,11 @@ sections:
       image: /images/explore-stories_1296x550.jpg
       alt: Image alt text
       subtitle: inspire
+  - infopic:
+      title: Volunteering and Donation Opportunities
+      subtitle: give back
+      button: learn more
+      url: Volunteering
+      image: /images/ysn_whatsapp-image_2.jpg
+      alt: Image alt text
 ---
