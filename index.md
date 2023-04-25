@@ -28,4 +28,11 @@ sections:
       button: get started
       url: partnersio idea
       image: /images/img_mountbatten-parking-hero
+  - infopic:
+      title: Why Take Action to Partner
+      subtitle: Why
+      description: Infopic description
+      button: learn more
+      url: "-"
+      alt: Image alt text
 ---
