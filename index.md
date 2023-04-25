@@ -19,8 +19,6 @@ sections:
             url: /submit-your-partnership-ideas
           - title: Find out more on partnerships
             url: /why-partner
-          - title: Find out more on event spaces
-            url: "-"
           - title: Look for government grants
             url: ""
           - title: Volunteering opportunities
