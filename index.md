@@ -23,10 +23,12 @@ sections:
             url: ""
           - title: Give back to community
             url: ""
-  - infobar:
+  - infopic:
       title: All set with your partnership idea?
-      button: Get Started
-      url: /info
+      button: get started
+      url: partnersio idea
+      image: /images/Teamphoto.jpeg
+      alt: Image alt text
   - infopic:
       title: How  to Take Action
       description: Find out how to tap potential partners or collaborators to
@@ -44,6 +46,13 @@ sections:
       alt: Image alt text
       subtitle: get funded
   - infopic:
+      title: Volunteering and Donation Opportunities
+      subtitle: give back
+      button: learn more
+      url: Volunteering
+      image: /images/ysn_whatsapp-image_2.jpg
+      alt: Image alt text
+  - infopic:
       title: Be Inspired by Fellow Citizens
       description: Explore partnership stories
       button: Read more
@@ -51,11 +60,4 @@ sections:
       image: /images/explore-stories_1296x550.jpg
       alt: Image alt text
       subtitle: inspire
-  - infopic:
-      title: Volunteering and Donation Opportunities
-      subtitle: give back
-      button: learn more
-      url: Volunteering
-      image: /images/ysn_whatsapp-image_2.jpg
-      alt: Image alt text
 ---
