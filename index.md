@@ -48,4 +48,12 @@ sections:
       button: Start here
       url: /get-volunteer
       image: /images/joshua_liang_1296x550.jpg
+  - infopic:
+      title: Be Inspired by Fellow Citizens
+      subtitle: inspire
+      description: Explore partnership stories
+      button: read more
+      url: /inpire
+      image: /images/explore-stories_1296x550.jpg
+      alt: Image alt text
 ---
