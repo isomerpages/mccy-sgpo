@@ -35,4 +35,12 @@ sections:
       button: learn more
       url: /learn
       alt: Image alt text
+  - infopic:
+      title: Learn More on Government Funding
+      subtitle: get funded
+      description: Infopic description
+      button: get started
+      url: "-"
+      image: /images/parking-heroes_img_5022.jpg
+      alt: Image alt text
 ---
