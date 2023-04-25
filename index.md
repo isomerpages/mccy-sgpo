@@ -27,7 +27,7 @@ sections:
       title: All set with your partnership idea?
       button: get started
       url: partnersio idea
-      image: /images/img_mountbatten-parking-hero
+      image: /images/parking-heroes_img_5022.jpg
   - infopic:
       title: Why Take Action to Partner
       subtitle: why
