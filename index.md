@@ -58,5 +58,5 @@ sections:
       button: learn more
       url: /inpire
       image: /images/explore-stories_1296x550.jpg
-      alt: Image alt text
+      alt: Citizen Stories
 ---
