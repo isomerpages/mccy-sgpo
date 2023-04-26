@@ -44,7 +44,7 @@ sections:
       button: start here
       url: /get-funded
       image: /images/ysn_whatsapp-image_2.jpg
-      alt: Image alt text
+      alt: Planning to get funding
   - infopic:
       title: Volunteering and Donation Opportunities
       button: learn more
