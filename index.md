@@ -51,7 +51,7 @@ sections:
       url: /get-volunteer
       image: /images/joshua_liang_1296x550.jpg
       subtitle: give back
-      alt: Volunteering Opportunities
+      alt: Give back
   - infopic:
       title: Read Stories on Citizen Partnerships
       subtitle: get inspired
