@@ -28,6 +28,7 @@ sections:
       button: get started
       url: partnersio idea
       image: /images/parking-heroes_img_5022.jpg
+      alt: Partnership idea
   - infopic:
       title: Why Take Action
       subtitle: why
