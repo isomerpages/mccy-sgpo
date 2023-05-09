@@ -48,7 +48,7 @@ sections:
   - infopic:
       title: Volunteering and Donation Opportunities
       button: learn more
-      url: /take-action/volunteering-opportunities
+      url: /take-action/volunteering-opportunities/
       image: /images/joshua_liang_1296x550.jpg
       subtitle: give back
       alt: Give back
