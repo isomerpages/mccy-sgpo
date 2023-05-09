@@ -35,7 +35,7 @@ sections:
       description: Find out how to tap potential partners or collaborators to
         actualise your ideas.
       button: learn more
-      url: Why
+      url: /about/why-partner/
       image: /images/20210306-loveourhood-katong-142_1.jpg
       alt: Collaborators Discussion
   - infopic:
