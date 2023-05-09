@@ -3,9 +3,7 @@ title: Get Funded
 permalink: /get-funded/
 description: ""
 ---
-**MCCY Funds**
-
-
+![](/images/Logos/mccy_logo.png)
 
 | [COMMUNITY INTEGRATION FUND](https://oursggrants.gov.sg/grants/cifprojectgrant/instruction) | [HARMONY FUND](https://oursggrants.gov.sg/grants/hfprojectgrant/instruction)| [OUR SINGAPORE FUND](https://oursggrants.gov.sg/grants/osfprojectgrant/instruction)|
 | -------- | -------- | -------- |
