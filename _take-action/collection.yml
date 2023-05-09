@@ -2,6 +2,6 @@ collections:
   take-action:
     output: true
     order:
-      - Submit your partnership idea.md
+      - Submit your partnership proposal.md
       - Explainer video.md
       - Checklist.md
