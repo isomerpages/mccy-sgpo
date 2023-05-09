@@ -22,7 +22,7 @@ sections:
           - title: Look for government grants
             url: /get-funded
           - title: Give back to community
-            url: /volunteering-opportunities/
+            url: /take-action/volunteering-opportunities/
   - infopic:
       title: All set with your partnership proposal?
       button: get started
