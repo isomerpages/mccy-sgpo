@@ -16,13 +16,13 @@ sections:
         title: What would you like to do?
         options:
           - title: Submit partnership proposal
-            url: /submit-your-partnership-ideas
+            url: /take-action/submit-your-partnership-proposal/
           - title: Find out more on partnerships
             url: /why-partner
           - title: Look for government grants
             url: /get-funded
           - title: Give back to community
-            url: ""
+            url: /volunteering-opportunities/
   - infopic:
       title: All set with your partnership proposal?
       button: get started
