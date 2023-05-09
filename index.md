@@ -15,7 +15,7 @@ sections:
       dropdown:
         title: What would you like to do?
         options:
-          - title: Submit your partnership idea
+          - title: Submit partnership proposal
             url: /submit-your-partnership-ideas
           - title: Find out more on partnerships
             url: /why-partner
