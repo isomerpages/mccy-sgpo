@@ -56,7 +56,7 @@ sections:
       title: Read Stories on Citizen Partnerships
       subtitle: get inspired
       button: learn more
-      url: /inpire
+      url: /get-inspired/
       image: /images/explore-stories_1296x550.jpg
       alt: Citizen Stories
 ---
