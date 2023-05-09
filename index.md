@@ -18,7 +18,7 @@ sections:
           - title: Submit partnership proposal
             url: /take-action/submit-your-partnership-proposal/
           - title: Find out more on partnerships
-            url: /why-partner
+            url: /about/why-partner/
           - title: Look for government grants
             url: /get-funded
           - title: Give back to community
