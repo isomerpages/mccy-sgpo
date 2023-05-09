@@ -24,7 +24,7 @@ sections:
           - title: Give back to community
             url: ""
   - infopic:
-      title: All set with your partnership idea?
+      title: All set with your partnership proposal?
       button: get started
       url: partnersio idea
       image: /images/parking-heroes_img_5022.jpg
