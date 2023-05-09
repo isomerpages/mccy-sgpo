@@ -26,7 +26,7 @@ sections:
   - infopic:
       title: All set with your partnership proposal?
       button: get started
-      url: partnersio idea
+      url: /take-action/submit-your-partnership-proposal/
       image: /images/parking-heroes_img_5022.jpg
       alt: Partnership idea
   - infopic:
