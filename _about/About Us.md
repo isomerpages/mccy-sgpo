@@ -3,6 +3,8 @@ title: About Us
 permalink: /about/about-us/
 description: ""
 ---
+# Singapore Government Partnerships Office
+
 At our company, we believe that partnerships are key to success. We value collaboration and work hard to build strong relationships with our partners.
 
 We understand that no company can thrive in isolation, and that's why we seek out like-minded organizations to work with. Our partnerships allow us to pool our resources and expertise, and to tackle challenges that we may not be able to handle on our own.
@@ -14,3 +16,21 @@ We also form partnerships with organizations in our community and beyond. We bel
 Above all, we strive to build partnerships that are mutually beneficial. We believe that everyone should come out ahead in a partnership, and we work hard to ensure that our partners feel supported and valued.
 
 If you're interested in exploring a partnership with us, we'd love to hear from you. Please don't hesitate to get in touch to learn more about how we can work together to achieve our shared goals.
+
+> SGPO has helped me in executing my ideas by connecting me to the right government agencies - Lisa
+
+* Submit now
+* Submit tomorrow
+* Submit forever
+
+1. Submit alone
+2. Submit together
+
+[www.sg](https://www.sg)
+
+
+
+| Get Funding | Resources | Groups | Groups |
+| -------- | -------- | -------- |-------- |
+| OurSG Grants Portal     | Common Spaces     | Self help groups    |Self help groups    |
+
