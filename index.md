@@ -58,4 +58,8 @@ sections:
       url: /get-inspired/
       image: /images/explore-stories_1296x550.jpg
       alt: Citizen Stories
+  - resources:
+      title: What help can you get?
+      subtitle: resources
+      button: Find out more
 ---
