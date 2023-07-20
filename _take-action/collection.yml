@@ -2,7 +2,6 @@ collections:
   take-action:
     output: true
     order:
-      - Example Title.md
       - Submit your partnership proposal.md
       - Explainer video.md
       - Checklist.md
