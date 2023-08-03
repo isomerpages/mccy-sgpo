@@ -28,7 +28,7 @@ If you're interested in exploring a partnership with us, we'd love to hear from 
 
 [www.sg](https://www.sg)
 
-
+![](/images/reach-fz---sgv2050-card---414x257.jpg)
 
 | Get Funding | Resources | Groups | Groups |
 | -------- | -------- | -------- |-------- |
