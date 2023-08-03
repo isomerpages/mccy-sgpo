@@ -33,4 +33,3 @@ If you're interested in exploring a partnership with us, we'd love to hear from 
 | Get Funding | Resources | Groups | Groups |
 | -------- | -------- | -------- |-------- |
 | OurSG Grants Portal     | Common Spaces     | Self help groups    |Self help groups    |
-
