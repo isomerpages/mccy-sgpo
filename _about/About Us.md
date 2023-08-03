@@ -5,31 +5,13 @@ description: ""
 ---
 # Singapore Government Partnerships Office
 
-At our company, we believe that partnerships are key to success. We value collaboration and work hard to build strong relationships with our partners.
+As Singapore faces more complex challenges in a world that is increasingly divided, our ambition is to grow citizens’ joint ownership in steering the country’s future. For a more mature and inclusive Singapore society, we want to build trust and care between citizens, the government and other sectors that make up the tapestry of our lives.
 
-We understand that no company can thrive in isolation, and that's why we seek out like-minded organizations to work with. Our partnerships allow us to pool our resources and expertise, and to tackle challenges that we may not be able to handle on our own.
+To achieve this, the Singapore Government Partnerships Office (SGPO) was officially launched in October 2023 following the Final Report of the Forward Singapore exercise.
 
-Our partnerships take many forms. We work with technology providers to ensure that our products are always up-to-date with the latest innovations. We collaborate with other companies to offer joint solutions to our customers, combining our strengths to deliver the best possible results.
+SGPO sets out to:
+* **Catalyse partnerships:** We serve as a first-stop for citizens and others keen on partnerships, by identifying opportunities for collaboration and connecting them with people and resources to help turn their ideas into action.
 
-We also form partnerships with organizations in our community and beyond. We believe in giving back, and we're proud to support causes that align with our values. By working together with these organizations, we can make a greater impact than we could on our own.
+* **Grow thought and practice leadership in partnerships and engagement:** We bring people together to share knowledge, expertise and best practices.
 
-Above all, we strive to build partnerships that are mutually beneficial. We believe that everyone should come out ahead in a partnership, and we work hard to ensure that our partners feel supported and valued.
-
-If you're interested in exploring a partnership with us, we'd love to hear from you. Please don't hesitate to get in touch to learn more about how we can work together to achieve our shared goals.
-
-> SGPO has helped me in executing my ideas by connecting me to the right government agencies - Lisa
-
-* Submit now
-* Submit tomorrow
-* Submit forever
-
-1. Submit alone
-2. Submit together
-
-[www.sg](https://www.sg)
-
-![](/images/reach-fz---sgv2050-card---414x257.jpg)
-
-| Get Funding | Resources | Groups | Groups |
-| -------- | -------- | -------- |-------- |
-| OurSG Grants Portal     | Common Spaces     | Self help groups    |Self help groups    |
+* **Drive public awareness and inspire action:** We tell stories on the most inspiring changemakers so more will step forward to serve their communities.
