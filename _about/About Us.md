@@ -7,7 +7,7 @@ description: ""
 
 As Singapore faces more complex challenges in a world that is increasingly divided, our ambition is to grow citizens’ joint ownership in steering the country’s future. For a more mature and inclusive Singapore society, we want to build trust and care between citizens, the government and other sectors that make up the tapestry of our lives.
 
-To achieve this, the Singapore Government Partnerships Office (SGPO) was officially launched in October 2023 following the Final Report of the Forward Singapore exercise.
+To achieve this, the Singapore Government Partnerships Office (SGPO) was officially launched in October 2023 following the [Final Report of the Forward Singapore exercise](https://www.forwardsingapore.gov.sg).
 
 SGPO sets out to:
 * **Catalyse partnerships:** We serve as a first-stop for citizens and others keen on partnerships, by identifying opportunities for collaboration and connecting them with people and resources to help turn their ideas into action.
