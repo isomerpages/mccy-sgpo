@@ -16,7 +16,7 @@ sections:
         title: What would you like to do?
         options:
           - title: Act on partnership proposal
-            url: /take-action/submit-your-partnership-proposal/
+            url: /take-action/take-action-today/
           - title: Find out more on SGPO
             url: /about/about-us/
           - title: Read stories and get inspired
