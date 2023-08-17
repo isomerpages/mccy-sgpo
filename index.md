@@ -15,20 +15,19 @@ sections:
       dropdown:
         title: What would you like to do?
         options:
-          - title: Submit partnership proposal
+          - title: Act on partnership proposal
             url: /take-action/submit-your-partnership-proposal/
           - title: Find out more on SGPO
             url: /about/about-us/
           - title: Read stories and get inspired
             url: /get-inspired
-          - title: Give back to community
-            url: /take-action/volunteering-opportunities/
   - infopic:
       title: All set with your partnership proposal?
       button: get started
       url: /take-action/submit-your-partnership-proposal/
       image: /images/parking-heroes_img_5022.jpg
       alt: Partnership idea
+      subtitle: Take Action
   - infopic:
       title: Why Take Action
       subtitle: why
