@@ -2,7 +2,7 @@ collections:
   take-action:
     output: true
     order:
-      - Submit your partnership proposal.md
+      - Take Action Today.md
       - Explainer video.md
       - Checklist.md
       - Volunteering Opportunities.md
