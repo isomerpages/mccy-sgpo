@@ -3,13 +3,13 @@ title: Useful resources
 permalink: /take-action/usefulresources/
 description: ""
 ---
-### Visit the following sites to look for other areas where you can take action too. 
+### Visit the following sites to look for other areas where you can also take action. 
 
 
 
-![](/images/education.png)|![](/images/picture12.png)|
-| --------| -------- |
-| [Ministry of Education](https://moe.gov.sg)| [National Volunteer and Philanthropy Centre](https://cityofgood.sg)  |
+| ![](/images/education%20v1.png) | ![](/images/ground%20ps.png) |
+| -------- | -------- |
+| [Ministry of Education](https://moe.gov.sg) |[National Volunteer and Philanthropy Centre](https://cityofgood.sg)     |
 
 
 
