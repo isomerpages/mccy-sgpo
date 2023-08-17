@@ -10,7 +10,6 @@ description: ""
 
 ### How to submit a proposal 
 
+![](/images/how%20to%20submit%20a%20proposal.png)
 
-![](/images/steps%20to%20submit%20a%20proposal.png)
-
-#### Click [here](https://go.gov.sg/takeactiontoday) to submit your proposal in partnership with the government!
+#### Click [here](https://go.gov.sg/takeactiontoday) to submit your proposal!
