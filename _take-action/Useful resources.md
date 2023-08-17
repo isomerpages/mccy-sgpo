@@ -3,9 +3,7 @@ title: Useful resources
 permalink: /take-action/usefulresources/
 description: ""
 ---
-### Other Sites 
-
-Visit the following sites to look for other areas where you can take action too. 
+### Visit the following sites to look for other areas where you can take action too. 
 
 
 
