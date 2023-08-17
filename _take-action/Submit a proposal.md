@@ -5,11 +5,8 @@ description: ""
 ---
 ### We welcome ideas and proposals that contribute to the public good of Singapore.
 
-**If you have an idea for a potential partnership with the Government, we would love to hear from you. **
+**If you have an idea for a potential partnership with the Government, we would love to hear from you.**
 
-**Visit our [partner's portal](https://www.sg/take-action/partnersportal/) to find out more about their current focus and how you might be table to take action. **
-
-There are also useful resources 
 
 ### How to submit a proposal 
 
