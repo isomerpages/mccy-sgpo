@@ -3,7 +3,7 @@ title: Get Inspired
 permalink: /get-inspired/
 description: ""
 ---
-#### Don't know how to start getting involved in partnerships with the government? Take some inspiration from these stories and projects.
+### Don't know how to start getting involved in partnerships with the government? Take some inspiration from these stories and projects.
 
 **Stories**
 * [Championing Online Safety](https://www.sg/stories/anita-low-lim---a-champion-of-online-safety)
