@@ -10,7 +10,7 @@ Visit the following sites to look for other areas where you can take action too.
 
 
 ![](/images/education.png)| ![](/images/picture12.png)|
-| ------- | -------- |
+| -------|---|
 | [Ministry of Education](https://moe.gov.sg)| [National Volunteer and Philanthropy Centre](https://cityofgood.sg)  |
 
 
