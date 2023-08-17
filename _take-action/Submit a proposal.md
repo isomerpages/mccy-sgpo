@@ -7,8 +7,7 @@ description: ""
 
 If you have an idea for a potential partnership with the Government, we would love to hear from you. 
 
-Click here to find out other useful resources. 
-
+Click [here](https://www.sg/take-action/usefulresources) to find out useful resources. 
 
 ### Submission Checklist 
 
