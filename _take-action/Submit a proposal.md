@@ -7,7 +7,7 @@ description: ""
 
 **If you have an idea for a potential partnership with the Government, we would love to hear from you. **
 
-**Visit our [partner's portal](https://www.sg/take-action/usefulresources/) to find out more about their current focus and how you might be table to take action. **
+**Visit our [partner's portal](https://www.sg/take-action/partnersportal/) to find out more about their current focus and how you might be table to take action. **
 
 There are also useful resources 
 
@@ -16,4 +16,4 @@ There are also useful resources
 
 ![](/images/steps%20to%20submit%20a%20proposal.png)
 
-#### Click [here](https://go.gov.sg/takeactiontoday) to submit your proposal!
+#### Click [here](https://go.gov.sg/takeactiontoday) to submit your proposal in partnership with the government!
