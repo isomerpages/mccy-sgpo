@@ -13,7 +13,7 @@ description: ""
 
 | ![](/images/housing.jpg) |![](/images/placemaking.jpg)|
 | -------- | -------- |
-| [Housing and Develpoment Board](https://hdb.gov.sg)     |[Ministry of National Development](https://mse.gov.sg)       |
+| [Housing and Development Board](https://hdb.gov.sg)     |[Ministry of National Development](https://mse.gov.sg)       |
 
 | ![](/images/sustainability%20111.jpg) |![](/images/youths111.jpg)|
 | -------- | -------- |
