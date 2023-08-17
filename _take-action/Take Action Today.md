@@ -21,7 +21,19 @@ A brief overview of the journey
 
 ![](/images/steps%20to%20submit%20a%20proposal.png)
 
-# Other Areas of Opportunities 
+# Areas of Opportunities 
 
-Citizens may also visit the following government agencies' microsites to find other areas of opportunities where you can submit a proposal related to a topic of interest. 
+Citizens may also visit the following government agencies' microsites to find other areas of opportunities where you can submit a proposal related to a topic of interest.
+
+![](/images/areas%20of%20opportunities.png)
+
+# Useful Resources 
+
+If you are looking for ... 
+
+
+
+| GRANTS ![](/images/whatsapp%20image_2.jpg) | VOLUNTEERING AND DONATION OPPORTUNITIES ![](/images/STOCK%20Photo_1.jpg) | SUPPORT FOR COMMERCIAL IDEAS ![](/images/20210306-loveourhood-katong-142_1.jpg) |
+| -------- | -------- | -------- |
+| There are various government grants that may support your idea. Visit [Our SG Grants Portal](https://oursggrants.gov.sg) to find out more.  | There are platforms for you to volunteer, donate and fundraise. Visit [Giving.SG](https://www.giving.sg) or [Volunteer.SG](https://www.volunteer.gov.sg/) to find out more. | For support of commerical ideas, you may visit the [Enterprise Development Grant](https://www.enterprisesg.gov.sg/financial-support/enterprise-development-grant) or the [Business Grants Portal](https://www.businessgrants.gov.sg/) to find out more.     
 
