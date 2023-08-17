@@ -19,8 +19,8 @@ sections:
             url: /take-action/submit-your-partnership-proposal/
           - title: Find out more on SGPO
             url: /about/about-us/
-          - title: Look for government grants
-            url: /get-funded
+          - title: Read stories and get inspired
+            url: /get-inspired
           - title: Give back to community
             url: /take-action/volunteering-opportunities/
   - infopic:
