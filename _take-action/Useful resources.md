@@ -3,9 +3,9 @@ title: Useful resources
 permalink: /take-action/usefulresources/
 description: ""
 ---
-# Existing Opportunities 
+### Other Sites 
 
-Visit the following micro sites to find other areas where you can take action too. 
+Visit the following sites to look for other areas where you can take action too. 
 
 ![](/images/education.png)
 [Ministry of Education](https://www.moe.gov.sg)   
