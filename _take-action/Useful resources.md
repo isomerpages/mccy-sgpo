@@ -7,7 +7,16 @@ description: ""
 
 Visit the following government agencies' microsites to find other areas where you can take action too. 
 
-![](/images/areas%20of%20opportunities.png)
+
+
+
+| ![](/images/education.png)| Column 2 |
+| -------- | -------- |
+| [Ministry of Education](https://www.moe.gov.sg)   | Text      |
+
+
+
+
 
 # If you are looking for ... 
 
