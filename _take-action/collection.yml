@@ -2,5 +2,6 @@ collections:
   take-action:
     output: true
     order:
+      - Useful Resources.md
       - Submit a proposal.md
       - Useful Resources/.keep
