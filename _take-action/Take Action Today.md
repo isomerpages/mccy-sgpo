@@ -27,7 +27,7 @@ We also welcome proposals on other issues, but please give us more time to respo
 
 # Existing Opportunities 
 
-Citizens may also visit the following government agencies' microsites to find other initiatives where you can take action too. 
+Visit the following government agencies' microsites to find opportunities where you can take action too. 
 
 ![](/images/areas%20of%20opportunities.png)
 
