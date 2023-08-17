@@ -24,4 +24,3 @@ We also welcome proposals on other issues, but please give us more time to respo
 ![](/images/steps%20to%20submit%20a%20proposal.png)
 
 #### Click [here](https://go.gov.sg/takeactiontoday) to submit your proposal!
-
