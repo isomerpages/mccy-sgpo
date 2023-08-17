@@ -5,13 +5,13 @@ description: ""
 ---
 # Singapore Government Partnerships Office
 
-As Singapore faces more complex challenges in a world that is increasingly divided, our ambition is to grow citizens’ joint ownership in steering the country’s future. For a more mature and inclusive Singapore society, we want to build trust and care between citizens, the government and other sectors that make up the tapestry of our lives.
+As Singapore faces more complex challenges in a world that is increasingly divided, all of us have a role to play in steering the country’s future. For a more mature and inclusive Singapore society, building trust and care between citizens, the government and other sectors is paramount.
 
-To achieve this, the Singapore Government Partnerships Office (SGPO) was officially launched in October 2023 following the [Final Report of the Forward Singapore exercise](https://www.forwardsingapore.gov.sg).
+To achieve this, the Singapore Government Partnerships Office (SGPO) was officially launched in October 2023, foll owing the [Final Report of the Forward Singapore exercise](https://www.forwardsingapore.gov.sg). Our mission is to help you partner with government and others to shape a better Singapore. 
 
-SGPO sets out to:
-* **Catalyse partnerships:** We serve as a first-stop for citizens and others keen on partnerships, by identifying opportunities for collaboration and connecting them with people and resources to help turn their ideas into action.
+SGPO:
+* Serves as a first-stop for citizens and others keen on partnerships, by identifying opportunities for collaboration. We connect stakeholders and resources to help turn ideas into action.
 
-* **Grow thought and practice leadership in partnerships and engagement:** We bring people together to share knowledge, expertise and best practices.
+* Brings people together to share knowledge, expertise and best practices.
 
-* **Drive public awareness and inspire action:** We tell stories on the most inspiring changemakers so more will step forward to serve their communities.
+* Shares stories on inspiring changemakers so more will step forward to serve their communities.
