@@ -3,7 +3,7 @@ title: Other Resources
 permalink: /take-action/otherresources/
 description: ""
 ---
-### If you are looking for ... 
+### If you are only looking for ... 
 
 
 
