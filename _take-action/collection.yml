@@ -2,6 +2,6 @@ collections:
   take-action:
     output: true
     order:
-      - Useful resources.md
       - Submit a proposal.md
       - Partners portal.md
+      - Useful resources.md
