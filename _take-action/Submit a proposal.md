@@ -7,11 +7,9 @@ description: ""
 
 If you have an idea for a potential partnership with the Government, we would love to hear from you. 
 
-Click [here](https://www.sg/take-action/usefulresources) to find out useful resources. 
+### How to submit a proposal 
 
-### Submission Checklist 
-
-#### **How to submit a proposal** 
+#### **3 step process** 
 
 ![](/images/steps%20to%20submit%20a%20proposal.png)
 
