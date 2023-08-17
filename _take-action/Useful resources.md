@@ -7,15 +7,17 @@ description: ""
 
 
 
-| ![](/images/sgpo%20education.png) | ![](/images/ground-ups.png) |
+| ![](/images/education%20111.jpg) | ![](/images/nvpc%2011.jpg) |
 | -------- | -------- |
 | [Ministry of Education](https://moe.gov.sg)     | [National Volunteer and Philanthropy Centre](https://cityofgood.sg)      |
 
-| ![](/images/sustainability.png) |![](/images/sgpo%20youths.png)|
+| ![](/images/housing.jpg) |![](/images/placemaking.jpg)|
+| -------- | -------- |
+| [Housing and Develpoment Board](https://hdb.gov.sg)     |[Ministry of National Development](https://mse.gov.sg)       |
+
+| ![](/images/sustainability%20111.jpg) |![](/images/youths111.jpg)|
 | -------- | -------- |
 | [Ministry of Sustainability and the Environment](https://mse.gov.sg)     | [National Youth Council](https://nyc.gov.sg)      |
-
-
 
 ### If you are looking for ... 
 
