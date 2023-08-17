@@ -5,14 +5,7 @@ description: ""
 ---
 ### Visit the following sites to look for other areas where you can also take action. 
 
-| ![](/images/education%20v1.png) | ![](/images/ground%20ps.png)|
-| --------| -------- |
-|  [Ministry of Education](https://moe.gov.sg)  |[National Volunteer and Philanthropy Centre](https://cityofgood.sg) |
 
-
-| ![](/images/picture13.png) | ![](/images/picture11.png)|
-| --------| -------- |
-|  [Ministry of Sustainability and the Environment](https://mse.gov.sg)  |[National Youth Council](https://nyc.gov.sg) |
 
 
 ### If you are looking for ... 
