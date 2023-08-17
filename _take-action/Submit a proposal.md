@@ -7,7 +7,7 @@ description: ""
 
 If you have an idea for a potential partnership with the Government, we would love to hear from you. 
 
-
+Click here to find out other useful resources. 
 
 
 ### Submission Checklist 
@@ -16,4 +16,4 @@ If you have an idea for a potential partnership with the Government, we would lo
 
 ![](/images/steps%20to%20submit%20a%20proposal.png)
 
-#### Click [here](https://go.gov.sg/takeactiontoday) to submit your proposal! 
+#### Click [here](https://go.gov.sg/takeactiontoday) to submit your proposal!
