@@ -10,9 +10,9 @@ Visit the following government agencies' microsites to find other areas where yo
 
 
 
-| ![](/images/education.png)| Column 2 |
+| ![](/images/education.png)| ![](/images/picture5.png) |
 | -------- | -------- |
-| [Ministry of Education](https://www.moe.gov.sg)   | Text      |
+| [Ministry of Education](https://www.moe.gov.sg)   | [National Volunteer and Philanthropy Centre](https://cityofgood.sg)     |
 
 
 
