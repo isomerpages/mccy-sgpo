@@ -29,30 +29,7 @@ sections:
       alt: Partnership idea
       subtitle: Take Action
   - infopic:
-      title: Why Take Action
-      subtitle: why
-      description: Find out how to tap potential partners or collaborators to
-        actualise your ideas.
-      button: learn more
-      url: about/why-partner/
-      image: /images/20210306-loveourhood-katong-142_1.jpg
-      alt: Collaborators Discussion
-  - infopic:
-      title: Learn More About Government Funding Opportunities
-      subtitle: get funded
-      button: start here
-      url: /get-funded
-      image: /images/ysn_whatsapp-image_2.jpg
-      alt: Planning to get funding
-  - infopic:
-      title: Volunteering and Donation Opportunities
-      button: learn more
-      url: /take-action/volunteering-opportunities/
-      image: /images/joshua_liang_1296x550.jpg
-      subtitle: give back
-      alt: Give back
-  - infopic:
-      title: Read Stories on Citizen Partnerships
+      title: Read Stories on Partnerships with Government and Others
       subtitle: get inspired
       button: learn more
       url: /get-inspired/
