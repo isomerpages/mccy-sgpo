@@ -3,7 +3,7 @@ title: Partners portal
 permalink: /take-action/partnersportal/
 description: ""
 ---
-### Visit the following sites to look for existing opportunities. 
+### Visit our partner websites to check out existing opportunities. 
 
 
 
@@ -13,7 +13,7 @@ description: ""
 
 | ![](/images/housing.jpg) |![](/images/placemaking.jpg)|
 | -------- | -------- |
-| [Housing and Development Board](https://hdb.gov.sg)     |[Ministry of National Development](https://mse.gov.sg)       |
+| [Housing and Development Board](https://hdb.gov.sg)     |[Ministry of National Development](https://mnd.gov.sg)       |
 
 | ![](/images/sustainability%20111.jpg) |![](/images/youths111.jpg)|
 | -------- | -------- |
