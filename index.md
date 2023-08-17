@@ -9,14 +9,15 @@ sections:
   - hero:
       title: Be the Change
       background: /images/masthead_1_participate-009_christmas_esplanadewaterfront.jpg
-      subtitle: We are dedicated to working with you - citizens and communities - to
-        co-create solutions for a better Singapore
+      subtitle: At the Singapore Government Partnerships Office (SGPO), we work with
+        you - citizens and communities - to co-create solutions for a better
+        Singapore
       dropdown:
         title: What would you like to do?
         options:
           - title: Submit partnership proposal
             url: /take-action/submit-your-partnership-proposal/
-          - title: Find out more on partnerships
+          - title: Find out more on SGPO
             url: /about/why-partner/
           - title: Look for government grants
             url: /get-funded
