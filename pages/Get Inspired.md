@@ -3,6 +3,7 @@ title: Get Inspired
 permalink: /get-inspired/
 description: ""
 ---
+Don't know how to start getting involved in partnerships with the government? Take some inspiration from these stories and projects.
 
 * [Mentoring SG](https://mentoring.sg/)
 * [NParks Friends of the Parks](https://fotp.nparks.gov.sg/)
