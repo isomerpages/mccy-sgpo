@@ -11,15 +11,19 @@ Currently, our focus is on
 * Community building
 * Education
 * Placemaking
-* Preventive Health
+* Preventive health
 
-If you have an idea for a potential partnership that relates to these issues, we would love to hear from you. If your proposal is on other issues, you are welcome to share it too, but do give us more time to respond. Read on to find out how you can do so!
+If you have an idea for a potential partnership that relates to these issues, we would love to hear from you. 
+
+We also welcome proposals on other issues, but please give us more time to respond. 
 
 # 3 Steps to Submit a Proposal
 
 ### A brief overview of the journey 
 
 ![](/images/steps%20to%20submit%20a%20proposal.png)
+
+#### Click [here](https://go.gov.sg/takeactiontoday) to submit your proposal! 
 
 # Areas of Opportunities 
 
