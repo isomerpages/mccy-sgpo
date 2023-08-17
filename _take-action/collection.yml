@@ -2,5 +2,6 @@ collections:
   take-action:
     output: true
     order:
+      - Existing Opportunities/Existing Opportunities.md
       - Existing Opportunities/.keep
       - Take Action Today.md
