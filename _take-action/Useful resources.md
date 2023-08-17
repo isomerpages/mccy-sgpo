@@ -7,19 +7,14 @@ description: ""
 
 Visit the following micro sites to find other areas where you can take action too. 
 
+![](/images/education.png)
+[Ministry of Education](https://www.moe.gov.sg)   
 
-| ![](/images/education.png)| ![](/images/picture5.png) |
-| -------- | -------- |
-| [Ministry of Education](https://www.moe.gov.sg)   | [National Volunteer and Philanthropy Centre](https://cityofgood.sg)     |
+![](/images/picture5.png) [National Volunteer and Philanthropy Centre](https://cityofgood.sg)   
 
+![](/images/sustainability.png)[Ministry of Sustainability and the Environment](https://mse.gov.sg)
 
-
-| ![](/images/sustainability.png)| ![](/images/youths.png)|
-| -------- | --------  |
-| [Ministry of Sustainability and the Environment](https://mse.gov.sg)     | [National Youth Council](https://nyc.gov.sg)  |
-
-
-
+![](/images/youths.png)[National Youth Council](https://nyc.gov.sg) 
 
 
 # If you are looking for ... 
@@ -30,4 +25,4 @@ Visit the following micro sites to find other areas where you can take action to
 | -------- | -------- | -------- |
 | There are various government grants that may support your idea. Visit [Our SG Grants Portal](https://oursggrants.gov.sg) to find out more.  | There are platforms for you to volunteer, donate and fundraise. Visit [Giving.SG](https://www.giving.sg) or [Volunteer.SG](https://www.volunteer.gov.sg/) to find out more. | For support of commerical ideas, you may visit the [Enterprise Development Grant](https://www.enterprisesg.gov.sg/financial-support/enterprise-development-grant) or the [Business Grants Portal](https://www.businessgrants.gov.sg/) to find out more.
 
-### If the above is not what you are looking for or if you are looking for a combination of one of more requests, kindly submit your proposal through this [form](https://go.gov.sg/takeactiontoday). 
+### If the above is not what you are looking for or if you are looking for a combination of one of more requests, kindly submit your proposal through this [form](https://go.gov.sg/takeactiontoday).
