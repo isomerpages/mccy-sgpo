@@ -7,8 +7,8 @@ description: ""
 
 
 
-![](/images/education.png)| ![](/images/picture12.png)|
-| -------|---|
+![](/images/education.png)|![](/images/picture12.png)|
+| --------| -------- |
 | [Ministry of Education](https://moe.gov.sg)| [National Volunteer and Philanthropy Centre](https://cityofgood.sg)  |
 
 
