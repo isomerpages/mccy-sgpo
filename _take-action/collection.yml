@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Submit a proposal.md
-      - Existing Opportunities/.keep
-      - Existing Opportunities/Existing Opportunities.md
+      - Useful Resources/.keep
+      - Useful Resources/Existing Opportunities.md
