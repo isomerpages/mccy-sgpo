@@ -10,6 +10,6 @@ If you have an idea for a potential partnership with the Government, we would lo
 
 ### How to submit a proposal 
 
-![](/images/how%20to%20submit%20a%20proposal.png)
+![](/images/how%20to%20submit%20a%20proposal-2.png)
 
 #### Click [here](https://go.gov.sg/takeactiontoday) to submit your proposal now.
