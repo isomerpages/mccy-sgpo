@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Be the Change
-      background: /images/masthead_1_participate-009_christmas_esplanadewaterfront.jpg
+      background: /images/masthead_1_hands_fromcanva.jpg
       subtitle: At the Singapore Government Partnerships Office (SGPO), we work with
         you - our citizens and communities - to co-create solutions for a better
         Singapore
