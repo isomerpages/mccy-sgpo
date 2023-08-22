@@ -22,4 +22,4 @@ description: ""
 | -------- | -------- |
 | [Ministry of Sustainability and the Environment](https://mse.gov.sg)     | [National Youth Council](https://nyc.gov.sg)      |
 
-**If the above is not what you are looking for, submit your proposal [here](https://go.gov.sg/takeactiontoday)**
+**If the above is not what you are looking for, submit your proposal [here](https://go.gov.sg/takeactiontoday).**
