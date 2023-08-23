@@ -22,8 +22,14 @@ description: ""
 |![](/images/Partners%20portal/arts%20and%20culture.png)<br>[National Arts Council](https://nac.gov.sg)|![](/images/Partners%20portal/arts%20and%20culture.png)<br>[National Arts Council](https://nac.gov.sg)|
 | -------- | -------- |
 
-| Text | Column 2 |
+|![](/images/Partners%20portal/arts%20and%20culture.png)<br>[National Arts Council](https://nac.gov.sg)|![](/images/Partners%20portal/arts%20and%20culture.png)<br>[National Arts Council](https://nac.gov.sg)|
 | -------- | -------- |
+
+
+
+| Column 1 | Column 2 |
+| -------- | -------- |
+| Text     | Text     |
 
 
 
