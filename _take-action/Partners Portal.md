@@ -21,18 +21,4 @@ description: ""
 | -------- | -------- |
 |    |    |
 
-|![](/images/Partners%20portal/arts%20and%20culture.png)<br>[National Arts Council](https://nac.gov.sg)|![](/images/Partners%20portal/arts%20and%20culture.png)<br>[National Arts Council](https://nac.gov.sg)|
-| -------- | -------- |
-
-|![](/images/Partners%20portal/arts%20and%20culture.png)<br>[National Arts Council](https://nac.gov.sg)|![](/images/Partners%20portal/arts%20and%20culture.png)<br>[National Arts Council](https://nac.gov.sg)|
-| -------- | -------- |
-
-
-
-| Column 1 | Column 2 |
-| -------- | -------- |
-|    |    |
-
-
-
 **If the above is not what you are looking for, submit your proposal [here](https://go.gov.sg/takeactiontoday).**
