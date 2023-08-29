@@ -31,4 +31,6 @@ description: ""
 * [Project Get Flamed!](https://www.projgetflamed.com/about/our-journey)
 * [SGFamilies](https://www.straitstimes.com/opinion/forum/forum-parent-volunteers-group-offers-support-to-families-under-stress?fbclid=IwAR3-AivF0sb2UvWC6Fu74RvboOww_uKFT2VeRs_JzMwyUn2beAqNz_FGpTo)
 * [ProjectLoveLunch](https://www.projectlovelunch.com/about)
-* 
+* [GoodHood.sg](https://www.goodhoodsg.com)
+* [Project Hills](https://www.theprojecthills.com)
+* [Fridge Restock Community](https://www.frc.sg)
