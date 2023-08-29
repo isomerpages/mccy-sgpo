@@ -5,6 +5,8 @@ description: ""
 ---
 [### Don't know how to start getting involved in partnerships with the government? Take some inspiration from these stories and projects.
 
+![](/images/ysn_whatsapp-image_2.jpg)
+
 **Stories**
 * [Championing Online Safety](https://www.sg/stories/anita-low-lim---a-champion-of-online-safety)
 * [Meet the Mountbatten Parking Heroes](https://www.sg/stories/mountbatten-parking-heroes)
