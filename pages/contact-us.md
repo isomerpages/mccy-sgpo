@@ -8,9 +8,9 @@ locations:
       - Old Hill Street Police Station
       - "140 Hill Street, #01-01A"
       - Singapore 179369
-    title: SGPO
     operating_hours: []
     maps_link: ""
+    title: SGPO
 contacts:
   - content:
       - phone: ""
