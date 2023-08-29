@@ -34,3 +34,4 @@ description: ""
 * [GoodHood.sg](https://www.goodhoodsg.com)
 * [Project Hills](https://www.theprojecthills.com)
 * [Fridge Restock Community](https://www.frc.sg)
+* [Well-being Circles](https://www.wellbeingcircles.sg/)
