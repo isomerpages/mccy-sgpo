@@ -3,7 +3,7 @@ title: Get Inspired
 permalink: /get-inspired/
 description: ""
 ---
-### Don't know how to start getting involved in partnerships with the government? Take some inspiration from these stories and projects.
+[### Don't know how to start getting involved in partnerships with the government? Take some inspiration from these stories and projects.
 
 **Stories**
 * [Championing Online Safety](https://www.sg/stories/anita-low-lim---a-champion-of-online-safety)
@@ -22,3 +22,13 @@ description: ""
 * [NParks Friends of the Parks](https://fotp.nparks.gov.sg/)
 * [Uplifting Pupils in Life and Inspiring Families Taskforce (UPLIFT)](https://www.straitstimes.com/singapore/politics/more-help-for-disadvantaged-and-special-needs-students-maliki-osman)
 * [Digital for Life movement: AfA on Online Ordering for Hawkers](https://www.whyq.sg/sghawkersonline)
+* [Digital for Life movement: AfA to Enhance Digital Readiness Skills and Literacy for Daily Living](https://together.smartnation.gov.sg)
+* [AfA on Corporate Purpose](https://www.thecompanyofgood.sg/corporate-purpose#alliance-for-action-on-corporate-purpose)
+* [AfA on Supply Chain Digitalisation](https://sgtradex.com/index.php)
+* [AfA on Sustainability](https://www.climateimpactx.com/about)
+* [AfA on Building Community Resilience at Cambridge Road](https://www.straitstimes.com/singapore/cambridge-road-residents-are-greening-their-neighbourhood-from-the-ground-up-heres-how-theyre-doing-it)
+* [AfA on Caregivers of Persons with Disabilities](https://caring.sg/#services)
+* [Project Get Flamed!](https://www.projgetflamed.com/about/our-journey)
+* [SGFamilies](https://www.straitstimes.com/opinion/forum/forum-parent-volunteers-group-offers-support-to-families-under-stress?fbclid=IwAR3-AivF0sb2UvWC6Fu74RvboOww_uKFT2VeRs_JzMwyUn2beAqNz_FGpTo)
+* [ProjectLoveLunch](https://www.projectlovelunch.com/about)
+* 
