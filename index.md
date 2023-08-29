@@ -25,7 +25,7 @@ sections:
       title: All set with your partnership proposal?
       button: get started
       url: /take-action/take-action-today/
-      image: /images/parking-heroes_img_5022.jpg
+      image: /images/ideas_submission_masthead.jpg
       alt: Partnership idea
       subtitle: Take Action
   - infopic:
