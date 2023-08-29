@@ -33,6 +33,6 @@ sections:
       subtitle: get inspired
       button: learn more
       url: /get-inspired/
-      image: /images/explore-stories_1296x550.jpg
+      image: /images/happinessinitiatives_sgpo.jpg
       alt: Citizen Stories
 ---
