@@ -33,6 +33,6 @@ sections:
       subtitle: get inspired
       button: learn more
       url: /get-inspired/
-      image: /images/stories-flats_masthead.jpg
+      image: /images/explore-stories_1296x550.jpg
       alt: Citizen Stories
 ---
