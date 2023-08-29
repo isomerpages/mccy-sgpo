@@ -20,3 +20,5 @@ description: ""
 * [Build for Good](https://www.build.gov.sg)
 * [Mentoring SG](https://mentoring.sg/)
 * [NParks Friends of the Parks](https://fotp.nparks.gov.sg/)
+* [Uplifting Pupils in Life and Inspiring Families Taskforce (UPLIFT)](https://www.straitstimes.com/singapore/politics/more-help-for-disadvantaged-and-special-needs-students-maliki-osman)
+* [Digital for Life movement: AfA on Online Ordering for Hawkers](https://www.whyq.sg/sghawkersonline)
