@@ -5,7 +5,7 @@ description: ""
 ---
 ### Visit our partner websites to check out existing opportunities. 
 
-|![](/images/Partners%20portal/arts%20and%20culture.png)<br>[National Arts Council](https://nac.gov.sg)|![](/images/Partners%20portal/community.png)[People's Association](https://pa.gov.sg)|
+|![](/images/Partners%20portal/arts%20and%20culture.png)<br>[National Arts Council](https://nac.gov.sg)|![](/images/Partners%20portal/community.png)<br>[People's Association](https://pa.gov.sg)|
 | -------- | -------- |
 |    |    |
 
