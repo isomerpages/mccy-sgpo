@@ -3,7 +3,7 @@ title: Partners Portal
 permalink: /take-action/partners-portal/
 description: ""
 ---
-### Visit our partner websites to check out existing opportunities. 
+### Visit our partners' websites to check out existing opportunities. 
 
 |![](/images/Partners%20portal/2_arts.png)<br>[National Arts Council](https://nac.gov.sg)|![](/images/Partners%20portal/3_communitybuilding.png)<br>[People's Association](https://pa.gov.sg)|
 | -------- | -------- |
