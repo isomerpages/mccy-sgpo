@@ -8,9 +8,11 @@ description: ""
 ![](/images/ysn_whatsapp-image_2.jpg)
 
 **Stories**
-* [Championing Online Safety](https://www.sg/stories/anita-low-lim---a-champion-of-online-safety)
-* [Greening Cambridge Road](https://www.straitstimes.com/singapore/cambridge-road-residents-are-greening-their-neighbourhood-from-the-ground-up-heres-how-theyre-doing-it)
-* [Otterly Enchanted: A Youth and her Love for Wildlife](https://www.sg/stories/anusha-shivram-youth-stewards-of-nature-afa)
+
+|![Championing Online Safety](/images/Get%20inspired/champion1.jpg)<br>[Championing Online Safety](https://www.sg/stories/anita-low-lim---a-champion-of-online-safety)|![Greening Cambridge](/images/Get%20inspired/greening.jpg)<br>[Greening Cambridge Road](https://www.straitstimes.com/singapore/cambridge-road-residents-are-greening-their-neighbourhood-from-the-ground-up-heres-how-theyre-doing-it)|![Otter](/images/Get%20inspired/otterly1.jpg)<br>[Otterly Enchanted: A Youth and her Love for Wildlife](https://www.sg/stories/anusha-shivram-youth-stewards-of-nature-afa)
+| -------- | -------- | -------- |
+|    |    |    |
+
 * [Making the Online Sphere Safer](https://www.straitstimes.com/singapore/this-22-year-old-is-tackling-online-harms-to-make-the-online-sphere-safer-for-her-peers)
 * [Meet the Mountbatten Parking Heroes](https://www.sg/stories/mountbatten-parking-heroes)
 * [Rekindling the Kampung Spirit with Technology](https://www.sg/stories/sgkampung)
