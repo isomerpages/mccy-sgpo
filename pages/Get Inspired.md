@@ -13,7 +13,7 @@ description: ""
 | -------- | -------- |
 |    |    |
 
-|![Otter](/images/Get%20inspired/otterly1.jpg)<br>[Otterly Enchanted: A Youth and her Love for Wildlife](https://www.sg/stories/anusha-shivram-youth-stewards-of-nature-afa)|![Online Sphere Safer](/images/Get%20inspired/onlinespheresafer1.jpg)<br>[Making the Online Sphere Safer](https://www.straitstimes.com/singapore/this-22-year-old-is-tackling-online-harms-to-make-the-online-sphere-safer-for-her-peers)
+|![Otter](/images/Get%20inspired/otterly1.jpg)<br>[Otterly Enchanted](https://www.sg/stories/anusha-shivram-youth-stewards-of-nature-afa)|![Online Sphere Safer](/images/Get%20inspired/onlinespheresafer1.jpg)<br>[Making the Online Sphere Safer](https://www.straitstimes.com/singapore/this-22-year-old-is-tackling-online-harms-to-make-the-online-sphere-safer-for-her-peers)
 | -------- | -------- |
 |    |    |
 
