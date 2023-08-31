@@ -9,16 +9,19 @@ description: ""
 
 **Stories**
 
-|![Championing Online Safety](/images/Get%20inspired/champion1.jpg)<br>[Championing Online Safety](https://www.sg/stories/anita-low-lim---a-champion-of-online-safety)|![Greening Cambridge](/images/Get%20inspired/greening.jpg)<br>[Greening Cambridge Road](https://www.straitstimes.com/singapore/cambridge-road-residents-are-greening-their-neighbourhood-from-the-ground-up-heres-how-theyre-doing-it)
+|![Championing Online Safety](/images/Get%20inspired/champion2.jpg)<br>[Championing Online Safety](https://www.sg/stories/anita-low-lim---a-champion-of-online-safety)|![Greening Cambridge Road](/images/Get%20inspired/greening-cambridge-road2.jpg)<br>[Greening Cambridge Road](https://www.straitstimes.com/singapore/cambridge-road-residents-are-greening-their-neighbourhood-from-the-ground-up-heres-how-theyre-doing-it)
 | -------- | -------- |
 |    |    |
 
-|![Otter](/images/Get%20inspired/otterly1.jpg)<br>[Otterly Enchanted](https://www.sg/stories/anusha-shivram-youth-stewards-of-nature-afa)|![Online Sphere Safer](/images/Get%20inspired/onlinespheresafer1.jpg)<br>[Making the Online Sphere Safer](https://www.straitstimes.com/singapore/this-22-year-old-is-tackling-online-harms-to-make-the-online-sphere-safer-for-her-peers)
+|![Otterly Enchanted](/images/Get%20inspired/otterly-enchanted2.jpg)<br>[Otterly Enchanted](https://www.sg/stories/anusha-shivram-youth-stewards-of-nature-afa)|![Making Online Sphere Safer](/images/Get%20inspired/online-sphere-safer2.jpg)<br>[Making the Online Sphere Safer](https://www.straitstimes.com/singapore/this-22-year-old-is-tackling-online-harms-to-make-the-online-sphere-safer-for-her-peers)
 | -------- | -------- |
 |    |    |
 
-* [Meet the Mountbatten Parking Heroes](https://www.sg/stories/mountbatten-parking-heroes)
-* [Rekindling the Kampung Spirit with Technology](https://www.sg/stories/sgkampung)
+|![Mountbatten Parking Heroes](/images/Get%20inspired/mountbatten-parking-heroes2.jpg)<br>[Meet the Mountbatten Parking Heroes](https://www.sg/stories/mountbatten-parking-heroes)|![Rekindling Kampung Spirit](/images/Get%20inspired/rekindling-kampung-spirit2.jpg)<br>[Rekindling the Kampung Spirit with Technology](https://www.sg/stories/sgkampung)
+| -------- | -------- |
+|    |    |
+
+
 * [Turning Adversity into Opportunity to Help Others](https://www.straitstimes.com/singapore/mother-of-kids-with-special-needs-turns-adversity-into-an-opportunity-to-help-others)
 
 **Alliances for Action (AfAs)**
