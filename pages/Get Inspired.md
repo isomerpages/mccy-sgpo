@@ -3,7 +3,7 @@ title: Get Inspired
 permalink: /get-inspired/
 description: ""
 ---
-##### **Want to start getting involved in partnerships with the government but don't know how? Take some inspiration from these stories and projects.**
+#### **Want to start getting involved in partnerships with the government but don't know how? Take some inspiration from these stories and projects.**
 
 ![Mountbatten Parking Heroes](/images/img_mountbatten-parking-hero---1296x550.jpg)
 
