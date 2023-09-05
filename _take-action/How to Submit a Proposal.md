@@ -12,4 +12,4 @@ If you have an idea for a potential partnership with the Government, we would lo
 
 ![](/images/how%20to%20submit%20a%20proposal-2.png)
 
-#### Click [here](https://go.gov.sg/takeactiontoday) to submit your proposal now.
+#### Click [here](https://go.gov.sg/sgpostageform) to take action now.
