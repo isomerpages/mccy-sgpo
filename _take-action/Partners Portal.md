@@ -13,7 +13,7 @@ description: ""
 | -------- | -------- |
 |    |    |
 
-|![](/images/Partners%20portal/8_housing1.png)<br>[Love Our Hood Initiative](https://www.mnd.gov.sg/mso/initiatives/love-our-'hood-initiative) |![](/images/Partners%20portal/4_preventivehealth1.png)<br>[Ministry of Health](https://moh.gov.sg) |
+|![](/images/Partners%20portal/8_housing1.png)<br>[Love Our Hood Initiative](https://www.mnd.gov.sg/mso/initiatives/love-our-'hood-initiative) |![](/images/Partners%20portal/4_preventivehealth1.png)<br>[HPB Partnership Opportunites](https://hpb.gov.sg/partners/partnership-opportunities) |
 | -------- | -------- |
 |    |    |
 
