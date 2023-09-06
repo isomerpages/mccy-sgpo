@@ -1,0 +1,4 @@
+collections:
+  get-inspired:
+    output: true
+    order: []
