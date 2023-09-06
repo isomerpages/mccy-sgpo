@@ -8,7 +8,7 @@ description: ""
 If you have an idea for a potential partnership with the Government, we would love to hear from you.
 
 
-### How to submit a proposal 
+### Process for Sharing a Proposal 
 
 ![](/images/how%20to%20submit%20a%20proposal-2.png)
 
