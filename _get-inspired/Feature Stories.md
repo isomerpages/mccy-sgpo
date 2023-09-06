@@ -33,8 +33,11 @@ description: ""
 | -------- | -------- |
 |    |    |
 
+|![Turning Adversity into Opportunities](/images/Get%20inspired/adversityintoopportunities.jpg)<br>[Turning Adversity into Opportunity to Help Others](https://www.straitstimes.com/singapore/mother-of-kids-with-special-needs-turns-adversity-into-an-opportunity-to-help-others)|
+| -------- | -------- |
+|    |    |
 
-* [Turning Adversity into Opportunity to Help Others](https://www.straitstimes.com/singapore/mother-of-kids-with-special-needs-turns-adversity-into-an-opportunity-to-help-others)
+* 
 
 **Community Projects**
 * [Build for Good](https://www.build.gov.sg)
