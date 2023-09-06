@@ -39,13 +39,13 @@ description: ""
 
 **Community Projects**
 * [Build for Good](https://www.build.gov.sg)
-**|** [Students create app that lets users scan barcodes on packaging to see how items can be recycled](https://www.straitstimes.com/singapore/students-create-app-that-lets-users-scan-barcodes-on-packaging-to-see-how-items-can-be-recycled)
-* [GoodHood.sg](https://www.goodhoodsg.com) **|** [With GoodHood, kampung spirit is only a tap away](https://www.goodhoodsg.com/post/with-goodhood-kampung-spirit-is-only-a-tap-away)
-* [Fridge Restock Community](https://www.frc.sg) **|** [The Stories Behind: Fridge Restock Community, a ground-up food rescue group founded by a Little India shopowner](https://www.todayonline.com/singapore/stories-behind-fridge-restock-community-daniel-yap-2164221)
+| [Students create app that lets users scan barcodes on packaging to see how items can be recycled](https://www.straitstimes.com/singapore/students-create-app-that-lets-users-scan-barcodes-on-packaging-to-see-how-items-can-be-recycled)
+* [GoodHood.sg](https://www.goodhoodsg.com) | [With GoodHood, kampung spirit is only a tap away](https://www.goodhoodsg.com/post/with-goodhood-kampung-spirit-is-only-a-tap-away)
+* [Fridge Restock Community](https://www.frc.sg) | [The Stories Behind: Fridge Restock Community, a ground-up food rescue group founded by a Little India shopowner](https://www.todayonline.com/singapore/stories-behind-fridge-restock-community-daniel-yap-2164221)
 * [Project Get Flamed!](https://www.projgetflamed.com/about/our-journey)
-* [Project Hills](https://www.theprojecthills.com) **|** [Paying it forward](https://www.gov.sg/article/zulayqha-zulkifli)
+* [Project Hills](https://www.theprojecthills.com) | [Paying it forward](https://www.gov.sg/article/zulayqha-zulkifli)
 
 * [ProjectLoveLunch](https://www.projectlovelunch.com/about) | [It’s a family affair: Project Love Lunch brings residents closer](https://pride.kindness.sg/its-a-family-affair-yishun-block-carnival-brings-residents-together/)
-* [SGFamilies](https://www.facebook.com/SGFamilies/) **|** [Parent volunteers' group offers support to families under stress
+* [SGFamilies](https://www.facebook.com/SGFamilies/) | [Parent volunteers' group offers support to families under stress
 ](https://www.straitstimes.com/opinion/forum/forum-parent-volunteers-group-offers-support-to-families-under-stress?fbclid=IwAR3-AivF0sb2UvWC6Fu74RvboOww_uKFT2VeRs_JzMwyUn2beAqNz_FGpTo)
-* [Well-being Circles](https://www.wellbeingcircles.sg/) **|** [Heartland 'well-being circles' to be formed to safeguard mental health of S'poreans](https://www.straitstimes.com/singapore/community/nationwide-network-for-citizens-mental-health-to-run-well-being-circles)
+* [Well-being Circles](https://www.wellbeingcircles.sg/) | [Heartland 'well-being circles' to be formed to safeguard mental health of S'poreans](https://www.straitstimes.com/singapore/community/nationwide-network-for-citizens-mental-health-to-run-well-being-circles)
