@@ -7,6 +7,8 @@ description: ""
 
 ![Mountbatten Parking Heroes](/images/img_mountbatten-parking-hero---1296x550.jpg)
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/hXDrydjN6YA?si=7-b83B80opawml-8" height="315" width="560"></iframe>
+
 **Stories**
 
 |![Championing Online Safety](/images/Get%20inspired/champion2.jpg)<br>[Championing Online Safety](https://www.sg/stories/anita-low-lim---a-champion-of-online-safety)|![Greening Cambridge Road](/images/Get%20inspired/greening-cambridge-road2.jpg)<br>[Greening Cambridge Road](https://www.straitstimes.com/singapore/cambridge-road-residents-are-greening-their-neighbourhood-from-the-ground-up-heres-how-theyre-doing-it)
