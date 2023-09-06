@@ -21,4 +21,4 @@ description: ""
 | -------- | -------- |
 |    |    |
 
-**If the above is not what you are looking for, submit your proposal [here](https://go.gov.sg/sgpostageform).**
+**If the above is not what you are looking for, share your proposal [here](https://go.gov.sg/sgpostageform).**
