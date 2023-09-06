@@ -13,6 +13,10 @@ description: ""
 | -------- | -------- |
 |    |    |
 
+|<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/4i9bShjI8wk?si=NcSzWPqYVqPj9O8p" height="169" width="300"></iframe>|<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5EUBAoSq5Hk?si=Q9LljYJDCA3uYgef" height="169" width="300"></iframe>
+| -------- | -------- |
+|    |    |
+
 **Stories**
 
 |![Championing Online Safety](/images/Get%20inspired/champion2.jpg)<br>[Championing Online Safety](https://www.sg/stories/anita-low-lim---a-champion-of-online-safety)|![Greening Cambridge Road](/images/Get%20inspired/greening-cambridge-road2.jpg)<br>[Greening Cambridge Road](https://www.straitstimes.com/singapore/cambridge-road-residents-are-greening-their-neighbourhood-from-the-ground-up-heres-how-theyre-doing-it)
