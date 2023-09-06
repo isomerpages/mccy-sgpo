@@ -1,8 +1,8 @@
 logo: /images/Logos/sgpo_logo_4.png
 links:
-  - title: About
-    collection: about
   - title: Take action
     collection: take-action
   - title: Get Inspired
     url: /get-inspired
+  - title: About
+    collection: about
