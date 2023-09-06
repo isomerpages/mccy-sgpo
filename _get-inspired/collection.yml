@@ -1,4 +1,5 @@
 collections:
   get-inspired:
     output: true
-    order: []
+    order:
+      - Alliances for Action.md
