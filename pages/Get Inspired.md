@@ -44,10 +44,12 @@ description: ""
 
 **Community Projects**
 * [Build for Good](https://www.build.gov.sg)
+* [Students create app that lets users scan barcodes on packaging to see how items can be recycled](https://www.straitstimes.com/singapore/students-create-app-that-lets-users-scan-barcodes-on-packaging-to-see-how-items-can-be-recycled)
 * [GoodHood.sg](https://www.goodhoodsg.com)
 * [Fridge Restock Community](https://www.frc.sg)
 * [Project Get Flamed!](https://www.projgetflamed.com/about/our-journey)
 * [Project Hills](https://www.theprojecthills.com)
 * [ProjectLoveLunch](https://www.projectlovelunch.com/about)
-* [SGFamilies](https://www.straitstimes.com/opinion/forum/forum-parent-volunteers-group-offers-support-to-families-under-stress?fbclid=IwAR3-AivF0sb2UvWC6Fu74RvboOww_uKFT2VeRs_JzMwyUn2beAqNz_FGpTo)
+* [Parent volunteers' group offers support to families under stress
+](https://www.straitstimes.com/opinion/forum/forum-parent-volunteers-group-offers-support-to-families-under-stress?fbclid=IwAR3-AivF0sb2UvWC6Fu74RvboOww_uKFT2VeRs_JzMwyUn2beAqNz_FGpTo)
 * [Well-being Circles](https://www.wellbeingcircles.sg/)
