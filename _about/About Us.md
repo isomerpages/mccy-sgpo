@@ -13,4 +13,4 @@ SGPO:
 
 * Brings people together to share knowledge, expertise and best practices on effective partnerships.
 
-* Shares stories on inspiring changemakers, to encourage more to step forward and contribute. 
+* Shares stories on inspiring changemakers, to encourage more to step forward and contribute.
