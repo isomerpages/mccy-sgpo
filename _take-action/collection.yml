@@ -2,6 +2,6 @@ collections:
   take-action:
     output: true
     order:
-      - How to Submit a Proposal.md
+      - How to Share a Proposal.md
       - Partners Portal.md
       - Useful Information.md
