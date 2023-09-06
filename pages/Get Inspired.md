@@ -44,7 +44,7 @@ description: ""
 
 **Community Projects**
 * [Build for Good](https://www.build.gov.sg)
-* [Students create app that lets users scan barcodes on packaging to see how items can be recycled](https://www.straitstimes.com/singapore/students-create-app-that-lets-users-scan-barcodes-on-packaging-to-see-how-items-can-be-recycled)
+| [Students create app that lets users scan barcodes on packaging to see how items can be recycled](https://www.straitstimes.com/singapore/students-create-app-that-lets-users-scan-barcodes-on-packaging-to-see-how-items-can-be-recycled)
 * [GoodHood.sg](https://www.goodhoodsg.com)
 * [Fridge Restock Community](https://www.frc.sg)
 * [Project Get Flamed!](https://www.projgetflamed.com/about/our-journey)
