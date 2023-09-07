@@ -32,7 +32,7 @@ sections:
       title: Read partnership stories
       subtitle: get inspired
       button: learn more
-      url: /get-inspired/
+      url: /feature-stories/
       image: /images/happinessinitiatives_sgpo.jpg
       alt: Citizen Stories
 ---
