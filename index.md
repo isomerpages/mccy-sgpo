@@ -18,7 +18,7 @@ sections:
           - title: Take action on a proposal
             url: /take-action/take-action-today/
           - title: Read stories and get inspired
-            url: /feature-stories
+            url: /feature-stories/
           - title: Find out more about us
             url: /about/about-us/
   - infopic:
