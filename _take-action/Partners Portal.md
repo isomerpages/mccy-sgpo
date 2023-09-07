@@ -5,7 +5,7 @@ description: ""
 ---
 ### Visit our partners' websites to check out existing opportunities. 
 
-![](/images/Partners%20portal/partners%20portal-2.png)<br>[Volunteer.SG](https://www.volunteer.gov.sg)|![](/images/Partners%20portal/2_arts1.png)<br>[Our SG Arts Plan (2023 -2027)](https://nac.gov.sg/about-us/oursgartsplan/join-the-making)|
+|![](/images/Partners%20portal/partners%20portal-2.png)<br>[Volunteer.SG](https://www.volunteer.gov.sg)|![](/images/Partners%20portal/2_arts1.png)<br>[Our SG Arts Plan (2023 -2027)](https://nac.gov.sg/about-us/oursgartsplan/join-the-making)|
 | -------- | -------- |
 |    |    |
 
