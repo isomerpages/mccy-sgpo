@@ -9,7 +9,7 @@ description: ""
 | -------- | -------- |
 |    |    |
 
-|![](/images/Partners%20portal/1_education1.png)<br>[Ministry of Education](https://moe.gov.sg)|![](/images/Partners%20portal/7_groundupgroups1.png)<br>[Ground Up Central](https://groundupcentral.sg)|
+|![](/images/Partners%20portal/1_education1.png)<br>[Partnership Engagement Office](https://moe.gov.sg)|![](/images/Partners%20portal/7_groundupgroups1.png)<br>[Ground Up Central](https://groundupcentral.sg)|
 | -------- | -------- |
 |    |    |
 
@@ -17,7 +17,7 @@ description: ""
 | -------- | -------- |
 |    |    |
 
-| ![](/images/Partners%20portal/6_sustainability1.png)<br>[SG Eco Fund](https://mse.gov.sg/sgecofund)|![](/images/Partners%20portal/5_youths1.png)<br>- [Love Our Hood Youth Engagement](https://www.mnd.gov.sg/mso/initiatives/youth-engagement-initiatives)<br>- [Mentoring.SG](https://mentoring.sg/)|
+| ![](/images/Partners%20portal/6_sustainability1.png)<br>[SG Eco Fund](https://mse.gov.sg/sgecofund)|![](/images/Partners%20portal/5_youths1.png)<br>- [Youth Action Challenge](https:/youthactionplan.sg)<br>- [Mentoring.SG](https://mentoring.sg/)|
 | -------- | -------- |
 |    |    |
 
