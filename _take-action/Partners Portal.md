@@ -9,11 +9,11 @@ description: ""
 | -------- | -------- |
 |    |    |
 
-|![](/images/Partners%20portal/1_education1.png)<br>[Partnership Engagement Office](https://moe.gov.sg)|![](/images/Partners%20portal/7_groundupgroups1.png)<br>[Ground Up Central](https://groundupcentral.sg)|
+|![](/images/Partners%20portal/1_education1.png)<br>[MOE Partnership Engagement Office](https://moe.gov.sg)|![](/images/Partners%20portal/7_groundupgroups1.png)<br>[Ground Up Central](https://groundupcentral.sg)|
 | -------- | -------- |
 |    |    |
 
-|![](/images/Partners%20portal/9_placemaking1.png)<br>[Love Our Hood Initiative](https://www.mnd.gov.sg/mso/initiatives/love-our-'hood-initiative) |![](/images/Partners%20portal/4_preventivehealth1.png)<br>[HPB Partnership Opportunites](https://hpb.gov.sg/partners/partnership-opportunities) |
+|![](/images/Partners%20portal/9_placemaking1.png)<br>[Love Our Hood Initiative](https://www.mnd.gov.sg/mso/initiatives/love-our-'hood-initiative) |![](/images/Partners%20portal/4_preventivehealth1.png)<br>[Health Promotion Bord](https://hpb.gov.sg/partners/partnership-opportunities) |
 | -------- | -------- |
 |    |    |
 
