@@ -39,18 +39,6 @@ description: ""
 |    |    |
 
 **Community Projects**
-|![Build for Good](/images/Get%20inspired/proj_buildforgood.jpg)<br>[Build for Good](https://www.build.gov.sg)<br>[Students create app that lets users scan barcodes on packaging to see how items can be recycled](https://www.straitstimes.com/singapore/students-create-app-that-lets-users-scan-barcodes-on-packaging-to-see-how-items-can-be-recycled)|![Good Hood](/images/Get%20inspired/proj_goodhood.jpg)<br>[GoodHood.sg](ttps://www.goodhoodsg.com)<br> [With GoodHood, kampung spirit is only a tap away](https://www.goodhoodsg.com/post/with-goodhood-kampung-spirit-is-only-a-tap-away) here we go again please
-| -------- | -------- |
-|    |    |
-
-<table>
- <tbody><tr>
-  <td><img style="width:370px;height:220px" src="/images/Get%20inspired/proj_buildforgood.jpg"><br><a href="https://www.build.gov.sg">Build for Good</a> | <a href="https://www.straitstimes.com/singapore/students-create-app-that-lets-users-scan-barcodes-on-packaging-to-see-how-items-can-be-recycled">Students create app that lets users scan barcodes on packaging to see how items can be recycled</a></td>
-  <td><img style="width:370px;height:220px" src="/images/Get%20inspired/proj_goodhood.jpg"><br>
-<a href="https://www.goodhoodsg.com">GoodHood.sg</a> | 
-<a href="https://www.goodhoodsg.com/post/with-goodhood-kampung-spirit-is-only-a-tap-away">With GoodHood, kampung spirit is only a tap away</a></td>
- </tr>
-</tbody></table>
 
 * [Build for Good](https://www.build.gov.sg): [Students create app that lets users scan barcodes on packaging to see how items can be recycled](https://www.straitstimes.com/singapore/students-create-app-that-lets-users-scan-barcodes-on-packaging-to-see-how-items-can-be-recycled)
 * [GoodHood.sg](https://www.goodhoodsg.com): [With GoodHood, kampung spirit is only a tap away](https://www.goodhoodsg.com/post/with-goodhood-kampung-spirit-is-only-a-tap-away)
