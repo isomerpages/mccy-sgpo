@@ -6,21 +6,20 @@ description: ""
 #### **Want to start getting involved in partnerships with the government but don't know how? Take some inspiration from these stories and projects.**
 
 ![Mountbatten Parking Heroes](/images/img_mountbatten-parking-hero---1296x550.jpg)
-
-<table>
- <tbody><tr>
-  <td><iframe width="350" height="197" src="https://www.youtube.com/embed/hXDrydjN6YA?si=7-b83B80opawml-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></td>
-  <td><iframe width="350" height="197" src="https://www.youtube.com/embed/Op59MmD3hCM?si=hAW2zW8VKt13lRFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></td>
- </tr>
-</tbody></table>
-<table>
- <tbody><tr>
-  <td><iframe width="350" height="197" src="https://www.youtube.com/embed/4i9bShjI8wk?si=NcSzWPqYVqPj9O8p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></td>
-  <td><iframe width="350" height="197" src="https://www.youtube.com/embed/5EUBAoSq5Hk?si=Q9LljYJDCA3uYgef" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></td>
- </tr>
-</tbody></table>
-
 **Stories**
+
+<table>
+ <tbody><tr>
+  <td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/hXDrydjN6YA?si=7-b83B80opawml-8" height="197" width="350"></iframe></td>
+  <td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Op59MmD3hCM?si=hAW2zW8VKt13lRFD" height="197" width="350"></iframe></td>
+ </tr>
+</tbody></table>
+<table>
+ <tbody><tr>
+  <td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/4i9bShjI8wk?si=NcSzWPqYVqPj9O8p" height="197" width="350"></iframe></td>
+  <td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5EUBAoSq5Hk?si=Q9LljYJDCA3uYgef" height="197" width="350"></iframe></td>
+ </tr>
+</tbody></table>
 
 |![Championing Online Safety](/images/Get%20inspired/champion2.jpg)<br>[Championing Online Safety](https://www.sg/stories/anita-low-lim---a-champion-of-online-safety)|![Greening Cambridge Road](/images/Get%20inspired/greening-cambridge-road2.jpg)<br>[Greening Cambridge Road](https://www.straitstimes.com/singapore/cambridge-road-residents-are-greening-their-neighbourhood-from-the-ground-up-heres-how-theyre-doing-it)
 | -------- | -------- |
@@ -39,9 +38,21 @@ description: ""
 |    |    |
 
 **Community Projects**
+|![Build for Good](/images/Get%20inspired/proj_buildforgood.jpg)<br>[Build for Good](https://www.build.gov.sg)<br>[Students create app that lets users scan barcodes on packaging to see how items can be recycled](https://www.straitstimes.com/singapore/students-create-app-that-lets-users-scan-barcodes-on-packaging-to-see-how-items-can-be-recycled)|![Good Hood](/images/Get%20inspired/proj_goodhood.jpg)<br>[GoodHood.sg](ttps://www.goodhoodsg.com)<br> [With GoodHood, kampung spirit is only a tap away](https://www.goodhoodsg.com/post/with-goodhood-kampung-spirit-is-only-a-tap-away) here we go again please
+| -------- | -------- |
+|    |    |
+
+<table>
+ <tbody><tr>
+  <td><img src="/images/Get%20inspired/proj_buildforgood.jpg" width="370"><br><a href="https://www.build.gov.sg">Build for Good</a> | <a href="https://www.straitstimes.com/singapore/students-create-app-that-lets-users-scan-barcodes-on-packaging-to-see-how-items-can-be-recycled">Students create app that lets users scan barcodes on packaging to see how items can be recycled</a></td>
+  <td><img src="/images/Get%20inspired/proj_buildforgood.jpg" width="370"><br>
+<a href="https://www.goodhoodsg.com">GoodHood.sg</a> | 
+<a href="https://www.goodhoodsg.com/post/with-goodhood-kampung-spirit-is-only-a-tap-away">With GoodHood, kampung spirit is only a tap away</a></td>
+ </tr>
+</tbody></table>
 
 * [Build for Good](https://www.build.gov.sg): [Students create app that lets users scan barcodes on packaging to see how items can be recycled](https://www.straitstimes.com/singapore/students-create-app-that-lets-users-scan-barcodes-on-packaging-to-see-how-items-can-be-recycled)
-* [GoodHood.sg](ttps://www.goodhoodsg.com): [With GoodHood, kampung spirit is only a tap away](https://www.goodhoodsg.com/post/with-goodhood-kampung-spirit-is-only-a-tap-away)
+* [GoodHood.sg](https://www.goodhoodsg.com): [With GoodHood, kampung spirit is only a tap away](https://www.goodhoodsg.com/post/with-goodhood-kampung-spirit-is-only-a-tap-away)
 * [Fridge Restock Community](https://www.frc.sg): [The Stories Behind: Fridge Restock Community, a ground-up food rescue group founded by a Little India shopowner](https://www.todayonline.com/singapore/stories-behind-fridge-restock-community-daniel-yap-2164221)
 * [Project Get Flamed](https://www.projgetflamed.com/about/our-journey)
 * [Project Hills](https://www.theprojecthills.com): [Paying it forward](https://www.gov.sg/article/zulayqha-zulkifli)
