@@ -11,14 +11,14 @@ description: ""
 
 <table>
  <tbody><tr>
-  <td><iframe width="350" height="197" src="https://www.youtube.com/embed/hXDrydjN6YA?si=7-b83B80opawml-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></td>
-  <td><iframe width="350" height="197" src="https://www.youtube.com/embed/Op59MmD3hCM?si=hAW2zW8VKt13lRFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></td>
+  <td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/hXDrydjN6YA?si=7-b83B80opawml-8" height="197" width="350"></iframe></td>
+  <td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Op59MmD3hCM?si=hAW2zW8VKt13lRFD" height="197" width="350"></iframe></td>
  </tr>
 </tbody></table>
 <table>
  <tbody><tr>
-  <td><iframe width="350" height="197" src="https://www.youtube.com/embed/4i9bShjI8wk?si=NcSzWPqYVqPj9O8p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></td>
-  <td><iframe width="350" height="197" src="https://www.youtube.com/embed/5EUBAoSq5Hk?si=Q9LljYJDCA3uYgef" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></td>
+  <td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/4i9bShjI8wk?si=NcSzWPqYVqPj9O8p" height="197" width="350"></iframe></td>
+  <td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5EUBAoSq5Hk?si=Q9LljYJDCA3uYgef" height="197" width="350"></iframe></td>
  </tr>
 </tbody></table>
 
@@ -45,8 +45,8 @@ description: ""
 
 <table>
  <tbody><tr>
-  <td><img width="370" src="/images/Get%20inspired/proj_buildforgood.jpg"><br><a href="https://www.build.gov.sg">Build for Good</a> | <a href="https://www.straitstimes.com/singapore/students-create-app-that-lets-users-scan-barcodes-on-packaging-to-see-how-items-can-be-recycled">Students create app that lets users scan barcodes on packaging to see how items can be recycled</a></td>
-  <td><img width="370" src="/images/Get%20inspired/proj_buildforgood.jpg"><br>
+  <td><img src="/images/Get%20inspired/proj_buildforgood.jpg" style="width:250px;height:149px"><br><a href="https://www.build.gov.sg">Build for Good</a> | <a href="https://www.straitstimes.com/singapore/students-create-app-that-lets-users-scan-barcodes-on-packaging-to-see-how-items-can-be-recycled">Students create app that lets users scan barcodes on packaging to see how items can be recycled</a></td>
+  <td><img src="/images/Get%20inspired/proj_goodhood.jpg" style="width:250px;height:149px"><br>
 <a href="https://www.goodhoodsg.com">GoodHood.sg</a> | 
 <a href="https://www.goodhoodsg.com/post/with-goodhood-kampung-spirit-is-only-a-tap-away">With GoodHood, kampung spirit is only a tap away</a></td>
  </tr>
