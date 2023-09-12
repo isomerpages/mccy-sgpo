@@ -4,7 +4,7 @@ permalink: /alliances-for-action/
 description: ""
 ---
 #### The Alliances for Action (AfAs) bring together people from the People, Private and Public sectors to create solutions for complex issues.
-
+<br>
 
 * [AfA on Building Community Resilience at Cambridge Road](https://www.straitstimes.com/singapore/cambridge-road-residents-are-greening-their-neighbourhood-from-the-ground-up-heres-how-theyre-doing-it)
 * [AfA on Caregivers of Persons with Disabilities](https://caring.sg/#services)
