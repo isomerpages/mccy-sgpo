@@ -38,7 +38,7 @@ description: ""
 | -------- | -------- |
 |    |    |
 
-**Community Projects**
+##### **Community Projects**
 
 * [Build for Good](https://www.build.gov.sg): [Students create app that lets users scan barcodes on packaging to see how items can be recycled](https://www.straitstimes.com/singapore/students-create-app-that-lets-users-scan-barcodes-on-packaging-to-see-how-items-can-be-recycled)
 * [GoodHood.sg](https://www.goodhoodsg.com): [With GoodHood, kampung spirit is only a tap away](https://www.goodhoodsg.com/post/with-goodhood-kampung-spirit-is-only-a-tap-away)
