@@ -40,9 +40,9 @@ description: ""
 
 ##### **Community Projects**
 
-* [Build for Good](https://www.build.gov.sg): [Students create app that lets users scan barcodes on packaging to see how items can be recycled](https://www.straitstimes.com/singapore/students-create-app-that-lets-users-scan-barcodes-on-packaging-to-see-how-items-can-be-recycled)
-* [GoodHood.sg](https://www.goodhoodsg.com): [With GoodHood, kampung spirit is only a tap away](https://www.goodhoodsg.com/post/with-goodhood-kampung-spirit-is-only-a-tap-away)
-* [Fridge Restock Community](https://www.frc.sg): [The Stories Behind: Fridge Restock Community, a ground-up food rescue group founded by a Little India shopowner](https://www.todayonline.com/singapore/stories-behind-fridge-restock-community-daniel-yap-2164221)
+* [Build for Good](https://www.build.gov.sg) | [Students create app that lets users scan barcodes on packaging to see how items can be recycled](https://www.straitstimes.com/singapore/students-create-app-that-lets-users-scan-barcodes-on-packaging-to-see-how-items-can-be-recycled)
+* [GoodHood.sg](https://www.goodhoodsg.com) | [With GoodHood, kampung spirit is only a tap away](https://www.goodhoodsg.com/post/with-goodhood-kampung-spirit-is-only-a-tap-away)
+* [Fridge Restock Community](https://www.frc.sg) | [The Stories Behind: Fridge Restock Community, a ground-up food rescue group founded by a Little India shopowner](https://www.todayonline.com/singapore/stories-behind-fridge-restock-community-daniel-yap-2164221)
 * [Project Get Flamed](https://www.projgetflamed.com/about/our-journey)
 * [Project Hills](https://www.theprojecthills.com): [Paying it forward](https://www.gov.sg/article/zulayqha-zulkifli)
 * [ProjectLoveLunch](https://www.projectlovelunch.com/about): [It’s a family affair: Project Love Lunch brings residents closer](https://pride.kindness.sg/its-a-family-affair-yishun-block-carnival-brings-residents-together/)
