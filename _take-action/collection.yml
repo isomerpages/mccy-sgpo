@@ -2,7 +2,7 @@ collections:
   take-action:
     output: true
     order:
-      - Partners Portal v2.md
       - Get Started.md
       - Partners Portal.md
+      - Partners Portal v2.md
       - Useful Information.md
