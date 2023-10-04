@@ -7,7 +7,6 @@ description: ""
 
 If you have an idea for a potential partnership with the Government, we would love to hear from you.
 
-
-![](/images/sgpo%20-%20proposal.png)
+![3 steps to share a proposal with Singapore Government Partnerships Office](/images/3%20steps%20to%20share%20a%20proposal.jpg)
 
 #### Click [here](https://go.gov.sg/sgpostageform) to take action now.
