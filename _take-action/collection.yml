@@ -2,8 +2,8 @@ collections:
   take-action:
     output: true
     order:
-      - Frequently Asked Questions.md
       - Get Started.md
       - Partners Portal.md
+      - Frequently Asked Questions.md
       - Partners Portal v2.md
       - Useful Information.md
