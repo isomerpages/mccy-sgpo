@@ -10,6 +10,3 @@ As Singapore faces more complex challenges, all of us can play a part in shaping
 
 Singaporeans also want to contribute to issues close to their heart. The Government welcomes this and is committed to supporting more ground-up efforts by Singaporeans to shape and improve their communities. 
 
-#### SGPO
-
-* Serves as a first-stop for 
