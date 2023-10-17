@@ -21,3 +21,5 @@ The SGPO website is a first-stop platform for Singaporeans who want to partner w
 [REACH](https://www.reach.gov.sg/) is the lead agency in facilitating whole-of-government efforts to engage and connect with Singaporeans on national and social issues close to their hearts, Its main functions are to gauge ground sentiments, engage citizens for feedback, and facilitate public consultation exercises. 
 
 SGPO's mission is to help citizens partner with government and others to shape a better Singapore. 
+
+### Click here to find out how to submit a partnership proposal 
