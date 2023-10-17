@@ -6,4 +6,4 @@ third_nav_title: Frequently Asked Questions
 ---
 ## 1. How do I get started? 
 
-Explore the 
+Explore the
