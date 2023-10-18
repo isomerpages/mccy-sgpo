@@ -21,4 +21,4 @@ Click on the
 
 **If the above is not what you are looking for, share your proposal with us [here](https://go.gov.sg/takeactiontoday).**
 
-**Alternatively, click here to read our FAQs on submitting a partnership proposal**.
+**Alternatively, click here to read the  [FAQs](/take-action/frequently-asked-questions/sgpo2/)on submitting a partnership proposal**.
