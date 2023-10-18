@@ -2,6 +2,7 @@ collections:
   take-action:
     output: true
     order:
+      - Share Your Proposal.md
       - Get Started.md
       - Partners Portal/.keep
       - Partners Portal/Introduction to Partners Portal.md
