@@ -11,7 +11,8 @@ third_nav_title: Partners Portal
 
 OurSG Grants Portal
 
-![](/images/oursggrants_logo.png(https://oursggrants.gov.sg)
+[![](/images/oursggrants_logo.png)](https://oursgrants.gov.sg)
+
 
 Our SG Grants portal bring government grants for the arts, community, heritage, social good, sports and youth into one space. 
 
