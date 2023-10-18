@@ -2,6 +2,7 @@ collections:
   take-action:
     output: true
     order:
+      - Partners Portal/Other Resources.md
       - Partners Portal/Volunteering.md
       - Partners Portal/Funding.md
       - Partners Portal/Partnerships.md
