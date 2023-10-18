@@ -11,4 +11,4 @@ If you have an idea for a potential partnership with the Government, we would lo
 
  We recommend you to explore the [Partners Portal](/take-action/partnersportal) first.
 
-Otherwise, please submit your proposal [here](https://go.gov.sg/takeactiontoday).
+Otherwise, please proceed to submit your proposal [here](https://go.gov.sg/takeactiontoday).
