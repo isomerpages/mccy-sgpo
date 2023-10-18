@@ -29,3 +29,5 @@ List is correct as of 27 Oct 2023.
 17. Water
 18. Wildlife and Animal Management
 19. Youth
+
+You may continue to share your proposal with us even if your topic of interest do not fall within those stated above. 
