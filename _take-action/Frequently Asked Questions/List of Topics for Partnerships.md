@@ -6,7 +6,7 @@ third_nav_title: Frequently Asked Questions
 ---
 ## What are the topics currently opened for partnerships? 
 
-Below are the list correct as of 27 Oct 2023. 
+List is correct as of 27 Oct 2023. 
 
 **Share your proposal with us [here](https://go.gov.sg/sgpostageform).**
 
@@ -20,11 +20,11 @@ Below are the list correct as of 27 Oct 2023.
 8. Heritage
 9. Media and Infocomm
 10. Nature Conservation and Urban Greenery
-11. Promoting good, accessible, and affordable healthcare
+11. Promoting Good, Accessible, and Affordable Healthcare
 12. Public Cleanliness and Environmental Public Health
 13. Race and Religion
 14. Sports
-15. Supporting lower-income families towards social mobility
+15. Supporting Lower-income Families towards Social Mobility
 16. Waste and Pollution
 17. Water
 18. Wildlife and Animal Management
