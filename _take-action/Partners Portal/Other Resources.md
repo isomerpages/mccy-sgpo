@@ -8,14 +8,14 @@ third_nav_title: Partners Portal
 
 This is a one-stop national giving platform to donate, volunteer and fundraise for any of the over 600 registered non-profits in Singapore.
 
-[Giving.SG Logo]
+![](/images/Opportunities/givingsg_logo.png)
 
 
 ## REACH
 
 Share feedback on a particular government policy or issue.
 
-[REACH Logo]
+![](/images/Opportunities/reach-logo_422x304.jpg)
 
 
 **If the above is not what you are looking for, share your proposal [here](https://go.gov.sg/sgpostageform).**
