@@ -15,8 +15,7 @@ This is a one-stop national giving platform to donate, volunteer and fundraise f
 
 Share feedback on a particular government policy or issue.
 
-[REACH Logo] 
+[REACH Logo]
 
 
-
-
+**If the above is not what you are looking for, share your proposal [here](https://go.gov.sg/sgpostageform).**
