@@ -41,4 +41,4 @@ OurSG Grants portal bring government grants for the arts, community, heritage, s
 
 [Logo] 
 
-**If the above is not what you are looking for, share your proposal [here](https://go.gov.sg/sgpostageform).**
+**If the above is not what you are looking for, share your proposal [here](https://go.gov.sg/takeactiontoday).**
