@@ -4,7 +4,7 @@ permalink: /take-action/partners-portal/permalink/
 description: ""
 third_nav_title: Partners Portal
 ---
-1. FUNDING
+# FUNDING
 
 
 ### Not-for-Profit Initiatives 
@@ -38,4 +38,4 @@ raiSE
 
 raISE was set up to raise awareness of social entrepreneurship and raise support for Social Enterprise in Singapore. 
 
-[Logo] 
+[Logo]
