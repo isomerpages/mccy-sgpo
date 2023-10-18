@@ -27,18 +27,10 @@ third_nav_title: Partners Portal
 | -------- | -------- | 
 |A by youth for youth programme to empower youths through grants and mentorship in starting projects that benefit the community.| Mentored by NParks, this is a 6-month-long programme suitable for youths aged 18 to 25 with interest and have some experience in fields such as horticulture, landscape architecture, environmental studies, and biological or life sciences.   | 
 
+## Ground-Up Groups
 
-### For-Profit Initiatives 
-
-## Businesses 
-
-GoBusiness portal brings government grants for businesses into one place, so it's easier to find and apply for the grants you need. 
-
+### Ground Up Central
+Need help getting your ground-up initiative off the ground? Find curated resources and support here.
 
 [Logo] 
 
-raiSE 
-
-raISE was set up to raise awareness of social entrepreneurship and raise support for Social Enterprise in Singapore. 
-
-[Logo]
