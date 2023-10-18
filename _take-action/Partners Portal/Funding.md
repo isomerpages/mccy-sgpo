@@ -34,8 +34,8 @@ OurSG Grants portal bring government grants for the arts, community, heritage, s
 [GoBusiness ](https://gobusiness.gov.sg)portal is the go-to platform for businesses in Singapore to access Government e-services and resources.
 
 #### Social Enterprises
-[![](/images/Opportunities/rsz_raise.png)](https://www.raise.gov.sg)
+[![](/images/Opportunities/rsz_raise.png)](https://www.raise.sg)
 
-[raiSE](https://www.raise.gov.sg) was set up to raise awareness of social entrepreneurship and raise support for Social Enterprise in Singapore. 
+[raiSE](https://www.raise.sg) was set up to raise awareness of social entrepreneurship and raise support for Social Enterprise in Singapore. 
 
 **If the above is not what you are looking for, share your proposal [here](https://go.gov.sg/takeactiontoday).**
