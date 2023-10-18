@@ -19,7 +19,7 @@ third_nav_title: Partners Portal
 
 |School-Industry Partnership   | Nature Kakis |
 | --- | - | 
-| Keen to partner schools on programmes and co-create solutions with students and educators? Indicate your interest to explore partnership opportunities.  | The Nature Kakis Network is a platform that will help grow NParks’ City in Nature vision in the heartlands, as well as encourage greater appreciation and community stewardship.| 
+| Keen to partner schools on programmes and co-create solutions with students and educators? | Grow NParks’ City in Nature vision in the heartlands, as well as encourage greater appreciation and community stewardship.| 
 
 ### Youths
 
