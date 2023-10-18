@@ -39,9 +39,9 @@ third_nav_title: Partners Portal
 |Youth panels provide opportunities for young Singaporeans the Government to come together to work on policies, co-creating them together.  |  6-month-long programme suitable for youths with interest and have some experience in various environmental fields.   | 
 
 
-## Ground-Ups
+### For Ground-Ups
 
-### [Ground Up Central](https://groundupcentral.sg)
+#### [Ground Up Central](https://groundupcentral.sg)
 Need help getting your ground-up initiative off the ground? Find curated resources and support here.
 
 ![](/images/Opportunities/groundup-central-logo_422x304.jpg)
