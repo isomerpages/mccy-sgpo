@@ -4,7 +4,7 @@ permalink: /take-action/partners-portal/volunteering/
 description: ""
 third_nav_title: Partners Portal
 ---
-# VOLUNTEERING
+# Volunteering Opportunities
 
 [![](/images/Opportunities/volunteersg_422x304.jpg)](https://volunteer.gov.sg/volunteer/home)
 
