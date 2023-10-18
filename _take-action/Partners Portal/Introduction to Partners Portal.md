@@ -9,7 +9,7 @@ third_nav_title: Partners Portal
 
 | ![](/images/Partners%20portal/Intro/partnerships.png)| ![](/images/Partners%20portal/Intro/funding.png) |
 | -------- | -------- |
-| ![](/images/Partners%20portal/Intro/volunteering.png) | ![](/images/Partners%20portal/Intro/other%20resources.png)  |
+| ![](/images/Partners%20portal/Intro/volunteering.png) | ![](/images/Partners%20portal/Intro/other%20resources2.png) |
 
 
 **If the above is not what you are looking for, share your proposal with us [here](https://go.gov.sg/sgpostageform).**
