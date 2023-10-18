@@ -23,11 +23,11 @@ third_nav_title: Partners Portal
 
 ### Youths
 
-| Mentoring.SG | Youth Panels |
+| Mentoring.SG![](/images/Opportunities/mentoring-sg_422x304.jpg) | Youth Panels ![](/images/Opportunities/youth-panels_422x304.jpg)|
 | -------- | -------- | 
 |Mentoring SG Connect is a place where you can contribute your expertise and wisdom to make a lasting difference in the lives of a growing community of young minds.| Youth panels provide opportunities for young Singaporeans the Government to come together to work on policies, co-creating them together.     | 
 
-| Young ChangeMakers Programme | Youth Steward for Nature|
+| Young ChangeMakers Programme ![](/images/Opportunities/nyc-ycm-logo-(422x304).jpg)| Youth Steward for Nature![](/images/Opportunities/nparks-logo_422x304.jpg)|
 | -------- | -------- | 
 |A by youth for youth programme to empower youths through grants and mentorship in starting projects that benefit the community.|  6-month-long programme suitable for youths with interest and have some experience in various environmental fields.   | 
 
