@@ -16,7 +16,7 @@ Search for available volunteering opportunities that strikes a chord with your h
 
 | Smart Nation Ambassadors | PA Community Volunteering |
 | --- | - | 
-| Smart Nation Ambassadors (SNAs) are volunteers who contribute their skills and experience to help the community, including seniors, embrace digital technologies.| Are you passionate about a community cause? Interested to volunteer together with like-minded individuals towards a common community goal? Sign up as a Community Volunteer and start exploring available volunteering opportunities!| 
+| SNAs are volunteers who contribute their skills and experience to help the community, including seniors, embrace digital technologies.| Are you passionate about a community cause? Interested to volunteer together with like-minded individuals towards a common community goal?| 
 
 | MSF Care Network | NEA Volunteer Corps|
 | --- | - | 
