@@ -4,26 +4,33 @@ permalink: /take-action/partners-portal/partnerships/
 description: ""
 third_nav_title: Partners Portal
 ---
-# PARTNERSHIPS
+# Partnerships Opportunities
 
 
-### General Public
+### For General Public
 
-| Our SG Arts Plan (2023-2027)![](/images/Opportunities/our-arts-plan-2023-2027_422x304.jpg)| Digital for Life|
+| [Digital for Life](https://www.imda.gov.sg/digitalforlife/get-started#starting-a-project)![](/images/Opportunities/dfl-play-it-forward-logo_422x304.jpg)| [Mentoring.SG](https://www.mentoringsg.com)![](/images/Opportunities/mentoring-sg_422x304.jpg) |
 | --- | - | 
-| Explore the initiatives where artist, audiences and partner organisations play their part in the development of the arts in Singapore | Get connected to the digital learning cause, and pledge your commitment and start ground-up initiatives.| 
+| Get connected to the digital learning cause, and pledge your commitment and start ground-up initiatives. | MentoringSG Connect is a place where you can contribute your expertise and wisdom to make a lasting difference in the lives of a growing community of young minds. | 
 
-| One Service Kakis Network ![](/images/Opportunities/mso-logo_422x304.jpg)| Noise Experiential Lab (NEL)![](/images/Opportunities/mso-logo_422x304.jpg)|
+
+|[Nature Kakis](https://go.gov.sg/naturekakisenquiry)![](/images/Opportunities/nparks-logo_422x304.jpg) | [Noise Experiential Lab (NEL)](https://go.gov.sg/noiselab)![](/images/Opportunities/mso-logo_422x304.jpg)|
 | --- | - | 
-|  Join OSK Network to gain awareness of municipal issues and participate in grounds-up initiatives. | Visit the NEL to learn about neighbour noises, and social norms that we should adopt to manage noise.| 
+|  Platform that will help grow NParks' City in Nature vision in the heartlands and encourage greater appreciation and community stewardship | Visit the NEL to learn about neighbour noises, and social norms that we should adopt to manage noise.| 
 
-|School-Industry Partnership![](/images/Opportunities/moe-logo_422x304.jpg)   | Nature Kakis![](/images/Opportunities/nparks-logo_422x304.jpg) |
+
+| [OneService Kakis (OSK) Network](https://go.gov.sg/oskgettoknowyou) ![](/images/Opportunities/mso-logo_422x304.jpg)| [OneMillionTrees Facilitator](https://go.gov.sg/omtvolfacil) ![](/images/Opportunities/nparks-logo_422x304.jpg)|
 | --- | - | 
-| Keen to partner schools on programmes and co-create solutions with students and educators? | Grow NParks’ City in Nature vision in the heartlands, as well as encourage greater appreciation and community stewardship.| 
+| Join OSK Network to gain awareness of municipal issues and participate in grounds-up initiatives.| Volunteer facilitators will assist with tree planting events and share the key messaging of how this contributes towards NParks' City in Nature Vision.  | 
 
-### Youths
+| [Our SG Arts Plan (2023 - 2027)](https://www.nac.gov.sg/about-us/oursgartsplan/join-the-making)![](/images/Opportunities/our-arts-plan-2023-2027_422x304.jpg)| [School-Industry Partnership](https://go.gov.sg/partnerwithschools)![](/images/Opportunities/moe-logo_422x304.jpg)|
+| --- | - | 
+| Join the Making of Singapore's future arts scene where artists, audiences, and partners play their parts. | Keen to partner schools on programmes and co-create solutions with students and educators? Indicate your interest to explore partnerships opportunities| 
 
-| Mentoring.SG![](/images/Opportunities/mentoring-sg_422x304.jpg) | Youth Panels ![](/images/Opportunities/youth-panels_422x304.jpg)|
+
+### For Youths
+
+|  | Youth Panels ![](/images/Opportunities/youth-panels_422x304.jpg)|
 | -------- | -------- | 
 |Mentoring SG Connect is a place where you can contribute your expertise and wisdom to make a lasting difference in the lives of a growing community of young minds.| Youth panels provide opportunities for young Singaporeans the Government to come together to work on policies, co-creating them together.     | 
 
