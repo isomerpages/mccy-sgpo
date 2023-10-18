@@ -4,7 +4,10 @@ permalink: /take-action/partnersportal/
 description: ""
 third_nav_title: Partners Portal
 ---
-## Explore the Partners Portal to look for opportunities aligned to your need. 
+## INTRODUCTION
+
+Welcome to the Partners Portal. 
+
 
 
 
