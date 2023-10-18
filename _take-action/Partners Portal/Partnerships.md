@@ -30,13 +30,14 @@ third_nav_title: Partners Portal
 
 ### For Youths
 
-|  | Youth Panels ![](/images/Opportunities/youth-panels_422x304.jpg)|
+| [Young ChangeMakers Programme](https://www.nyc.gov.sg/programmes-grants/grants-young-changemakers) ![](/images/Opportunities/nyc-ycm-logo-(422x304).jpg)| [Youth Engagement Initiatives](https://go.gov.sg/youth-programmes) ![](/images/Opportunities/mso-logo_422x304.jpg)|
 | -------- | -------- | 
-|Mentoring SG Connect is a place where you can contribute your expertise and wisdom to make a lasting difference in the lives of a growing community of young minds.| Youth panels provide opportunities for young Singaporeans the Government to come together to work on policies, co-creating them together.     | 
+|A by youth for youth programme to empower youths through grants and mentorship in starting projects that benefit the community.| Collaboration to support students/youths to develop interventions to address municipal issues. Find out about MSO's youth initiatives via the link.| 
 
-| Young ChangeMakers Programme ![](/images/Opportunities/nyc-ycm-logo-(422x304).jpg)| Youth Steward for Nature![](/images/Opportunities/nparks-logo_422x304.jpg)|
+|[Youth Panels](https://www.nyc.gov.sg/youthpanels)![](/images/Opportunities/youth-panels_422x304.jpg) | [Youth Stewards for Nature](https://go.gov.sg/ysn/)![](/images/Opportunities/nparks-logo_422x304.jpg)|
 | -------- | -------- | 
-|A by youth for youth programme to empower youths through grants and mentorship in starting projects that benefit the community.|  6-month-long programme suitable for youths with interest and have some experience in various environmental fields.   | 
+|Youth panels provide opportunities for young Singaporeans the Government to come together to work on policies, co-creating them together.  |  6-month-long programme suitable for youths with interest and have some experience in various environmental fields.   | 
+
 
 ## Ground-Ups
 
