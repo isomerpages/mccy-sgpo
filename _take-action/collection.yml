@@ -4,7 +4,7 @@ collections:
     order:
       - Get Started.md
       - Partners Portal/.keep
-      - Partners Portal/Partners Portal.md
+      - Partners Portal/Introduction to Partners Portal.md
       - Partners Portal/Partnerships.md
       - Partners Portal/Funding.md
       - Partners Portal/Volunteering.md
