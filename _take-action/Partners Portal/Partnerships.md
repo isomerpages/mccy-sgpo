@@ -13,13 +13,13 @@ third_nav_title: Partners Portal
 | --- | - | 
 | Explore the initiatives where artist, audiences and partner organisations play their part in the development of the arts in Singapore | Get connected to the digital learning cause, and pledge your commitment and start ground-up initiatives.| 
 
-| School-Industry Partnership | Noise Experiential Lab (NEL) |
+| One Service Kakis Network (OSK Network) | Noise Experiential Lab (NEL) |
 | --- | - | 
-| Keen to partner schools on programmes and co-create solutions with students and educators? Indicate your interest to explore partnership opportunities. | Visit the NEL to learn about neighbour noises, and social norms that we should adopt to manage noise.| 
+|  Join OSK Network to gain awareness of municipal issues and participate in grounds-up initiatives. Click link to join. | Visit the NEL to learn about neighbour noises, and social norms that we should adopt to manage noise.| 
 
-| One Service Kakis Network (OSK Network) | Nature Kakis |
+|School-Industry Partnership   | Nature Kakis |
 | --- | - | 
-| Join OSK Network to gain awareness of municipal issues and participate in grounds-up initiatives. Click link to join. | The Nature Kakis Network is a platform that will help grow NParks’ City in Nature vision in the heartlands, as well as encourage greater appreciation and community stewardship.| 
+| Keen to partner schools on programmes and co-create solutions with students and educators? Indicate your interest to explore partnership opportunities.  | The Nature Kakis Network is a platform that will help grow NParks’ City in Nature vision in the heartlands, as well as encourage greater appreciation and community stewardship.| 
 
 ### Youths
 
