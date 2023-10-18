@@ -31,7 +31,7 @@ third_nav_title: Partners Portal
 | -------- | -------- | 
 |A by youth for youth programme to empower youths through grants and mentorship in starting projects that benefit the community.|  6-month-long programme suitable for youths with interest and have some experience in fields such as horticulture, landscape architecture, environmental studies, and biological or life sciences.   | 
 
-## Ground-Up Groups
+## Ground-Ups
 
 ### Ground Up Central
 Need help getting your ground-up initiative off the ground? Find curated resources and support here.
