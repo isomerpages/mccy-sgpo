@@ -27,4 +27,4 @@ SGPO's mission complements this by supporting those who want to take action on i
 
 #### Click [here](/take-action/frequently-asked-questions/sgpo2/) to find out how to submit a partnership proposal. 
 
-#### Alternatively, if you have a proposal that you want to take action on, submit them [here](https://go.gov.sg/takeactiontoday). 
+#### Alternatively, if you have a proposal that you want to take action on, submit them [here](https://go.gov.sg/takeactiontoday).
