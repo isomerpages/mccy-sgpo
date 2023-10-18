@@ -18,11 +18,11 @@ Our SG Grants portal bring government grants for the arts, community, heritage, 
 
 
 
-| Love Our Hood Fund | SG Eco Fund |
+| Love Our Hood Fund ![](/images/Opportunities/mso-logo_422x304.jpg)| SG Eco Fund![](/images/Opportunities/sg-eco-fund_422x304.jpg) |
 | -------- | -------- | 
 |LOH Fund supports ground-up initiatives that addresses municipal issues in our neighbourhoods. | Provides funding for projects that promotes environmental sustainability and public cleanlines in the community.     | 
 
-| Youth Heritage Kickstarter Fund | NEA Call for Ideas Fund |
+| Youth Heritage Kickstarter Fund![](/images/Opportunities/nyc-ycm-logo-(422x304).jpg) | NEA Call for Ideas Fund![](/images/Opportunities/nea-logo_422x304.jpg) |
 | --- | - | 
 | To empower youths in taking an active role in preserving and safeguarding Singapore's heritage. | Provides funding for projects that promotes environmental sustainability and public cleanlines in the community.| 
 
