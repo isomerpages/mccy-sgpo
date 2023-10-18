@@ -4,14 +4,16 @@ permalink: /take-action/partners-portal/resources/
 description: ""
 third_nav_title: Partners Portal
 ---
-## Giving.SG
+## Donation Opportunities
+
+![](/images/Opportunities/givingsg_logo.png) (https://www.gi
+
 
 This is a one-stop national giving platform to donate, volunteer and fundraise for any of the over 600 registered non-profits in Singapore.
 
-![](/images/Opportunities/givingsg_logo.png)
 
 
-## REACH
+## Share a Feedback
 
 Share feedback on a particular government policy or issue.
 
