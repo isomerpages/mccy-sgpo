@@ -9,15 +9,15 @@ third_nav_title: Partners Portal
 
 ### General Public
 
-| Our SG Arts Plan (2023-2027)| Digital for Life|
+| Our SG Arts Plan (2023-2027)![](/images/Opportunities/our-arts-plan-2023-2027_422x304.jpg)| Digital for Life|
 | --- | - | 
 | Explore the initiatives where artist, audiences and partner organisations play their part in the development of the arts in Singapore | Get connected to the digital learning cause, and pledge your commitment and start ground-up initiatives.| 
 
-| One Service Kakis Network | Noise Experiential Lab (NEL) |
+| One Service Kakis Network ![](/images/Opportunities/mso-logo_422x304.jpg)| Noise Experiential Lab (NEL)![](/images/Opportunities/mso-logo_422x304.jpg)|
 | --- | - | 
 |  Join OSK Network to gain awareness of municipal issues and participate in grounds-up initiatives. | Visit the NEL to learn about neighbour noises, and social norms that we should adopt to manage noise.| 
 
-|School-Industry Partnership   | Nature Kakis |
+|School-Industry Partnership![](/images/Opportunities/moe-logo_422x304.jpg)   | Nature Kakis![](/images/Opportunities/nparks-logo_422x304.jpg) |
 | --- | - | 
 | Keen to partner schools on programmes and co-create solutions with students and educators? | Grow NParks’ City in Nature vision in the heartlands, as well as encourage greater appreciation and community stewardship.| 
 
