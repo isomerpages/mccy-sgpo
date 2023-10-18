@@ -9,4 +9,4 @@ If you have an idea for a potential partnership with the Government, we would lo
 
 ![3 Steps to Share a Proposal](/images/Get%20Started/3-steps-to-share-a-proposal_clean_v2.png)
 
-#### Click [here](https://www.sg/take-action/partnersportal/) to explore the Partners Portal.
+#### Click [here](/take-action/partnersportal/)to explore the Partners Portal.
