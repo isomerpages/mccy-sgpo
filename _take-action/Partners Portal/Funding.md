@@ -34,8 +34,12 @@ GoBusiness portal brings government grants for businesses into one place, so it'
 
 [Logo] 
 
+## Social Enterprises
+
 raiSE 
 
 raISE was set up to raise awareness of social entrepreneurship and raise support for Social Enterprise in Singapore. 
 
 [Logo]
+
+**If the above is not what you are looking for, share your proposal [here](https://go.gov.sg/sgpostageform).**
