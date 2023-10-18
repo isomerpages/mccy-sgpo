@@ -8,9 +8,11 @@ third_nav_title: Partners Portal
 
 ### Volunteer.Gov.SG
 
+[[](/images/Opportunities/volunteersg_422x304.jpg)](https://volunteer.gov.sg/volunteer/home)
+
 Search for available volunteering opportunities that strikes a chord with your heart to kick start your volunteering journey today.
 
-[Logo]
+
 
 ### Other Volunteering Opportunities
 
