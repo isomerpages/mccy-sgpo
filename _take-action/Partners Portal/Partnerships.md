@@ -44,7 +44,7 @@ third_nav_title: Partners Portal
 #### [Ground Up Central](https://groundupcentral.sg)
 Need help getting your ground-up initiative off the ground? Find curated resources and support here.
 
-![](/images/Opportunities/groundup-central-logo_422x304.jpg)
+![](/images/Opportunities/groundup-central-logo_422x304.jpg)]
 
 
 **If the above is not what you are looking for, share your proposal [here](https://go.gov.sg/takeactiontoday).**
