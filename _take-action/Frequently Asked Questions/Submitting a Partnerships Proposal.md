@@ -45,3 +45,5 @@ You are welcome to submit additional information in various formats. If you wish
 ### 6. What happens after I submit my partnership proposal? Why must I wait up to 3-4 weeks for agencies to respond to my partnership proposal? 
 
 All partnership proposals developed are taken seriously by the respective Government agencies. Complex proposals will require more time for agencies to assess their feasibility. Hence, adequate time is needed for agencies to get back to citizens with a meaningful response.
+
+#### If you have a proposal that you want to take action on, submit them [here](https://go.gov.sg/takeactiontoday).
