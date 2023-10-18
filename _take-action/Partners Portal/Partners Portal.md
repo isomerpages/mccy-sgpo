@@ -4,27 +4,7 @@ permalink: /take-action/partnersportal/
 description: ""
 third_nav_title: Partners Portal
 ---
-# 1. FUNDING
-
-
-### Not-for-Profit Initiatives 
-
-| Our SG Grants Portal | SG Eco Fund |
-| -------- | -------- | 
-| Our SG Grants portal bring government grants for the arts, community, heritage, social good, sports and youth into one space. | Provides funding for projects that promotes environmental sustainability and public cleanlines in the community.     | 
-
-| Young ChangeMakers - Youth Heritage Kickstarter Fund | NEA Call for Ideas Fund |
-| -------- | - | 
-| To empower youths in taking an active role in preserving and safeguarding Singapore's heritage. | Provides funding for projects that promotes environmental sustainability and public cleanlines in the community.| 
-
-Love Our 'Hood Fund 
-
-
-### Commercial Ideas 
-
-GoBusiness Portal 
-raiSE 
-
+# 
 # 2. Partnership Opportunities 
 
 
