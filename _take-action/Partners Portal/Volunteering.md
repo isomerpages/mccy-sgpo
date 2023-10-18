@@ -20,5 +20,8 @@ Search for available volunteering opportunities that strikes a chord with your h
 
 | MSF Care Network | NEA Volunteer Corps|
 | --- | - | 
-| Join us and be part of a like-minded community dedicated to building a more inclusive and caring Singapore.| Volunteer to help everyone become more aware of our shared environmental responsibility for a Clean & Green Singapore.| 
+| Join us and be part of a like-minded community dedicated to building a more inclusive and caring Singapore.| Volunteer to help everyone become more aware of our shared environmental responsibility for a Clean & Green Singapore.|
 
+
+
+**If the above is not what you are looking for, share your proposal [here](https://go.gov.sg/sgpostageform).**
