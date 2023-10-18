@@ -13,9 +13,9 @@ third_nav_title: Partners Portal
 | --- | - | 
 | Explore the initiatives where artist, audiences and partner organisations play their part in the development of the arts in Singapore | Get connected to the digital learning cause, and pledge your commitment and start ground-up initiatives.| 
 
-| School-Industry Partnership | Digital for Life |
+| School-Industry Partnership | Noise Experiential Lab (NEL) |
 | --- | - | 
-| Keen to partner schools on programmes and co-create solutions with students and educators? Indicate your interest to explore partnership opportunities. | Get connected to the digital learning cause, and pledge your commitment and start ground-up initiatives.| 
+| Keen to partner schools on programmes and co-create solutions with students and educators? Indicate your interest to explore partnership opportunities. | Visit the NEL to learn about neighbour noises, and social norms that we should adopt to manage noise.| 
 
 ### Youths
 
