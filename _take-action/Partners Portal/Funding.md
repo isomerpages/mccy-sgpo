@@ -4,12 +4,10 @@ permalink: /take-action/partners-portal/funding/
 description: ""
 third_nav_title: Partners Portal
 ---
-# FUNDING
+# Funding Possibilities
 
 
 ### Not-for-Profit Initiatives 
-
-#### 
 
 [![](/images/oursggrants_logo.png)](https://oursggrants.gov.sg)
 
