@@ -9,7 +9,7 @@ third_nav_title: Partners Portal
 
 ### General Public
 
-| Our SG Arts Plan (2023-2027) | Digital for Life |
+| Our SG Arts Plan (2023-2027)| Digital for Life|
 | --- | - | 
 | Explore the initiatives where artist, audiences and partner organisations play their part in the development of the arts in Singapore | Get connected to the digital learning cause, and pledge your commitment and start ground-up initiatives.| 
 
