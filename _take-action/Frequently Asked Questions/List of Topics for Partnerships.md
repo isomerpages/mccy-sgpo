@@ -4,9 +4,11 @@ permalink: /take-action/frequently-asked-questions/3/
 description: ""
 third_nav_title: Frequently Asked Questions
 ---
-(caa 27 Oct 2023) 
+## What are the topics currently opened for partnerships? 
 
-Below are the list of topics currently opened for partnerships. 
+Below are the list correct as of 27 Oct 2023. 
+
+**Share your proposal with us [here](https://go.gov.sg/sgpostageform).**
 
 1. Arts
 2. Building Singaporean Identity and Communities
