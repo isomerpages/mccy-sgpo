@@ -10,7 +10,7 @@ Welcome to the Partners Portal.
 
 Explore this page for existing resources and platforms that may support your idea. 
 
-
+Click on the 
 
 | ![](/images/Partners%20portal/partnerships555.png) | ![](/images/Partners%20portal/funding666.png) |
 | -------- | --------  |
