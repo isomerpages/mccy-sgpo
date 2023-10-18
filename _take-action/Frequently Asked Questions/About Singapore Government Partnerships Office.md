@@ -4,17 +4,20 @@ permalink: /take-action/frequently-asked-questions/sgpo/
 description: ""
 third_nav_title: Frequently Asked Questions
 ---
-## 1. Why is there a need for the Singapore Government Partnerships Office, and what does it do? 
+### 1. Why is there a need for the Singapore Government Partnerships Office, and what does it do? 
 
-As Singapore faces more complex challenges, all of us can play a part in shaping our country's future. As Singapore society matures and becomes more diverse, building shared goals and mutual trust between citizens and the government is paramount. 
+Singapore faces complex challenges, and all of us can play a part in addressing them, and shaping our nation's future. As our society matures and becomes more diverse, building shared goals and mutual trust between citizens and the government is paramount. 
 
 Singaporeans also want to contribute to issues close to their heart. The Government welcomes this and is committed to supporting more ground-up efforts by Singaporeans to shape and improve their communities.
 
-![Singapore Government Partnerships Office](/images/About%20SGPO/sgpo-ourmission_1500.png)
+To do this, the Singapore Government Partnerships Office (SGPO) was announced as part of the Final Report of the [Forward Singapore](https://www.forwardsingapore.gov.sg) exercise. It will be officially launched in Q1 2024. Our mission is to help you partner with government and others to shape a better Singapore. 
 
-## 2. How can I partner the government for the public good through this website. 
+![](/images/About%20SGPO/ourmission_1295x1015.jpg)
 
-The SGPO website is a first-stop platform for Singaporeans who want to partner with the Government and others, to act on ideas that contribute to the public good. The website helps connect them with relevant agencies and resources. Click on the [Partners Portal](https://www.sg/take-action/partnersportal/) page on the website for more details. 
+
+### 2. How does this website help me to partner the government for the public good? 
+
+The SGPO website is a first-stop platform. If you want to act on ideas that contribute to the public good, this website will help inform and connect you with relevant agencies and resources. Please click on the [Partners Portal](take-action/) page for more details. 
 
 ## 3. How does the SGPO website differ from existing platforms like REACH? 
 
@@ -22,4 +25,4 @@ The SGPO website is a first-stop platform for Singaporeans who want to partner w
 
 SGPO's mission is to help citizens partner with government and others to shape a better Singapore. 
 
-### Click here to find out how to submit a partnership proposal 
+### Click here to find out how to submit a partnership proposal
