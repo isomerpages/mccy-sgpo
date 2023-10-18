@@ -9,7 +9,7 @@ third_nav_title: Partners Portal
 
 ### Not-for-Profit Initiatives 
 
-#### [OurSG Grants Portal](https://oursggrants.gov.sg)
+#### 
 
 [![](/images/oursggrants_logo.png)](https://oursggrants.gov.sg)
 
@@ -31,14 +31,13 @@ OurSG Grants portal bring government grants for the arts, community, heritage, s
 
 #### Businesses 
 
+[![](/images/Opportunities/gobusiness-logo_422x304.jpg)](https://gobusiness.gov.sg)
+
 [GoBusiness ](https://gobusiness.gov.sg)portal is the go-to platform for businesses in Singapore to access Government e-services and resources.
 
-![](/images/Opportunities/gobusiness-logo_422x304.jpg)
-
 #### Social Enterprises
+[![](/images/Opportunities/rsz_raise.png)](https://www.raise.gov.sg)
 
 [raiSE](https://www.raise.gov.sg) was set up to raise awareness of social entrepreneurship and raise support for Social Enterprise in Singapore. 
-
-![](/images/Opportunities/rsz_raise.png)
 
 **If the above is not what you are looking for, share your proposal [here](https://go.gov.sg/takeactiontoday).**
