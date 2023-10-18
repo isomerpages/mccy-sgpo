@@ -7,7 +7,7 @@ third_nav_title: Partners Portal
 ## Explore the Partners Portal to look for opportunities aligned to your need. 
 
 
-| ![](/images/partnerships.png) | ![](/images/funding.png) |
+| ![](/images/Partners%20portal/Intro/partnerships.png)| ![](/images/funding.png) |
 | -------- | -------- |
 | ![](/images/volunteering.png)    | ![](/images/other%20resources.png)  |
 
