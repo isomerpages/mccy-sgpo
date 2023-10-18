@@ -12,9 +12,9 @@ Explore this page for existing resources and platforms that may support your ide
 
 Click on the 
 
-| ![](/images/Partners%20portal/partnerships555.png) | ![](/images/Partners%20portal/funding666.png) |
+| [![](/images/Partners%20portal/partnerships555.png) ](/take-action/partners-portal/partnerships/)| [![](/images/Partners%20portal/funding666.png)](/take-action/partners-portal/funding)|
 | -------- | --------  |
-| ![](/images/Partners%20portal/volunteeting777.png)   | ![](/images/Partners%20portal/other%20resources%20777.png)  |
+| [![](/images/Partners%20portal/volunteeting777.png)](/take-action/partners-portal/volunteering)   | [![](/images/Partners%20portal/other%20resources%20777.png)](/take-action/partners-portal/otherresources)  |
 
 
 
