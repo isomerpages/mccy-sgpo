@@ -16,7 +16,7 @@ third_nav_title: Partners Portal
 
 |[Nature Kakis](https://go.gov.sg/naturekakisenquiry)![](/images/Opportunities/nparks-logo_422x304.jpg) | [Noise Experiential Lab (NEL)](https://go.gov.sg/noiselab)![](/images/Opportunities/mso-logo_422x304.jpg)|
 | --- | - | 
-|  Platform that will help grow our City in Nature vision in the heartlands and encourage greater appreciation and community stewardship | Visit the NEL to learn about neighbour noises, and social norms that we should adopt to manage noise.| 
+|  Platform that will help grow our City in Nature vision in the heartlands and encourage greater appreciation and community stewardship. | Visit the NEL to learn about neighbour noises, and social norms that we should adopt to manage noise.| 
 
 
 | [OneService Kakis (OSK) Network](https://go.gov.sg/oskgettoknowyou) ![](/images/Opportunities/mso-logo_422x304.jpg)| [OneMillionTrees Facilitator](https://go.gov.sg/omtvolfacil) ![](/images/Opportunities/nparks-logo_422x304.jpg)|
@@ -41,9 +41,10 @@ third_nav_title: Partners Portal
 
 ## Ground-Ups
 
-### Ground Up Central
+### [Ground Up Central](https://groundupcentral.sg)
 Need help getting your ground-up initiative off the ground? Find curated resources and support here.
 
-[Logo]
+![](/images/Opportunities/groundup-central-logo_422x304.jpg)
 
-**If the above is not what you are looking for, share your proposal [here](https://go.gov.sg/sgpostageform).**
+
+**If the above is not what you are looking for, share your proposal [here](https://go.gov.sg/takeactiontoday).**
