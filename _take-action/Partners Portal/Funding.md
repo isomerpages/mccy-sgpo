@@ -31,7 +31,7 @@ OurSG Grants portal bring government grants for the arts, community, heritage, s
 
 #### Businesses 
 
-[GoBusiness ](https://gobusiness.gov.sg)portal brings government grants for businesses into one place, so it's easier to find and apply for the grants you need. 
+[GoBusiness ](https://gobusiness.gov.sg)portal is the go-to platform for businesses in Singapore to access Government e-services and resources.
 
 ![](/images/Opportunities/gobusiness-logo_422x304.jpg)
 
