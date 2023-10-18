@@ -9,38 +9,36 @@ third_nav_title: Partners Portal
 
 ### Not-for-Profit Initiatives 
 
-OurSG Grants Portal
+#### [OurSG Grants Portal](https://oursggrants.gov.sg)
 
 [![](/images/oursggrants_logo.png)](https://oursggrants.gov.sg)
 
+OurSG Grants portal bring government grants for the arts, community, heritage, social good, sports and youth into one space. 
 
-Our SG Grants portal bring government grants for the arts, community, heritage, social good, sports and youth into one space. 
+#### Other Government Grants
 
-
-
-| Love Our Hood Fund ![](/images/Opportunities/mso-logo_422x304.jpg)| SG Eco Fund![](/images/Opportunities/sg-eco-fund_422x304.jpg) |
+| [Love Our 'Hood Fund (LOH)](https://go.gov.sg/fund-application)![](/images/Opportunities/mso-logo_422x304.jpg)| [NEA Call for Ideas Fund](https://www.nea.gov.sg/programmes-grants/grants-and-awards/call-for-ideas-fund) ![](/images/Opportunities/nea-logo_422x304.jpg) |
 | -------- | -------- | 
-|LOH Fund supports ground-up initiatives that addresses municipal issues in our neighbourhoods. | Provides funding for projects that promotes environmental sustainability and public cleanlines in the community.     | 
+|LOH Fund supports ground-up initiatives that addresses municipal issues in our neighbourhoods. | Provides funding for projects that promotes environmental sustainability and public cleanlines in the community. | 
 
-| Youth Heritage Kickstarter Fund![](/images/Opportunities/nyc-ycm-logo-(422x304).jpg) | NEA Call for Ideas Fund![](/images/Opportunities/nea-logo_422x304.jpg) |
-| --- | - | 
-| To empower youths in taking an active role in preserving and safeguarding Singapore's heritage. | Provides funding for projects that promotes environmental sustainability and public cleanlines in the community.| 
+| [SG Eco Fund](https://www.mse.gov.sg/sgecofund/)![](/images/Opportunities/sg-eco-fund_422x304.jpg)| [Youth Heritage Kickstarter Fund](https://www.nyc.gov.sg/programmes-grants/grants---young-changemakers) ![](/images/Opportunities/nyc-ycm-logo-(422x304).jpg) |
+| -------- | -------- | 
+| Provides funding for community projects that advance environmental sustainability (e.g., community farming, biodiversity awareness, and resource conservation).  | YCM - YHKF provides funding and resources to empower youths to take an active role in preserving and safeguarding Singapore's heritage.| 
+
+
 
 ### For-Profit Initiatives 
 
-## Businesses 
+#### Businesses 
 
-GoBusiness portal brings government grants for businesses into one place, so it's easier to find and apply for the grants you need. 
+[GoBusiness ](https://gobusiness.gov.sg)portal brings government grants for businesses into one place, so it's easier to find and apply for the grants you need. 
 
+![](/images/Opportunities/gobusiness-logo_422x304.jpg)
+
+#### Social Enterprises
+
+[raiSE](https://www.raise.gov.sg) was set up to raise awareness of social entrepreneurship and raise support for Social Enterprise in Singapore. 
 
 [Logo] 
-
-## Social Enterprises
-
-raiSE 
-
-raISE was set up to raise awareness of social entrepreneurship and raise support for Social Enterprise in Singapore. 
-
-[Logo]
 
 **If the above is not what you are looking for, share your proposal [here](https://go.gov.sg/sgpostageform).**
