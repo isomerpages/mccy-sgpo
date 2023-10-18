@@ -15,4 +15,4 @@ third_nav_title: Partners Portal
 
 **If the above is not what you are looking for, share your proposal with us [here](https://go.gov.sg/sgpostageform).**
 
-**Alternatively, click here to read our FAQs on submitting a partnership proposal **. 
+**Alternatively, click here to read our FAQs on submitting a partnership proposal **.
