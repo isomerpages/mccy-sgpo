@@ -14,7 +14,7 @@ Click on the
 
 | [![](/images/Partners%20portal/partnerships555.png) ](/take-action/partners-portal/partnerships/)| [![](/images/Partners%20portal/funding666.png)](/take-action/partners-portal/funding)|
 | -------- | --------  |
-| [![](/images/Partners%20portal/volunteeting777.png)](/take-action/partners-portal/volunteering)   | [![](/images/Partners%20portal/other%20resources%20777.png)](/take-action/partners-portal/otherresources)  |
+| [![](/images/Partners%20portal/volunteeting777.png)](/take-action/partners-portal/volunteering)   | [![](/images/Partners%20portal/other%20resources%20777.png)](/take-action/partners-portal/resources)  |
 
 
 
