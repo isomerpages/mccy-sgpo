@@ -2,7 +2,6 @@ collections:
   take-action:
     output: true
     order:
-      - Share Your Proposal.md
       - Get Started.md
       - Partners Portal/.keep
       - Partners Portal/Introduction to Partners Portal.md
@@ -15,3 +14,4 @@ collections:
         Office.md
       - Frequently Asked Questions/Submitting a Partnerships Proposal.md
       - Frequently Asked Questions/Topics for Partnership with the Government.md
+      - Share Your Proposal.md
