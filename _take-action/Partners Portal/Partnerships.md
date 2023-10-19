@@ -30,7 +30,7 @@ third_nav_title: Partners Portal
 
 ### For Youths
 
-| [Young ChangeMakers Programme](https://www.nyc.gov.sg/programmes-grants/grants-young-changemakers) ![](/images/Opportunities/nyc-ycm-logo-(422x304).jpg)| [Youth Engagement Initiatives](https://go.gov.sg/youth-programmes) ![](/images/Opportunities/mso-logo_422x304.jpg)|
+| [Young ChangeMakers Programme](https://www.nyc.gov.sg/programmes-grants/young-changemakers) ![](/images/Opportunities/nyc-ycm-logo-(422x304).jpg)| [Youth Engagement Initiatives](https://go.gov.sg/youth-programmes) ![](/images/Opportunities/mso-logo_422x304.jpg)|
 | -------- | -------- | 
 |A by youth for youth programme to empower youths through grants and mentorship in starting projects that benefit the community.| Collaboration to support students/youths to develop interventions to address municipal issues. Find out about MSO's youth initiatives via the link.| 
 
