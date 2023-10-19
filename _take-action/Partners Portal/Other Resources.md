@@ -20,4 +20,4 @@ Share feedback on a particular government policy or issue.
 
 
 
-**If the above is not what you are looking for, share your proposal [here](https://go.gov.sg/takceactiontoday).**
+**If the above is not what you are looking for, share your proposal here. 
