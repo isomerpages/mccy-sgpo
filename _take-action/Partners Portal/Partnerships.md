@@ -35,7 +35,7 @@ third_nav_title: Partners Portal
 
 |[Youth Panels](https://www.nyc.gov.sg/youthpanels)![](/images/Opportunities/youth-panels_422x304.jpg) | [Youth Stewards for Nature](https://go.gov.sg/ysn/)![](/images/Opportunities/nparks-logo_422x304.jpg)|
 | -------- | -------- | 
-|Youth panels provide opportunities for young Singaporeans and the Government to come together to work on policies, co-creating them together.  |  Mentored by NParks, this is a 6-month-long programme suitable for youths aged 18 to 25 with interest and have some experience in fields such as landscape architecture, environmental studies, and biological or life sciences. | 
+|Youth panels provide opportunities for young Singaporeans and the Government to come together to work on policies, co-creating them together.  |  6-month-long programme suitable for youths aged 18 to 25 with interest and have some experience in fields such as landscape architecture, environmental studies, and biological or life sciences. | 
 
 
 ### For Ground-Ups
