@@ -4,11 +4,9 @@ permalink: /take-action/frequently-asked-questions/3/
 description: ""
 third_nav_title: Frequently Asked Questions
 ---
-## What are the topics currently opened for partnerships? 
+## What are the areas currently prioritised by the Government for partnerships with citizens? 
 
 List is correct as of 27 Oct 2023. 
-
-**Share your proposal with us [here](https://go.gov.sg/sgpostageform).**
 
 1. Arts
 2. Building Singaporean Identity and Communities
@@ -30,4 +28,8 @@ List is correct as of 27 Oct 2023.
 18. Wildlife and Animal Management
 19. Youth
 
-You may continue to share your proposal with us even if your topic of interest do not fall within those stated above. 
+Please continue to share you proposal with us even if your areas of interest are not covered in the list above. 
+
+Click on the button below to share your proposal. 
+
+[![](/images/take%20action.png)](https://go.gov.sg/takeactiontoday)
