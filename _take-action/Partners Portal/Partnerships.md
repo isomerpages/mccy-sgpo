@@ -47,6 +47,6 @@ third_nav_title: Partners Portal
 **Need help getting your ground-up initiative off the ground? Find curated resources and support here.**
 
 
-###### If the above is not what you are looking for, share your proposal here.
+### If the above is not what you are looking for, share your proposal here.
 
 [![](/images/take%20action.png)](https://go.gov.sg/takeactiontoday)
