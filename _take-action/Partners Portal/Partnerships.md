@@ -13,7 +13,7 @@ third_nav_title: Partners Portal
 | --- | - | 
 | Make a difference by starting a project to enhance Singaporeans' digital skills and wellbeing. Find out how you can make a difference to drive a Digitally inclusive Singapore by partnering with us.  | Mentoring SG Connect is a place where you can contribute your expertise and wisdom to make a lasting difference in the lives of a growing community of young minds. | 
 
-|[Nature  Kakis](https://go.gov.sg/naturekakisenquiry) <br> <br>![](/images/Opportunities/nparks-logo_422x304.jpg) | [OneMillionTrees Facilitator](https://go.gov.sg/omtvolfacil) <br> ![](/images/Opportunities/nparks-logo_422x304.jpg) |
+|[Nature  Kakis](https://go.gov.sg/naturekakisenquiry) <br> <br><br>![](/images/Opportunities/nparks-logo_422x304.jpg) | [OneMillionTrees Facilitator](https://go.gov.sg/omtvolfacil) <br> ![](/images/Opportunities/nparks-logo_422x304.jpg) |
 | --- | - | 
 | A platform that will help grow NParks' City in Nature vision in the heartlands, as well as encourage greater appreciation and community stewardship. | Volunteer facilitators will assist with tree planting events and share the key messaging of how this contributes towards NParks' City in Nature vision.   | 
 
