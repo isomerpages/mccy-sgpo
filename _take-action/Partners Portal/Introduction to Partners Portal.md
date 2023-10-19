@@ -6,9 +6,9 @@ third_nav_title: Partners Portal
 ---
 ## INTRODUCTION
 
-Welcome to the Partners Portal. 
+**Welcome to the Partners Portal.** 
 
-Click on the images below to explore existing resources and platforms that may support your idea. 
+**Click on the images below to explore existing resources and platforms that may support your idea.** 
 
 | [![](/images/Partners%20portal/partnerships555.png) ](/take-action/partners-portal/partnerships/)| [![](/images/Partners%20portal/funding666.png)](/take-action/partners-portal/funding)|
 | -------- | --------  |
