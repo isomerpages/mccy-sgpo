@@ -7,4 +7,4 @@ description: ""
 
 [![](/images/take%20action.png)](https://go.gov.sg/takeactiontoday)
 
-###### If not, please head to our Partners Portal page.
+###### If not, please head to our [Partners Portal](/take-action/partnersportal/) page.
