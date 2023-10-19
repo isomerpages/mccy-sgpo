@@ -20,4 +20,6 @@ Share feedback on a particular government policy or issue.
 
 
 
-**If the above is not what you are looking for, share your proposal here. 
+**If the above is not what you are looking for, share your proposal here.
+
+[![](/images/take%20action.png)](https://go.gov.sg/takeactiontoday)
