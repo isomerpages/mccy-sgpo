@@ -22,4 +22,6 @@ Search for available volunteering opportunities that strikes a chord with your h
 
 
 
-**If the above is not what you are looking for, share your proposal [here](https://go.gov.sg/takeactiontoday).**
+**If the above is not what you are looking for, share your proposal here. 
+
+[![](/images/take%20action.png)](https://go.gov.sg/takeactiontoday)
