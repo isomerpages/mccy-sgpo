@@ -36,4 +36,6 @@ OurSG Grants portal bring government grants for the arts, community, heritage, s
 
 [raiSE](https://www.raise.sg) was set up to raise awareness of social entrepreneurship and raise support for Social Enterprise in Singapore. 
 
-**If the above is not what you are looking for, share your proposal [here](https://go.gov.sg/takeactiontoday).**
+**If the above is not what you are looking for, share your proposal here. 
+
+[![](/images/take%20action.png)](https://go.gov.sg/takeactiontoday)
