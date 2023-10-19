@@ -27,17 +27,22 @@ OurSG Grants portal brings government grants for the arts, community, heritage, 
 
 ### For-Profit Initiatives 
 
-#### Businesses 
+#### 1. Businesses
 
-[![](/images/Opportunities/gobusiness-logo_422x304.jpg)](https://gobusiness.gov.sg)
+##### [GoBusiness Portal](https://gobusiness.gov.sg)
 
-[GoBusiness ](https://gobusiness.gov.sg)portal is the go-to platform for businesses in Singapore to access Government e-services and resources.
+[![](/images/Opportunities/gobusiness-logo-v2.jpg)](https://gobusiness.gov.sg)
 
-#### Social Enterprises
+[GoBusiness ](https://gobusiness.gov.sg) is the go-to platform to connect businesses in Singapore to various Government e-services and resources. 
+
+#### 2. Social Enterprises
+
+##### [raISE](https://www.raise.sg)
+
 [![](/images/Opportunities/rsz_raise.png)](https://www.raise.sg)
 
 [raiSE](https://www.raise.sg) was set up to raise awareness of social entrepreneurship and raise support for Social Enterprise in Singapore. 
 
-**If the above is not what you are looking for, share your proposal here. 
+##### If the above is not what you are looking for, share your proposal here.
 
 [![](/images/take%20action.png)](https://go.gov.sg/takeactiontoday)
