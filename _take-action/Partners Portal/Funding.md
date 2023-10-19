@@ -21,7 +21,7 @@ OurSG Grants portal brings government grants for the arts, community, heritage, 
 | -------- | -------- | 
 |LOH Fund supports grounds-up initiatives that addresses municipal issues in our neighbourhoods. Apply via the link. | Provides funding for projects that promotes environmental sustainability and public cleanliness in the community. | 
 
-| [SG Eco<br> Fund](https://www.mse.gov.sg/sgecofund) ![](/images/Opportunities/sg-eco-fund_422x304.jpg) | [Youth Heritage Kickstarter Fund](https://www.nyc.gov.sg/programmes-grants/young-changemakers) ![](/images/Opportunities/nyc-ycm-logo-(422x304).jpg) |
+| [SG Eco Fund](https://www.mse.gov.sg/sgecofund) ![](/images/Opportunities/sg-eco-fund_422x304.jpg) | [Young Changemakers - Youth Heritage Kickstarter Fund](https://www.nyc.gov.sg/programmes-grants/young-changemakers) ![](/images/Opportunities/nyc-ycm-logo-(422x304).jpg) |
 | -------- | -------- | 
 |Provides funding for community projects that advance environmental sustainability (e.g., community farming, biodiversity awareness, and resource conservation). | YCM - YHKF provides funding and resources to empower youths to take an active role in preserving and safeguarding Singapore's heritage. | 
 
