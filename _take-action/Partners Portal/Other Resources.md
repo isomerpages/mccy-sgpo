@@ -15,11 +15,11 @@ third_nav_title: Partners Portal
 
 [![](/images/Opportunities/reach%20logo_422x304%20.png)](https://reach.gov.sg/About-Us/Contact-Us/Feedback-Form) 
 
-Share feedback on a particular government policy or issue.
+Share your feedback [here](https://www.reach.gov.sg/About-Us/Contact-Us/Feedback-Form) on a particular government policy or issue.
 
 
 
 
-**If the above is not what you are looking for, share your proposal here.
+##### If the above is not what you are looking for, share your proposal here.
 
 [![](/images/take%20action.png)](https://go.gov.sg/takeactiontoday)
