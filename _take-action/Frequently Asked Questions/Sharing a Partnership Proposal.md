@@ -49,6 +49,6 @@ You are welcome to submit additional information in various formats. If you wish
 
 All partnership proposals developed are taken seriously by the respective Government agencies. Complex proposals will require more time for agencies to assess their feasibility. Hence, adequate time is needed for agencies to get back to citizens with a meaningful response.
 
-#### If you have a proposal that you want to take action on, submit them here. 
+#### If you have a proposal that you want to take action on, share them here. 
 
 [![](/images/take%20action.png)](https://go.gov.sg/takeactiontoday)
