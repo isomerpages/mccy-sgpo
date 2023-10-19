@@ -15,8 +15,8 @@ Click on the images below to explore existing resources and platforms that may s
 | [![](/images/Partners%20portal/volunteeting777.png)](/take-action/partners-portal/volunteering)   | [![](/images/Partners%20portal/other%20resources%20777.png)](/take-action/partners-portal/resources)  |
 
 
+**Click here to read the  [FAQs](/take-action/frequently-asked-questions/sgpo2/) on sharing a partnership proposal**.
 
+**If you are already clear on how to submit a proposal you want to take action on, click here.**
 
-**If the above is not what you are looking for, share your proposal with us [here](https://go.gov.sg/takeactiontoday).**
-
-**Alternatively, click here to read the  [FAQs](/take-action/frequently-asked-questions/sgpo2/) on submitting a partnership proposal**.
+[![](/images/take%20action.png)](https://go.gov.sg/takeactiontoday)
