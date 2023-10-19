@@ -6,7 +6,7 @@ third_nav_title: Partners Portal
 ---
 #### [Giving.SG](https://www.giving.sg)
 
-[![](/images/Opportunities/givingsg_logo.png)](https://www.giving.sg) 
+[![](/images/Opportunities/giving-sg-logo_422x304.jpg)](https://www.giving.sg) 
 
 [Giving.SG](https://www.giving.sg) is a one-stop national giving platform to donate, volunteer and fundraise for any of the over 600 registered non-profits in Singapore.
 
