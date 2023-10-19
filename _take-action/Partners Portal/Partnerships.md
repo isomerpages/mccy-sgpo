@@ -14,16 +14,16 @@ third_nav_title: Partners Portal
 | Make a difference by starting a project to enhance Singaporeans' digital skills and wellbeing. Find out how you can make a difference to drive a Digitally inclusive Singaporea by partnering with us.  | Contribute your expertise and wisdom to make a lasting difference in the lives of a growing community of young minds. | 
 
 
-|[Nature Kakis](https://go.gov.sg/naturekakisenquiry)![](/images/Opportunities/nparks-logo_422x304.jpg) | [Noise Experiential Lab (NEL)](https://go.gov.sg/noiselab)![](/images/Opportunities/mso-logo_422x304.jpg)|
+|[Nature <br> Kakis](https://go.gov.sg/naturekakisenquiry)![](/images/Opportunities/nparks-logo_422x304.jpg) | [Noise Experiential Lab (NEL)](https://go.gov.sg/noiselab)![](/images/Opportunities/mso-logo_422x304.jpg)|
 | --- | - | 
 |  Platform that will help grow our City in Nature vision in the heartlands and encourage greater appreciation and community stewardship. | Visit the NEL to learn about neighbour noises, and social norms that we should adopt to manage noise.| 
 
 
-| [OneService Kakis (OSK) Network](https://go.gov.sg/oskgettoknowyou) ![](/images/Opportunities/mso-logo_422x304.jpg)| [OneMillionTrees Facilitator](https://go.gov.sg/omtvolfacil) ![](/images/Opportunities/nparks-logo_422x304.jpg)|
+| [OneService Kakis (OSK) Network](https://go.gov.sg/oskgettoknowyou) ![](/images/Opportunities/mso-logo_422x304.jpg)| [OneMillionTrees <br> Facilitator](https://go.gov.sg/omtvolfacil) ![](/images/Opportunities/nparks-logo_422x304.jpg)|
 | --- | - | 
 | Join OSK Network to gain awareness of municipal issues and participate in grounds-up initiatives.| Volunteer facilitators will assist with tree planting events and share the key messaging of how this contributes towards our City in Nature Vision.  | 
 
-| [Our SG Arts Plan (2023 - 2027)](https://www.nac.gov.sg/about-us/oursgartsplan/join-the-making)![](/images/Opportunities/our-arts-plan-2023-2027_422x304.jpg)| [School-Industry Partnership](https://go.gov.sg/partnerwithschools)![](/images/Opportunities/moe-logo_422x304.jpg)|
+| [Our SG Arts Plan <br>(2023 - 2027)](https://www.nac.gov.sg/about-us/oursgartsplan/join-the-making)![](/images/Opportunities/our-arts-plan-2023-2027_422x304.jpg)| [School-Industry Partnership](https://go.gov.sg/partnerwithschools)![](/images/Opportunities/moe-logo_422x304.jpg)|
 | --- | - | 
 | Join the Making of Singapore's future arts scene where artists, audiences, and partners play their parts. | Keen to partner schools on programmes and co-create solutions with students and educators? | 
 
