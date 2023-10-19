@@ -4,7 +4,7 @@ permalink: /take-action/frequently-asked-questions/3/
 description: ""
 third_nav_title: Frequently Asked Questions
 ---
-## What are the areas currently prioritised by the Government for partnerships with citizens? 
+### What are the areas currently prioritised by the Government for partnerships with citizens? 
 
 List is correct as of 27 Oct 2023. 
 
