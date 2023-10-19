@@ -9,7 +9,7 @@ third_nav_title: Partners Portal
 
 ### For General Public
 
-| [Digital for Life](https://www.imda.gov.sg/digitalforlife/get-started#starting-a-project)![](/images/Opportunities/dfl-play-it-forward-logo_422x304.jpg)| [Mentoring.SG](https://www.mentoringsg.com)![](/images/Opportunities/mentoring-sg_422x304.jpg) |
+| [Digital for Life](https://www.digitalforlife.gov.sg)![](/images/Opportunities/dfl-play-it-forward-logo_422x304.jpg)| [Mentoring.SG](https://www.mentoringsg.com)![](/images/Opportunities/mentoring-sg_422x304.jpg) |
 | --- | - | 
 | Make a difference by starting a project to enhance Singaporeans' digital skills and wellbeing. Find out how you can make a difference to drive a Digitally inclusive Singaporea by partnering with us.  | Contribute your expertise and wisdom to make a lasting difference in the lives of a growing community of young minds. | 
 
