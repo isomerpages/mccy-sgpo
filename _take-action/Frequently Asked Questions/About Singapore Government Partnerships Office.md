@@ -25,6 +25,8 @@ The SGPO website is a first-stop platform. If you want to act on ideas that cont
 
 SGPO's mission complements this by supporting those who want to take action on issues they care about, through partnering with government and others. 
  
-#### If you are already clear on how to share a proposal you want to take action on, click here.
+#### If you are already clear on how to submit a proposal you want to take action on, click here. 
 
 [![](/images/take%20action.png)](https://go.gov.sg/takeactiontoday)
+
+#### If not, please head to our [Partners Portal](/take-action/partnersportal/) page.
