@@ -18,12 +18,12 @@ third_nav_title: Partners Portal
 | The Nature Kakis Network is a platform that will help grow NParks' City in Nature vision in the heartlands, as well as encourage greater appreciation and community stewardship. | Volunteer facilitators will assist with tree planting events and share the key messaging of how this contributes towards NParks' City in Nature vision.   | 
 
 
-|[Noise Experiential Lab (NEL)](https://go.gov.sg/noiselab)![](/images/Opportunities/mso-logo_422x304.jpg) | |
+|[Noise Experiential Lab <br>(NEL)](https://go.gov.sg/noiselab)![](/images/Opportunities/mso-logo_422x304.jpg) | [OneService Kakis (OSK) Network](https://go.gov.sg/oskgettoknowyou) ![](/images/Opportunities/mso-logo_422x304.jpg)|
 | --- | - | 
-|  Platform that will help grow our City in Nature vision in the heartlands and encourage greater appreciation and community stewardship. | Visit the NEL to learn about neighbour noises, and social norms that we should adopt to manage noise.| 
+| Visit the NEL to learn about neighbour noises, and social norms that we should adopt to manage noise.| Join OSK Network to gain awareness of municipal issues and participate in grounds-up initiatives. | 
 
 
-| [OneService Kakis (OSK) Network](https://go.gov.sg/oskgettoknowyou) ![](/images/Opportunities/mso-logo_422x304.jpg)| |
+| | |
 | --- | - | 
 | Join OSK Network to gain awareness of municipal issues and participate in grounds-up initiatives.| Volunteer facilitators will assist with tree planting events and share the key messaging of how this contributes towards our City in Nature Vision.  | 
 
