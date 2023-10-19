@@ -9,12 +9,6 @@ third_nav_title: Partners Portal
 
 ### For General Public
 
-[Caring SG Commuters Movement](https://www.caringcommuniters.gov.sg) 
-
-![](/images/Opportunities/caringsg-logo_422x304.jpg)
-
-Caring SG Commuters Movement aims to foster a caring community culture in Singapore's public transport system. 
-
 | [Digital for Life](https://www.digitalforlife.gov.sg)![](/images/Opportunities/dfl-play-it-forward-logo_422x304.jpg)| [Mentoring.SG](https://www.mentoringsg.com)![](/images/Opportunities/mentoring-sg_422x304.jpg) |
 | --- | - | 
 | Make a difference by starting a project to enhance Singaporeans' digital skills and wellbeing. Find out how you can make a difference to drive a Digitally inclusive Singapore by partnering with us.  | Mentoring SG Connect is a place where you can contribute your expertise and wisdom to make a lasting difference in the lives of a growing community of young minds. | 
