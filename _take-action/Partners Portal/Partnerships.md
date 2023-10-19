@@ -22,9 +22,9 @@ third_nav_title: Partners Portal
 | --- | - | 
 | Visit the NEL to learn about neighbour noises, and social norms that we should adopt to manage noise.| Join OSK Network to gain awareness of municipal issues and participate in grounds-up initiatives. | 
 
-| [Our SG Arts Plan <br>(2023 - 2027)](https://www.nac.gov.sg/about-us/oursgartsplan/join-the-making)![](/images/Opportunities/our-arts-plan-2023-2027_422x304.jpg)| [School-Industry Partnership](https://go.gov.sg/partnerwithschools)![](/images/Opportunities/moe-logo_422x304.jpg)|
+| [Our SG Arts Plan (2023 - 2027)](https://www.nac.gov.sg/about-us/oursgartsplan/join-the-making)![](/images/Opportunities/our-arts-plan-2023-2027_422x304.jpg)| [School-Industry Partnership](https://go.gov.sg/partnerwithschools)![](/images/Opportunities/moe-logo_422x304.jpg)|
 | --- | - | 
-| Join the Making of Singapore's future arts scene where artists, audiences, and partners play their parts. | Keen to partner schools on programmes and co-create solutions with students and educators? | 
+| Join the Making of Singapore's future arts scene where artists, audiences, and partners play their parts! | Keen to partner schools on programmes and co-create solutions with students and educators? Indicate your interest to explore partnership opportunities.  | 
 
 
 ### For Youths
