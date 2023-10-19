@@ -4,14 +4,14 @@ permalink: /take-action/partners-portal/resources/
 description: ""
 third_nav_title: Partners Portal
 ---
-#### [Giving.SG](https://www.giving.sg)
+##### [Giving.SG](https://www.giving.sg)
 
 [![](/images/Opportunities/giving-sg-logo_422x304.jpg)](https://www.giving.sg) 
 
-[Giving.SG](https://www.giving.sg) is a one-stop national giving platform to donate, volunteer and fundraise for any of the over 600 registered non-profits in Singapore.
+[Giving.SG](https://www.giving.sg) is a one-stop national platform to donate, volunteer and fundraise for over 600 registered non-profits in Singapore.
 
 
-#### [REACH - Government Feedback Unit](https://www.reach.gov.sg/About-Us/Contact-Us/Feedback-Form)
+##### [REACH - Government Feedback Unit](https://www.reach.gov.sg/About-Us/Contact-Us/Feedback-Form)
 
 [![](/images/Opportunities/reach%20logo_422x304%20.png)](https://reach.gov.sg/About-Us/Contact-Us/Feedback-Form) 
 
