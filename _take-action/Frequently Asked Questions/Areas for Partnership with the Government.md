@@ -30,6 +30,8 @@ List is correct as of 27 Oct 2023.
 
 Please continue to share you proposal with us even if your areas of interest are not covered in the list above. 
 
-Click on the button below to share your proposal. 
+#### If you are already clear on how to submit a proposal you want to take action on, click here. 
 
 [![](/images/take%20action.png)](https://go.gov.sg/takeactiontoday)
+
+#### If not, please head to our [Partners Portal](/take-action/partnersportal/) page to explore resources that may support your idea .
