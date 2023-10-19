@@ -18,14 +18,9 @@ third_nav_title: Partners Portal
 | The Nature Kakis Network is a platform that will help grow NParks' City in Nature vision in the heartlands, as well as encourage greater appreciation and community stewardship. | Volunteer facilitators will assist with tree planting events and share the key messaging of how this contributes towards NParks' City in Nature vision.   | 
 
 
-|[Noise Experiential Lab <br>(NEL)](https://go.gov.sg/noiselab)![](/images/Opportunities/mso-logo_422x304.jpg) | [OneService Kakis (OSK) Network](https://go.gov.sg/oskgettoknowyou) ![](/images/Opportunities/mso-logo_422x304.jpg)|
+|[Noise Experiential Lab <br>(NEL)](https://go.gov.sg/noiselab)![](/images/Opportunities/mso-logo_422x304.jpg) | [OneService Kakis Network <br>(OSK Network)](https://go.gov.sg/oskgettoknowyou) ![](/images/Opportunities/mso-logo_422x304.jpg)|
 | --- | - | 
 | Visit the NEL to learn about neighbour noises, and social norms that we should adopt to manage noise.| Join OSK Network to gain awareness of municipal issues and participate in grounds-up initiatives. | 
-
-
-| | |
-| --- | - | 
-| Join OSK Network to gain awareness of municipal issues and participate in grounds-up initiatives.| Volunteer facilitators will assist with tree planting events and share the key messaging of how this contributes towards our City in Nature Vision.  | 
 
 | [Our SG Arts Plan <br>(2023 - 2027)](https://www.nac.gov.sg/about-us/oursgartsplan/join-the-making)![](/images/Opportunities/our-arts-plan-2023-2027_422x304.jpg)| [School-Industry Partnership](https://go.gov.sg/partnerwithschools)![](/images/Opportunities/moe-logo_422x304.jpg)|
 | --- | - | 
