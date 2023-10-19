@@ -41,7 +41,7 @@ If you are **only** interested in applying for grants, please visit [OurSG Grant
 
 SingPass log-in is used purely to authenticate your identity. Your personal information is hence not used to pre-fill the submission fields. 
 
-### 5. What if I want to submit partnership proposal in another format rather than written text? 
+### 5. What if I want to share my partnership proposal in another format rather than written text? 
 
 You are welcome to submit additional information in various formats. If you wish to submit a video proposal, you may do so by uploading a word document with a link to your video. Do note that you would still need to fill in the form's mandatory submission fields. 
 
@@ -49,4 +49,6 @@ You are welcome to submit additional information in various formats. If you wish
 
 All partnership proposals developed are taken seriously by the respective Government agencies. Complex proposals will require more time for agencies to assess their feasibility. Hence, adequate time is needed for agencies to get back to citizens with a meaningful response.
 
-#### If you have a proposal that you want to take action on, submit them [here](https://go.gov.sg/takeactiontoday).
+#### If you have a proposal that you want to take action on, submit them here. 
+
+[![](/images/take%20action.png)](https://go.gov.sg/takeactiontoday)
