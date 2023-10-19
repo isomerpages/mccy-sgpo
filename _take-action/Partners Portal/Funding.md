@@ -21,6 +21,11 @@ OurSG Grants portal brings government grants for the arts, community, heritage, 
 | -------- | -------- | 
 |LOH Fund supports grounds-up initiatives that addresses municipal issues in our neighbourhoods. Apply via the link. | Provides funding for projects that promotes environmental sustainability and public cleanliness in the community. | 
 
+
+| [Maritime Outreach Fund](https://www.mpa.gov.sg/events-careers/public-outreach/maritime-outreach-fund)![](/images/Opportunities/mpa-logo_422x304.jpg)| [Our Singapore Fund](https://www.sg/oursingaporefund) ![](/images/Opportunities/osf-logo_422x304.jpg)|
+| -------- | -------- | 
+|Make use of this funding platform to organise maritime-related activities, and gain first-hand experience of various aspects of the maritime industry.| Have an idea for projects that bring communities together, or promotes Singapore's national identity and shared values? Find out if you are eligible to apply for Our Singapore Fund. | 
+
 | [SG Eco Fund](https://www.mse.gov.sg/sgecofund) ![](/images/Opportunities/sg-eco-fund_422x304.jpg) | [Young Changemakers - Youth Heritage Kickstarter Fund](https://www.nyc.gov.sg/programmes-grants/young-changemakers) ![](/images/Opportunities/nyc-ycm-logo-(422x304).jpg) |
 | -------- | -------- | 
 |Provides funding for community projects that advance environmental sustainability (e.g., community farming, biodiversity awareness, and resource conservation). | YCM - YHKF provides funding and resources to empower youths to take an active role in preserving and safeguarding Singapore's heritage. | 
