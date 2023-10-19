@@ -4,7 +4,7 @@ permalink: /take-action/partnersportal/
 description: ""
 third_nav_title: Partners Portal
 ---
-## INTRODUCTION
+# Introduction
 
 **Welcome to the Partners Portal.** 
 
