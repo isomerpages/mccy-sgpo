@@ -18,7 +18,7 @@ sections:
           - title: Take action on a proposal
             url: /take-action/take-action-today/
           - title: Explore existing opportunities
-            url: ""
+            url: /take-action/partnersportal/
           - title: Read stories and get inspired
             url: /feature-stories/
           - title: Find out more about us
