@@ -3,7 +3,7 @@ title: Feature Stories
 permalink: /feature-stories/
 description: ""
 ---
-#### **Want to start getting involved in partnerships with the government but don't know how? Take some inspiration from these stories and projects.**
+#### **Want to partner the government for a better Singapore but don't know where to start? Get some inspiration from these stories and projects.**
 
 ![Mountbatten Parking Heroes](/images/img_mountbatten-parking-hero---1296x550.jpg)
 
