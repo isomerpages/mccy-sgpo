@@ -46,5 +46,5 @@ description: ""
 * [Project Get Flamed](https://www.projgetflamed.com/about/our-journey)
 * [Project Hills](https://www.theprojecthills.com): [Paying it forward](https://www.gov.sg/article/zulayqha-zulkifli)
 * [ProjectLoveLunch](https://www.projectlovelunch.com/about): [It’s a family affair: Project Love Lunch brings residents closer](https://pride.kindness.sg/its-a-family-affair-yishun-block-carnival-brings-residents-together/)
-* [SGFamilies](https://www.facebook.com/SGFamilies/): [Parent volunteers' group offers support to families under stress](https://www.straitstimes.com/opinion/forum/forum-parent-volunteers-group-offers-support-to-families-under-stress?fbclid=IwAR3-AivF0sb2UvWC6Fu74RvboOww_uKFT2VeRs_JzMwyUn2beAqNz_FGpTo))
+* [SGFamilies](https://www.facebook.com/SGFamilies/): [Parent volunteers' group offers support to families under stress](https://www.straitstimes.com/opinion/forum/forum-parent-volunteers-group-offers-support-to-families-under-stress?fbclid=IwAR3-AivF0sb2UvWC6Fu74RvboOww_uKFT2VeRs_JzMwyUn2beAqNz_FGpTo)
 * [Well-being Circles](https://www.wellbeingcircles.sg/): [Heartland 'well-being circles' to be formed to safeguard mental health of S'poreans](https://www.straitstimes.com/singapore/community/nationwide-network-for-citizens-mental-health-to-run-well-being-circles)
