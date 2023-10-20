@@ -19,12 +19,12 @@ third_nav_title: Partners Portal
 
 |  ![](/images/Opportunities/nparks-logo_422x304.jpg) |![](/images/Opportunities/nparks-logo_422x304.jpg) |
 | --- | - | 
-|[Nature  Kakis](https://go.gov.sg/naturekakisenquiry): A platform that will help grow NParks' City in Nature vision in the heartlands, as well as encourage greater appreciation and community stewardship. |  [OneMillionTrees Facilitator](https://go.gov.sg/omtvolfacil): Volunteer facilitators will assist with tree planting events and share the key messaging of how this contributes towards NParks' City in Nature vision.   | 
+|[Nature  Kakis](https://go.gov.sg/naturekakisenquiry): The Nature Kakis Network is a platform that will help grow NParks' City in Nature vision in the heartlands, as well as encourage greater appreciation and community stewardship. |  [OneMillionTrees Facilitator](https://go.gov.sg/omtvolfacil): Volunteer facilitators will assist with tree planting events and share the key messaging of how this contributes towards NParks' City in Nature vision.   | 
 
 
 |![](/images/Opportunities/mso-logo_422x304.jpg) |  ![](/images/Opportunities/mso-logo_422x304.jpg)|
 | --- | - | 
-| [Noise Experiential Lab (NEL)](https://go.gov.sg/noiselab): Visit the NEL to learn about neighbour noises, and social norms that we should adopt to manage noise.| [One Service Kakis Network (OSK Network)](https://go.gov.sg/oskgettoknowyou): Join OSK Network to gain awareness of municipal issues and participate in grounds-up initiatives. | 
+| [Noise Experiential Lab (NEL)](https://go.gov.sg/noiselab): Visit the NEL to learn about neighbour noises, and social norms that we should adopt to manage noise.| [One Service Kakis Network ](https://go.gov.sg/oskgettoknowyou): Join OSK Network to gain awareness of municipal issues and participate in grounds-up initiatives. | 
 
 | ![](/images/Opportunities/our-arts-plan-2023-2027_422x304.jpg)| ![](/images/Opportunities/moe-logo_422x304.jpg)|
 | --- | - | 
