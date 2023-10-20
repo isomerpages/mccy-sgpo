@@ -34,7 +34,7 @@ Explore this website to discover which platforms best meet your needs.
 
 Submitting a partnership proposal does not directly qualify you for grants. However, once you are linked with the respective government agencies, you may then work with them to separately apply for grant where needed. 
 
-If you are **only** interested in applying for grants, please visit [OurSG Grants Portal](www.oursggrants.gov.sg). 
+If you are **only** interested in applying for grants, please visit [OurSG Grants portal](https://oursggrants.gov.sg) 
 
 ### 4. Why is SingPass login required to fill up the partnership proposal? Why is my personal information not auto-filled despite the use of SingPass? 
 
