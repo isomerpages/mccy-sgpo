@@ -10,7 +10,7 @@ third_nav_title: Partners Portal
 
 | ![](/images/Opportunities/caringsg-logo_422x304.jpg) |![](/images/Opportunities/groundup-central-logo--v2.jpg) |
 | -------- | -------- |
-| [Caring SG Commuters Movement](https://www.caringcommuters.gov.sg) aims to foster a caring community culture in Singapore's public transport system.    | [Ground Up Central ](https://groundupcentral.sg): Need help getting your ground-up initiative off the ground? Find curated resources and support here.
+| [Caring SG Commuters Movement](https://www.caringcommuters.gov.sg) aims to foster a caring community culture in Singapore's public transport system.    | [Ground Up Central](https://groundupcentral.sg): Need help getting your ground-up initiative off the ground? Find curated resources and support here.
 
 
 |  ![](/images/Opportunities/dfl-play-it-forward-logo-v2.jpg) | ![](/images/Opportunities/mentoring-sg_422x304.jpg) |
@@ -24,7 +24,7 @@ third_nav_title: Partners Portal
 
 |![](/images/Opportunities/mso-logo_422x304.jpg) |  ![](/images/Opportunities/mso-logo_422x304.jpg)|
 | --- | - | 
-| [Noise Experiential Lab (NEL)](https://go.gov.sg/noiselab): Visit the NEL to learn about neighbour noises, and social norms that we should adopt to manage noise.| [One Service Kakis Network ](https://go.gov.sg/oskgettoknowyou): Join OSK Network to gain awareness of municipal issues and participate in grounds-up initiatives. | 
+| [Noise Experiential Lab (NEL)](https://go.gov.sg/noiselab): Visit the NEL to learn about neighbour noises, and social norms that we should adopt to manage noise.| [One Service Kakis Network](https://go.gov.sg/oskgettoknowyou): Join OSK Network to gain awareness of municipal issues and participate in grounds-up initiatives. | 
 
 | ![](/images/Opportunities/our-arts-plan-2023-2027_422x304.jpg)| ![](/images/Opportunities/moe-logo_422x304.jpg)|
 | --- | - | 
