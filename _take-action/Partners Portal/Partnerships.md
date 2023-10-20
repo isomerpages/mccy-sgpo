@@ -13,18 +13,18 @@ third_nav_title: Partners Portal
 | [Caring SG Commuters Movement](https://www.caringcommuters.gov.sg) aims to foster a caring community culture in Singapore's public transport system.    | [Ground Up Central ](https://groundupcentral.sg): Need help getting your ground-up initiative off the ground? Find curated resources and support here.
 
 
-| [Digital for Life](https://www.digitalforlife.gov.sg) ![](/images/Opportunities/dfl-play-it-forward-logo-v2.jpg) | [Mentoring.SG](https://www.mentoringsg.com)![](/images/Opportunities/mentoring-sg_422x304.jpg) |
+|  ![](/images/Opportunities/dfl-play-it-forward-logo-v2.jpg) | ![](/images/Opportunities/mentoring-sg_422x304.jpg) |
 | --- | - | 
-| Make a difference by starting a project to enhance Singaporeans' digital skills and wellbeing. Find out how you can make a difference to drive a Digitally inclusive Singapore by partnering with us.  | Mentoring SG Connect is a place where you can contribute your expertise and wisdom to make a lasting difference in the lives of a growing community of young minds. | 
+| [Digital for Life](https://www.digitalforlife.gov.sg): Make a difference by starting a project to enhance Singaporeans' digital skills and wellbeing. Find out how you can make a difference to drive a Digitally inclusive Singapore by partnering with us.  | [Mentoring.SG](https://www.mentoringsg.com) Connect is a place where you can contribute your expertise and wisdom to make a lasting difference in the lives of a growing community of young minds. | 
 
-|[Nature  Kakis](https://go.gov.sg/naturekakisenquiry) <br>![](/images/Opportunities/nparks-logo_422x304.jpg) | [OneMillionTrees Facilitator](https://go.gov.sg/omtvolfacil) <br> ![](/images/Opportunities/nparks-logo_422x304.jpg) |
+|  ![](/images/Opportunities/nparks-logo_422x304.jpg) |![](/images/Opportunities/nparks-logo_422x304.jpg) |
 | --- | - | 
-| A platform that will help grow NParks' City in Nature vision in the heartlands, as well as encourage greater appreciation and community stewardship. | Volunteer facilitators will assist with tree planting events and share the key messaging of how this contributes towards NParks' City in Nature vision.   | 
+|[Nature  Kakis](https://go.gov.sg/naturekakisenquiry): A platform that will help grow NParks' City in Nature vision in the heartlands, as well as encourage greater appreciation and community stewardship. |  [OneMillionTrees Facilitator](https://go.gov.sg/omtvolfacil): Volunteer facilitators will assist with tree planting events and share the key messaging of how this contributes towards NParks' City in Nature vision.   | 
 
 
-|[Noise Experiential Lab <br>(NEL)](https://go.gov.sg/noiselab)![](/images/Opportunities/mso-logo_422x304.jpg) | [One Service Kakis Network <br>(OSK Network)](https://go.gov.sg/oskgettoknowyou) ![](/images/Opportunities/mso-logo_422x304.jpg)|
+|![](/images/Opportunities/mso-logo_422x304.jpg) |  ![](/images/Opportunities/mso-logo_422x304.jpg)|
 | --- | - | 
-| Visit the NEL to learn about neighbour noises, and social norms that we should adopt to manage noise.| Join OSK Network to gain awareness of municipal issues and participate in grounds-up initiatives. | 
+| [Noise Experiential Lab (NEL)](https://go.gov.sg/noiselab): Visit the NEL to learn about neighbour noises, and social norms that we should adopt to manage noise.| [One Service Kakis Network <br>(OSK Network)](https://go.gov.sg/oskgettoknowyou): Join OSK Network to gain awareness of municipal issues and participate in grounds-up initiatives. | 
 
 | [Our SG Arts Plan (2023 - 2027)](https://www.nac.gov.sg/about-us/oursgartsplan/join-the-making)![](/images/Opportunities/our-arts-plan-2023-2027_422x304.jpg)| [School-Industry Partnership](https://go.gov.sg/partnerwithschools)![](/images/Opportunities/moe-logo_422x304.jpg)|
 | --- | - | 
