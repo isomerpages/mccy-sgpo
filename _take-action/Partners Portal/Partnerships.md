@@ -8,9 +8,9 @@ third_nav_title: Partners Portal
 
 ### General Public
 
-| [Caring SG Commuters Movement](https://www.caringcommuters.gov.sg) ![](/images/Opportunities/caringsg-logo_422x304.jpg) | [Ground Up Central ](https://groundupcentral.sg)![](/images/Opportunities/groundup-central-logo--v2.jpg) |
+| ![](/images/Opportunities/caringsg-logo_422x304.jpg) |![](/images/Opportunities/groundup-central-logo--v2.jpg) |
 | -------- | -------- |
-| CaringSG Commuters Movement aims to foster a caring community culture in Singapore's public transport system.    | Need help getting your ground-up initiative off the ground? Find curated resources and support here. |
+| [Caring SG Commuters Movement](https://www.caringcommuters.gov.sg) aims to foster a caring community culture in Singapore's public transport system.    | [Ground Up Central ](https://groundupcentral.sg): Need help getting your ground-up initiative off the ground? Find curated resources and support here.
 
 
 | [Digital for Life](https://www.digitalforlife.gov.sg) ![](/images/Opportunities/dfl-play-it-forward-logo-v2.jpg) | [Mentoring.SG](https://www.mentoringsg.com)![](/images/Opportunities/mentoring-sg_422x304.jpg) |
