@@ -20,20 +20,20 @@ third_nav_title: Partners Portal
 | [Love Our 'Hood Fund <br>(LOH Fund)](https://go.gov.sg/fund-application) supports grounds-up initiatives that addresses municipal issues in our neighbourhoods. Apply via the link. | [NEA Call for Ideas <br>Fund](https://www.nea.gov.sg/programmes-grants/grants-and-awards/call-for-ideas-fund) provides funding for projects that promotes environmental sustainability and public cleanliness in the community. | 
 
 
-| [Maritime Outreach Fund](https://www.mpa.gov.sg/events-careers/public-outreach/maritime-outreach-fund)![](/images/Opportunities/mpa-logo_422x304.jpg)| [Our Singapore Fund](https://www.sg/oursingaporefund) ![](/images/Opportunities/osf-logo_422x304.jpg)|
+| ![](/images/Opportunities/mpa-logo_422x304.jpg)|  ![](/images/Opportunities/osf-logo_422x304.jpg)|
 | -------- | -------- | 
-|Make use of this funding platform to organise maritime-related activities, and gain first-hand experience of various aspects of the maritime industry.| Have an idea for projects that bring communities together, or promotes Singapore's national identity and shared values? Find out if you are eligible to apply for Our Singapore Fund. | 
+|[Maritime Outreach Fund](https://www.mpa.gov.sg/events-careers/public-outreach/maritime-outreach-fund): Make use of this funding platform to organise maritime-related activities, and gain first-hand experience of various aspects of the maritime industry.| [Our Singapore Fund](https://www.sg/oursingaporefund): Have an idea for projects that bring communities together, or promotes Singapore's national identity and shared values? Find out if you are eligible to apply. | 
 
-| [SG Eco Fund](https://www.mse.gov.sg/sgecofund) ![](/images/Opportunities/sg-eco-fund_422x304.jpg) | [Young Changemakers - Youth Heritage Kickstarter Fund](https://www.nyc.gov.sg/programmes-grants/young-changemakers) ![](/images/Opportunities/nyc-ycm-logo-(422x304).jpg) |
+|![](/images/Opportunities/sg-eco-fund_422x304.jpg)  |  ![](/images/Opportunities/nyc-ycm-logo-(422x304).jpg) |
 | -------- | -------- | 
-|Provides funding for community projects that advance environmental sustainability (e.g., community farming, biodiversity awareness, and resource conservation). | YCM - YHKF provides funding and resources to empower youths to take an active role in preserving and safeguarding Singapore's heritage. | 
+|[SG Eco Fund](https://www.mse.gov.sg/sgecofund) : Provides funding for community projects that advance environmental sustainability (e.g., community farming, biodiversity awareness, and resource conservation). | [Young Changemakers - Youth Heritage Kickstarter Fund](https://www.nyc.gov.sg/programmes-grants/young-changemakers)​:  provides funding and resources to empower youths to take an active role in preserving and safeguarding Singapore's heritage. | 
 
 ### Commercial Ideas 
 
 
-| [GoBusiness Portal](https://gobusiness.gov.sg) ![](/images/Opportunities/gobusiness-logo-v2.jpg) | [raISE](https://www.raise.sg) ![](/images/Opportunities/rsz_1rsz_raise.png)|
+| ![](/images/Opportunities/gobusiness-logo-v2.jpg) | ![](/images/Opportunities/rsz_1rsz_raise.png)|
 | - | -------- | 
-| GoBusiness is the go-to platform to connect **businesses** in Singapore to various Government e-services and resources. | raiSE was set up to raise awareness of social entrepreneurship and raise support for **Social Enterprise** in Singapore.  | 
+| [GoBusiness](https://gobusiness.gov.sg) is the go-to platform to connect **businesses** in Singapore to various Government e-services and resources. | [raiSE](https://www.raise.sg) was set up to raise awareness of social entrepreneurship and raise support for **Social Enterprise** in Singapore.  | 
 
 
 ### If the above is not what you are looking for, share your proposal here.
