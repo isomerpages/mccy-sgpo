@@ -27,7 +27,7 @@ List is correct as of 27 Oct 2023.
 19. Wildlife and Animal Management
 20. Youth
 
-**Please continue to share you proposal with us even if your areas of interest are not covered in the list above.**
+**Please continue to share your proposal with us even if your areas of interest are not covered in the list above.**
 
 #### If you are already clear on how to submit a proposal you want to take action on, click here. 
 
