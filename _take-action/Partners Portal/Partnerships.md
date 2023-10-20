@@ -6,7 +6,6 @@ third_nav_title: Partners Portal
 ---
 # Partnerships Opportunities
 
-### General Public
 
 | [Caring SG Commuters Movement](https://www.caringcommuters.gov.sg) ![](/images/Opportunities/caringsg-logo_422x304.jpg) | [Ground Up Central ](https://groundupcentral.sg)![](/images/Opportunities/groundup-central-logo--v2.jpg) |
 | -------- | -------- |
@@ -40,15 +39,6 @@ third_nav_title: Partners Portal
 |[Youth Panels](https://www.nyc.gov.sg/youthpanels) <br> <br> ![](/images/Opportunities/youth-panels_422x304.jpg) | [Youth Stewards for Nature](https://go.gov.sg/ysn/)![](/images/Opportunities/nparks-logo_422x304.jpg)|
 | -------- | -------- | 
 |Youth panels provide opportunities for young Singaporeans and the Government to come together to work on policies, co-creating them together.  |  6-month-long programme suitable for youths aged 18 to 25 with interest and have some experience in fields such as landscape architecture, environmental studies, and biological or life sciences. | 
-
-
-### For Ground-Ups
-
-##### [Ground Up Central ](https://groundupcentral.sg) 
-
-![](/images/Opportunities/groundup-central-logo--v2.jpg)
-
-**Need help getting your ground-up initiative off the ground? Find curated resources and support here.**
 
 
 ### If the above is not what you are looking for, share your proposal here.
