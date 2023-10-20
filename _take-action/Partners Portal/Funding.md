@@ -15,8 +15,6 @@ third_nav_title: Partners Portal
 
 [OurSG Grants portal](https://oursggrants.gov.sg) brings government grants for the arts, community, heritage, social good, sports and youth into one space. 
 
-#### Other Government Grants
-
 | [Love Our 'Hood Fund <br>(LOH Fund)](https://go.gov.sg/fund-application)![](/images/Opportunities/mso-logo_422x304.jpg)| [NEA Call for Ideas <br>Fund](https://www.nea.gov.sg/programmes-grants/grants-and-awards/call-for-ideas-fund) ![](/images/Opportunities/nea-logo_422x304.jpg) |
 | -------- | -------- | 
 |LOH Fund supports grounds-up initiatives that addresses municipal issues in our neighbourhoods. Apply via the link. | Provides funding for projects that promotes environmental sustainability and public cleanliness in the community. | 
@@ -32,21 +30,11 @@ third_nav_title: Partners Portal
 
 ### Commercial Ideas 
 
-#### 1. Businesses
 
-##### [GoBusiness Portal](https://gobusiness.gov.sg)
+| [GoBusiness Portal](https://gobusiness.gov.sg) ![](/images/Opportunities/gobusiness-logo_422x304.jpg) | [raISE](https://www.raise.sg) ![](/images/Opportunities/rsz_1rsz_raise.png)|
+| - | -------- | 
+| GoBusiness is the go-to platform to connect **businesses** in Singapore to various Government e-services and resources. | raiSE was set up to raise awareness of social entrepreneurship and raise support for **Social Enterprise** in Singapore.  | 
 
-[![](/images/Opportunities/gobusiness-logo-v2.jpg)](https://gobusiness.gov.sg)
-
-[GoBusiness ](https://gobusiness.gov.sg) is the go-to platform to connect businesses in Singapore to various Government e-services and resources. 
-
-#### 2. Social Enterprises
-
-##### [raISE](https://www.raise.sg)
-
-[![](/images/Opportunities/rsz_raise.png)](https://www.raise.sg)
-
-[raiSE](https://www.raise.sg) was set up to raise awareness of social entrepreneurship and raise support for Social Enterprise in Singapore. 
 
 ### If the above is not what you are looking for, share your proposal here.
 
