@@ -13,7 +13,7 @@ third_nav_title: Partners Portal
 
 | ![](/images/Opportunities/pa-logo-v2.jpg) |  ![](/images/Opportunities/volunteersg_422x304.jpg) |
 | --- | - | 
-| [PA Community Volunteering](https://onepa.gov.sg): Individuals passionate about community causes can sign up as Community Volunteers and explore the opportunities available. | [Volunteer.SG](https://volunteer.gov.sg/volunteer/home): Search for available volunteering opportunities that strikes a chord with your heart to kick start your volunteering journey today.| 
+| [PA Community Volunteering](https://onepa.gov.sg): Individuals passionate about community causes can sign up as Community Volunteers and explore the opportunities available. | [Volunteer.Gov.SG](https://volunteer.gov.sg/volunteer/home): Search for available volunteering opportunities that strikes a chord with your heart to kick start your volunteering journey today.| 
 
 
 
