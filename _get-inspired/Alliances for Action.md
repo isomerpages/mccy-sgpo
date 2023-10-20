@@ -6,7 +6,6 @@ description: ""
 #### The Alliances for Action (AfAs) bring the People, Private and Public sectors together to provide impactful solutions to complex issues for a better Singapore.
 
 <br>
-<br>
 
 * [AfA on Building Community Resilience at Cambridge Road](https://www.straitstimes.com/singapore/cambridge-road-residents-are-greening-their-neighbourhood-from-the-ground-up-heres-how-theyre-doing-it)
 * [AfA on Caregivers of Persons with Disabilities](https://caring.sg/#services)
