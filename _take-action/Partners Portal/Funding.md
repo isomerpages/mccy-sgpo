@@ -15,9 +15,9 @@ third_nav_title: Partners Portal
 
 [OurSG Grants portal](https://oursggrants.gov.sg) brings government grants for the arts, community, heritage, social good, sports and youth into one space. 
 
-| [Love Our 'Hood Fund <br>(LOH Fund)](https://go.gov.sg/fund-application)![](/images/Opportunities/mso-logo_422x304.jpg)| [NEA Call for Ideas <br>Fund](https://www.nea.gov.sg/programmes-grants/grants-and-awards/call-for-ideas-fund) ![](/images/Opportunities/nea-logo_422x304.jpg) |
+| ![](/images/Opportunities/mso-logo_422x304.jpg)|  ![](/images/Opportunities/nea-logo_422x304.jpg) |
 | -------- | -------- | 
-|LOH Fund supports grounds-up initiatives that addresses municipal issues in our neighbourhoods. Apply via the link. | Provides funding for projects that promotes environmental sustainability and public cleanliness in the community. | 
+| [Love Our 'Hood Fund <br>(LOH Fund)](https://go.gov.sg/fund-application) supports grounds-up initiatives that addresses municipal issues in our neighbourhoods. Apply via the link. | [NEA Call for Ideas <br>Fund](https://www.nea.gov.sg/programmes-grants/grants-and-awards/call-for-ideas-fund) provides funding for projects that promotes environmental sustainability and public cleanliness in the community. | 
 
 
 | [Maritime Outreach Fund](https://www.mpa.gov.sg/events-careers/public-outreach/maritime-outreach-fund)![](/images/Opportunities/mpa-logo_422x304.jpg)| [Our Singapore Fund](https://www.sg/oursingaporefund) ![](/images/Opportunities/osf-logo_422x304.jpg)|
