@@ -17,7 +17,7 @@ third_nav_title: Partners Portal
 
 | ![](/images/Opportunities/mso-logo_422x304.jpg)|  ![](/images/Opportunities/nea-logo_422x304.jpg) |
 | -------- | -------- | 
-| [Love Our 'Hood Fund <br>(LOH Fund)](https://go.gov.sg/fund-application) supports grounds-up initiatives that addresses municipal issues in our neighbourhoods. Apply via the link. | [NEA Call for Ideas <br>Fund](https://www.nea.gov.sg/programmes-grants/grants-and-awards/call-for-ideas-fund) provides funding for projects that promotes environmental sustainability and public cleanliness in the community. | 
+| [Love Our 'Hood Fund (LOH Fund)](https://go.gov.sg/fund-application) supports grounds-up initiatives that addresses municipal issues in our neighbourhoods. Apply via the link. | [NEA Call for Ideas Fund](https://www.nea.gov.sg/programmes-grants/grants-and-awards/call-for-ideas-fund) provides funding for projects that promotes environmental sustainability and public cleanliness in the community. | 
 
 
 | ![](/images/Opportunities/mpa-logo_422x304.jpg)|  ![](/images/Opportunities/osf-logo_422x304.jpg)|
