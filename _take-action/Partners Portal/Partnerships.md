@@ -24,18 +24,18 @@ third_nav_title: Partners Portal
 
 |![](/images/Opportunities/mso-logo_422x304.jpg) |  ![](/images/Opportunities/mso-logo_422x304.jpg)|
 | --- | - | 
-| [Noise Experiential Lab (NEL)](https://go.gov.sg/noiselab): Visit the NEL to learn about neighbour noises, and social norms that we should adopt to manage noise.| [One Service Kakis Network <br>(OSK Network)](https://go.gov.sg/oskgettoknowyou): Join OSK Network to gain awareness of municipal issues and participate in grounds-up initiatives. | 
+| [Noise Experiential Lab (NEL)](https://go.gov.sg/noiselab): Visit the NEL to learn about neighbour noises, and social norms that we should adopt to manage noise.| [One Service Kakis Network (OSK Network)](https://go.gov.sg/oskgettoknowyou): Join OSK Network to gain awareness of municipal issues and participate in grounds-up initiatives. | 
 
-| [Our SG Arts Plan (2023 - 2027)](https://www.nac.gov.sg/about-us/oursgartsplan/join-the-making)![](/images/Opportunities/our-arts-plan-2023-2027_422x304.jpg)| [School-Industry Partnership](https://go.gov.sg/partnerwithschools)![](/images/Opportunities/moe-logo_422x304.jpg)|
+| ![](/images/Opportunities/our-arts-plan-2023-2027_422x304.jpg)| ![](/images/Opportunities/moe-logo_422x304.jpg)|
 | --- | - | 
-| Join the Making of Singapore's future arts scene where artists, audiences, and partners play their parts! | Indicate your interest to partner schools on programmes and co-create solutions with students and educators.  | 
+| [Our SG Arts Plan (2023 - 2027)](https://www.nac.gov.sg/about-us/oursgartsplan/join-the-making): Join the Making of Singapore's future arts scene where artists, audiences, and partners play their parts! | [School-Industry Partnership](https://go.gov.sg/partnerwithschools): Indicate your interest to partner schools on programmes and co-create solutions with students and educators.  | 
 
 
 ### Youths
 
-| [Young ChangeMakers Programme](https://www.nyc.gov.sg/programmes-grants/young-changemakers) ![](/images/Opportunities/nyc-ycm-logo-(422x304).jpg)| [Youth Engagement Initiatives](https://go.gov.sg/youth-programmes) ![](/images/Opportunities/mso-logo_422x304.jpg)|
+|  ![](/images/Opportunities/nyc-ycm-logo-(422x304).jpg)| [Youth Engagement Initiatives](https://go.gov.sg/youth-programmes) ![](/images/Opportunities/mso-logo_422x304.jpg)|
 | -------- | -------- | 
-|A by youth for youth programme to empower youths through grants and mentorship in starting projects that benefit the community.| Collaboration to support students/youths to develop interventions to address municipal issues. Find out about MSO's youth initiatives via the link.| 
+| [Young ChangeMakers Programme](https://www.nyc.gov.sg/programmes-grants/young-changemakers):  A by youth for youth programme to empower youths through grants and mentorship in starting projects that benefit the community.| Collaboration to support students/youths to develop interventions to address municipal issues. Find out about MSO's youth initiatives via the link.| 
 
 |[Youth Panels](https://www.nyc.gov.sg/youthpanels) <br> <br> ![](/images/Opportunities/youth-panels_422x304.jpg) | [Youth Stewards for Nature](https://go.gov.sg/ysn/)![](/images/Opportunities/nparks-logo_422x304.jpg)|
 | -------- | -------- | 
