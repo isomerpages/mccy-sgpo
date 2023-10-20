@@ -6,6 +6,7 @@ third_nav_title: Partners Portal
 ---
 # Partnerships Opportunities
 
+### General Public
 
 | [Caring SG Commuters Movement](https://www.caringcommuters.gov.sg) ![](/images/Opportunities/caringsg-logo_422x304.jpg) | [Ground Up Central ](https://groundupcentral.sg)![](/images/Opportunities/groundup-central-logo--v2.jpg) |
 | -------- | -------- |
