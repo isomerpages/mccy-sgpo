@@ -7,7 +7,7 @@ third_nav_title: Partners Portal
 # Funding Possibilities
 
 
-### Not-for-Profit Initiatives 
+### Government Grants
 
 ##### [OurSG Grants Portal](https://oursggrants.gov.sg)
 
@@ -30,7 +30,7 @@ third_nav_title: Partners Portal
 | -------- | -------- | 
 |Provides funding for community projects that advance environmental sustainability (e.g., community farming, biodiversity awareness, and resource conservation). | YCM - YHKF provides funding and resources to empower youths to take an active role in preserving and safeguarding Singapore's heritage. | 
 
-### For-Profit Initiatives 
+### Commercial Ideas 
 
 #### 1. Businesses
 
