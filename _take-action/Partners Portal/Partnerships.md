@@ -31,7 +31,7 @@ third_nav_title: Partners Portal
 | Join the Making of Singapore's future arts scene where artists, audiences, and partners play their parts! | Indicate your interest to partner schools on programmes and co-create solutions with students and educators.  | 
 
 
-### For Youths
+### Youths
 
 | [Young ChangeMakers Programme](https://www.nyc.gov.sg/programmes-grants/young-changemakers) ![](/images/Opportunities/nyc-ycm-logo-(422x304).jpg)| [Youth Engagement Initiatives](https://go.gov.sg/youth-programmes) ![](/images/Opportunities/mso-logo_422x304.jpg)|
 | -------- | -------- | 
