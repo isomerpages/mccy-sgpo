@@ -10,7 +10,6 @@ Explore the [Partners Portal](take-action/partnersportal/) page on the SGPO webs
 
 [![](/images/take%20action.png)](https://go.gov.sg/takeactiontoday)
 
-
 ### 2. What is a partnership proposal? 
 
 We describe a partnership proposal as an idea that you would like to take action on, that can benefit the community and may require support from the Government. 
