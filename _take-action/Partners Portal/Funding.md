@@ -26,7 +26,7 @@ third_nav_title: Partners Portal
 
 |![](/images/Opportunities/sg-eco-fund_422x304.jpg)  |  ![](/images/Opportunities/nyc-ycm-logo-(422x304).jpg) |
 | -------- | -------- | 
-|[SG Eco Fund](https://www.mse.gov.sg/sgecofund) : Provides funding for community projects that advance environmental sustainability (e.g., community farming, biodiversity awareness, and resource conservation). | [Young Changemakers - Youth Heritage Kickstarter Fund](https://www.nyc.gov.sg/programmes-grants/young-changemakers)​:  provides funding and resources to empower youths to take an active role in preserving and safeguarding Singapore's heritage. | 
+|[SG Eco Fund](https://www.mse.gov.sg/sgecofund): Provides funding for community projects that advance environmental sustainability (e.g., community farming, biodiversity awareness, and resource conservation). | [Young Changemakers - Youth Heritage Kickstarter Fund](https://www.nyc.gov.sg/programmes-grants/young-changemakers)​:  provides funding and resources to empower youths to take an active role in preserving and safeguarding Singapore's heritage. | 
 
 ### Commercial Ideas 
 
