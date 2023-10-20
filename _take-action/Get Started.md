@@ -7,7 +7,7 @@ description: ""
 
 If you have an idea for a potential partnership with the Government, we would love to hear from you.
 
-![](/images/Get%20Started/3-steps-to-share-a-proposal_cleanv3.png)
+# (Aini can insert logo here) 
 
  **We recommend you to explore the [Partners Portal](/take-action/partnersportal) first for resources that may support your idea e.g. existing funding, partnership and volunteering opportunities.**
 
