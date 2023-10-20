@@ -6,7 +6,7 @@ third_nav_title: Frequently Asked Questions
 ---
 ### 1. How do I get started? 
 
-Explore the [Partners Portal](take-action/partnersportal/) page on the SGPO website for resources that may support your idea e.g, community funds, volunteer opportunities. If none of these are relevant, you are welcome to share a partnership proposal here. 
+Explore the [Partners Portal](/take-action/partnersportal/) page on the SGPO website for resources that may support your idea e.g, community funds, volunteer opportunities. If none of these are relevant, you are welcome to share a partnership proposal here. 
 
 [![](/images/take%20action.png)](https://go.gov.sg/takeactiontoday)
 
