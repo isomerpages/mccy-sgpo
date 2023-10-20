@@ -33,13 +33,13 @@ third_nav_title: Partners Portal
 
 ### Youths
 
-|  ![](/images/Opportunities/nyc-ycm-logo-(422x304).jpg)| [Youth Engagement Initiatives](https://go.gov.sg/youth-programmes) ![](/images/Opportunities/mso-logo_422x304.jpg)|
+|  ![](/images/Opportunities/nyc-ycm-logo-(422x304).jpg)|  ![](/images/Opportunities/mso-logo_422x304.jpg)|
 | -------- | -------- | 
-| [Young ChangeMakers Programme](https://www.nyc.gov.sg/programmes-grants/young-changemakers):  A by youth for youth programme to empower youths through grants and mentorship in starting projects that benefit the community.| Collaboration to support students/youths to develop interventions to address municipal issues. Find out about MSO's youth initiatives via the link.| 
+| [Young ChangeMakers Programme](https://www.nyc.gov.sg/programmes-grants/young-changemakers):  A by youth for youth programme to empower youths through grants and mentorship in starting projects that benefit the community.| [Youth Engagement Initiatives](https://go.gov.sg/youth-programmes): Collaboration to support students/youths to develop interventions to address municipal issues. Find out about MSO's youth initiatives via the link.| 
 
-|[Youth Panels](https://www.nyc.gov.sg/youthpanels) <br> <br> ![](/images/Opportunities/youth-panels_422x304.jpg) | [Youth Stewards for Nature](https://go.gov.sg/ysn/)![](/images/Opportunities/nparks-logo_422x304.jpg)|
+| <br> <br> ![](/images/Opportunities/youth-panels_422x304.jpg) |![](/images/Opportunities/nparks-logo_422x304.jpg)|
 | -------- | -------- | 
-|Youth panels provide opportunities for young Singaporeans and the Government to come together to work on policies, co-creating them together.  |  6-month-long programme suitable for youths aged 18 to 25 with interest and have some experience in fields such as landscape architecture, environmental studies, and biological or life sciences. | 
+|[Youth panels](https://www.nyc.gov.sg/youthpanels) provide opportunities for young Singaporeans and the Government to come together to work on policies, co-creating them together.  |  [Youth Stewards for Nature](https://go.gov.sg/ysn/): 6-month-long programme suitable for youths aged 18 to 25 with interest and have some experience in fields such as landscape architecture, environmental studies, and biological or life sciences. | 
 
 
 ### If the above is not what you are looking for, share your proposal here.
