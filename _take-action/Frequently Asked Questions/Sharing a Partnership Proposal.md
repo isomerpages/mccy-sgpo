@@ -34,7 +34,7 @@ Explore this website to discover which platforms best meet your needs.
 
 Submitting a partnership proposal does not directly qualify you for grants. However, once you are linked with the respective government agencies, you may then work with them to separately apply for grant where needed. 
 
-If you are **only** interested in applying for grants, please visit [OurSG Grants portal](https://oursggrants.gov.sg) 
+If you are **only** interested in applying for grants, please visit [OurSG Grants portal](https://oursggrants.gov.sg).  
 
 ### 4. Why is SingPass login required to fill up the partnership proposal? Why is my personal information not auto-filled despite the use of SingPass? 
 
@@ -48,7 +48,7 @@ You are welcome to submit additional information in various formats. If you wish
 
 All partnership proposals developed are taken seriously by the respective Government agencies. Complex proposals will require more time for agencies to assess their feasibility. Hence, adequate time is needed for agencies to get back to citizens with a meaningful response.
 
-You may write in to <a href="mailto:“sgpo@mccy.gov.sg”">Singapore Government Partnerships Office</a> if you do not hear back on your proposal after 3 - 4 weeks.  
+You may write in to the [Singapore Government Partnerships Office]((/contact-us/)) if you do not hear back on your proposal after 3 - 4 weeks.  
 
 #### If you are already clear on how to submit a proposal you want to take action on, click here. 
 
