@@ -1,15 +1,8 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/SGPO logos/sgpo_logo_beta_v4.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Take action
+    collection: take-action
+  - title: Get Inspired
+    collection: get-inspired
+  - title: About
+    collection: about

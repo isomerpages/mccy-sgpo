@@ -1,32 +1,40 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Singapore Government Partnerships Office
+description: An Isomer site of the Singapore Government
+image: /images/sgt_sgpo_logo_3-01.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: This is a beta version of the website. Stay tuned for updates in Q1 2024.
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Be the Change
+      background: /images/masthead_1_hands_sgpo3_di.jpeg
+      subtitle: The Singapore Government Partnerships Office works with you -
+        citizens, communities and organisations - to co-create solutions for a
+        better Singapore
+      dropdown:
+        title: What would you like to do?
+        options:
+          - title: Take action on a proposal
+            url: /take-action/take-action-today/
+          - title: Explore existing opportunities
+            url: /take-action/partnersportal/
+          - title: Read stories and get inspired
+            url: /feature-stories/
+          - title: Find out more about us
+            url: /about/about-us/
+  - infopic:
+      title: All set with your partnership proposal?
+      button: get started
+      url: /take-action/take-action-today/
+      image: /images/ideas_submission_masthead.jpg
+      alt: Partnership idea
+      subtitle: Take Action
+  - infopic:
+      title: Read partnership stories
+      subtitle: get inspired
+      button: learn more
+      url: /feature-stories/
+      image: /images/happinessinitiatives_sgpo.jpg
+      alt: Citizen Stories
 ---
-

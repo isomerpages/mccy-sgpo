@@ -1,0 +1,6 @@
+collections:
+  get-inspired:
+    output: true
+    order:
+      - Feature Stories.md
+      - Alliances for Action.md
