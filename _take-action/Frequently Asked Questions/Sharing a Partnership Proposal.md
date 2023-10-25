@@ -44,7 +44,7 @@ SingPass log-in is used purely to authenticate your identity. Your personal info
 
 You are welcome to submit additional information in various formats. If you wish to submit a video proposal, you may do so by uploading a word document with a link to your video. Do note that you would still need to fill in the form's mandatory submission fields. 
 
-### 6. What happens after I submit my partnership proposal? Why must I wait up to 3-4 weeks for agencies to respond to my partnership proposal? What happens if i do not hear back from anyone?
+### 6. What happens after I submit my partnership proposal? Why does it to take up to 3-4 weeks for agencies to respond to my partnership proposal? What happens if i do not hear back from anyone?
 
 All partnership proposals developed are taken seriously by the respective Government agencies. Complex proposals will require more time for agencies to assess their feasibility. Hence, adequate time is needed for agencies to get back to citizens with a meaningful response.
 
