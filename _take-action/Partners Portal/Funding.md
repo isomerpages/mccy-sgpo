@@ -31,9 +31,9 @@ third_nav_title: Partners Portal
 ### Commercial Ideas 
 
 
-| ![](/images/Opportunities/gobusiness-logo-v2.jpg) | ![](/images/Opportunities/rsz_1rsz_raise.png)|
+| ![](/images/Opportunities/gobusiness-logo-v2.jpg) | ![](/images/Opportunities/raise-logo-v2.jpg)|
 | - | -------- | 
-| [GoBusiness](https://gobusiness.gov.sg) is the go-to platform to connect **businesses** in Singapore to various Government e-services and resources. | [raiSE](https://www.raise.sg) was set up to raise awareness of social entrepreneurship and raise support for **Social Enterprise** in Singapore.  | 
+| **Businesses**: [GoBusiness](https://gobusiness.gov.sg) is the go-to platform to connect businesses in Singapore to various Government e-services and resources. | **Social Enterprise Support**: Find out more about the available support for your business to scale human-centered social impact at [raiSE](https://www.raise.sg). | 
 
 
 ### If the above is not what you are looking for, share your proposal here.
