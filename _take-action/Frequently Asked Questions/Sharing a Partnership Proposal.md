@@ -36,9 +36,9 @@ Submitting a partnership proposal does not directly qualify you for grants. Howe
 
 If you are **only** interested in applying for grants, please visit [OurSG Grants portal](https://oursggrants.gov.sg).  
 
-### 4. Why is SingPass login required to fill up the partnership proposal? Why is my personal information not auto-filled despite the use of SingPass? 
+### 4. Why is SingPass login required to fill up the partnership proposal?
 
-SingPass log-in is used purely to authenticate your identity. Your personal information is hence not used to pre-fill the submission fields. 
+SingPass log-in is used purely to authenticate your identity. 
 
 ### 5. What if I want to share my partnership proposal in another format rather than written text? 
 
