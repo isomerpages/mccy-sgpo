@@ -2,6 +2,7 @@
 title: Alliances for Action
 permalink: /alliances-for-action/
 description: ""
+variant: markdown
 ---
 #### The Alliances for Action (AfAs) bring the People, Private and Public sectors together to provide impactful solutions to complex issues for a better Singapore.
 
@@ -19,3 +20,6 @@ description: ""
 * [Mentoring SG](https://mentoring.sg/)
 * [NParks Friends of the Parks](https://fotp.nparks.gov.sg/)
 * [Uplifting Pupils in Life and Inspiring Families Taskforce (UPLIFT)](https://www.straitstimes.com/singapore/politics/more-help-for-disadvantaged-and-special-needs-students-maliki-osman)
+* [AfA on Kampong Gelam Alliance](https://www.straitstimes.com/singapore/five-year-plan-launched-to-energise-kampong-glam-attract-more-visitors)
+* [AfA on Widening Access to Talent ](https://www.straitstimes.com/business/new-one-stop-resource-portal-to-guide-s-pore-employers-on-redesigning-jobs-amid-disruption-competition)
+* [AfA on Business Leadership Development ](https://www.straitstimes.com/business/companies-government-should-develop-singaporean-talent-for-top-roles-in-global-firms-sbf-report)
