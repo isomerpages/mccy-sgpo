@@ -49,6 +49,7 @@ variant: markdown
 * [Byte.sg](https://www.byte.sg/): [Children living in rental flats get tech-savvy under programme run by ground-up initiative Byte.sg](https://www.straitstimes.com/singapore/children-living-in-rental-flats-get-tech-savvy-under-programme-run-by-ground-up-initiative-bytesg)
 * [Fridge Restock Community](https://www.frc.sg): [The Stories Behind: Fridge Restock Community, a ground-up food rescue group founded by a Little India shopowner](https://www.todayonline.com/singapore/stories-behind-fridge-restock-community-daniel-yap-2164221)
 * [GoodHood.sg](https://www.goodhoodsg.com): [With GoodHood, kampung spirit is only a tap away](https://www.goodhoodsg.com/post/with-goodhood-kampung-spirit-is-only-a-tap-away)
+* [Kampung Eats](https://kampungeats.com/): [How a team of youths are working together to preserve old S’porean hawker recipes](https://mothership.sg/2023/10/nyc-kampung-eats/)
 * [Project Get Flamed](https://www.projgetflamed.com/about/our-journey)
 * [Project Hills](https://www.theprojecthills.com): [Paying it forward](https://www.gov.sg/article/zulayqha-zulkifli)
 * [ProjectLoveLunch](https://www.projectlovelunch.com/about): [It’s a family affair: Project Love Lunch brings residents closer](https://pride.kindness.sg/its-a-family-affair-yishun-block-carnival-brings-residents-together/)
