@@ -9,6 +9,7 @@ variant: markdown
 <br>
 
 * [AfA on Building Community Resilience at Cambridge Road](https://www.straitstimes.com/singapore/cambridge-road-residents-are-greening-their-neighbourhood-from-the-ground-up-heres-how-theyre-doing-it)
+* [AfA on Business Leadership Development ](https://www.straitstimes.com/business/companies-government-should-develop-singaporean-talent-for-top-roles-in-global-firms-sbf-report)
 * [AfA on Caregivers of Persons with Disabilities](https://caring.sg/#services)
 * [AfA on Corporate Purpose](https://www.thecompanyofgood.sg/corporate-purpose#alliance-for-action-on-corporate-purpose)
 * [AfA for Lower Wage Workers](https://www.momafalww.com/)
@@ -22,4 +23,3 @@ variant: markdown
 * [Uplifting Pupils in Life and Inspiring Families Taskforce (UPLIFT)](https://www.straitstimes.com/singapore/politics/more-help-for-disadvantaged-and-special-needs-students-maliki-osman)
 * [AfA on Kampong Gelam Alliance](https://www.straitstimes.com/singapore/five-year-plan-launched-to-energise-kampong-glam-attract-more-visitors)
 * [AfA on Widening Access to Talent ](https://www.straitstimes.com/business/new-one-stop-resource-portal-to-guide-s-pore-employers-on-redesigning-jobs-amid-disruption-competition)
-* [AfA on Business Leadership Development ](https://www.straitstimes.com/business/companies-government-should-develop-singaporean-talent-for-top-roles-in-global-firms-sbf-report)
