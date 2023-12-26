@@ -3,6 +3,7 @@ title: About Singapore Government Partnerships Office
 permalink: /take-action/frequently-asked-questions/sgpo/
 description: ""
 third_nav_title: Frequently Asked Questions
+variant: markdown
 ---
 ### 1. Why is there a need for the Singapore Government Partnerships Office, and what does it do? 
 
@@ -10,9 +11,9 @@ Singapore faces complex challenges, and all of us can play a part in addressing 
 
 Singaporeans also want to contribute to issues close to their heart. The Government welcomes this and is committed to supporting more ground-up efforts by Singaporeans to shape and improve their communities.
 
-To do this, the Singapore Government Partnerships Office (SGPO) was announced as part of the Final Report of the [Forward Singapore](https://www.forwardsingapore.gov.sg) exercise. It will be officially launched in Q1 2024. Our mission is to help you partner with government and others to shape a better Singapore. 
+The Singapore Government Partnerships Office (SGPO) was officially launched by Deputy Prime Minister and Minister for Finance Lawrence Wong on 19 Jan 2024 to strengthen the government's partnerships and engagements with citizens. The new office is a response to aspirations shared by citizens during the [Forward Singapore](http://www.forwardsingapore.gov.sg) exercise to shape their communities, as well as co-create policies, public spaces and services.  
 
-![](/images/About%20SGPO/ourmission_1295x1015.jpg)
+![Explanation of SGPO's mission](/images/About%20SGPO/SGPO_v3_1_clean.png) 
 
 
 ### 2. How does this website help me to partner the government for the public good? 
