@@ -4,7 +4,8 @@ title: Singapore Government Partnerships Office
 description: An Isomer site of the Singapore Government
 image: /images/sgt_sgpo_logo_3-01.svg
 permalink: /
-notification: This is a beta version of the website. Stay tuned for updates in Q1 2024.
+notification: "This is a beta version of the website. Note to media: Content and
+  information on this website are embargoes until 19 Jan 2024."
 sections:
   - hero:
       title: Be the Change
