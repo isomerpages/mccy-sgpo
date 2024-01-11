@@ -3,6 +3,7 @@ title: Sharing a Partnership Proposal
 permalink: /take-action/frequently-asked-questions/sgpo2/
 description: ""
 third_nav_title: Frequently Asked Questions
+variant: markdown
 ---
 ### 1. How do I get started? 
 
@@ -44,11 +45,11 @@ SingPass log-in is used purely to authenticate your identity.
 
 You are welcome to submit additional information in various formats. If you wish to submit a video proposal, you may do so by uploading a word document with a link to your video. Do note that you would still need to fill in the form's mandatory submission fields. 
 
-### 6. What happens after I submit my partnership proposal? Why does it to take up to 3-4 weeks for agencies to respond to my partnership proposal? What happens if I do not hear back from anyone?
+### 6. What happens after I submit my partnership proposal? Why does it to take up to 5-6 weeks for agencies to respond to my partnership proposal? What happens if I do not hear back from anyone?
 
 All partnership proposals developed are taken seriously by the respective Government agencies. Complex proposals will require more time for agencies to assess their feasibility. Hence, adequate time is needed for agencies to get back to citizens with a meaningful response.
 
-You may write in to the [Singapore Government Partnerships Office](/contact-us/) if you do not hear back on your proposal after 3 - 4 weeks.  
+You may write in to the [Singapore Government Partnerships Office](/contact-us/) if you do not hear back on your proposal after 5 - 6 weeks.  
 
 #### If you are already clear on how to submit a proposal you want to take action on, click here. 
 
