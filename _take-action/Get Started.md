@@ -8,7 +8,7 @@ variant: markdown
 
 If you have an idea for a potential partnership with the Government, we would love to hear from you.
 
-![](/images/Get%20Started/3_Steps_to_Share_a_Proposal_clean_v5.png)
+![](/images/Get%20Started/3_Steps_to_Share_a_Proposal_clean_add_logo.png)
 
  **We recommend you to explore the [Partners Portal](/take-action/partnersportal) first for resources that may support your idea e.g. existing funding, partnership and volunteering opportunities.**
 
