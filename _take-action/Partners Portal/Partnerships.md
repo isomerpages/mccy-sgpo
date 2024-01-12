@@ -3,6 +3,7 @@ title: Partnerships
 permalink: /take-action/partners-portal/partnerships/
 description: ""
 third_nav_title: Partners Portal
+variant: markdown
 ---
 # Partnerships Opportunities
 
@@ -22,13 +23,13 @@ third_nav_title: Partners Portal
 |[Nature  Kakis](https://go.gov.sg/naturekakisenquiry): The Nature Kakis Network is a platform that will help grow NParks' City in Nature vision in the heartlands, as well as encourage greater appreciation and community stewardship. |  [OneMillionTrees Facilitator](https://go.gov.sg/omtvolfacil): Volunteer facilitators will assist with tree planting events and share the key messaging of how this contributes towards NParks' City in Nature vision.   | 
 
 
-|![](/images/Opportunities/mso-logo_422x304.jpg) |  ![](/images/Opportunities/mso-logo_422x304.jpg)|
+|![](/images/Opportunities/mso-logo_422x304.jpg) | ![](/images/Opportunities/our-arts-plan-2023-2027_422x304.jpg)|
 | --- | - | 
-| [Noise Experiential Lab (NEL)](https://go.gov.sg/noiselab): Visit the NEL to learn about neighbour noises, and social norms that we should adopt to manage noise.| [One Service Kakis Network](https://go.gov.sg/oskgettoknowyou): Join OSK Network to gain awareness of municipal issues and participate in grounds-up initiatives. | 
+| [One Service Kakis Network](https://go.gov.sg/oskgettoknowyou): Join OSK Network to gain awareness of municipal issues and participate in grounds-up initiatives.| [Our SG Arts Plan (2023 - 2027)](https://www.nac.gov.sg/about-us/oursgartsplan/join-the-making): Join the Making of Singapore's future arts scene where artists, audiences, and partners play their parts!  | 
 
-| ![](/images/Opportunities/our-arts-plan-2023-2027_422x304.jpg)| ![](/images/Opportunities/moe-logo_422x304.jpg)|
+| ![](/images/Opportunities/PEP_logo.jpg) | ![](/images/Opportunities/moe-logo_422x304.jpg)|
 | --- | - | 
-| [Our SG Arts Plan (2023 - 2027)](https://www.nac.gov.sg/about-us/oursgartsplan/join-the-making): Join the Making of Singapore's future arts scene where artists, audiences, and partners play their parts! | [School-Industry Partnership](https://go.gov.sg/partnerwithschools): Indicate your interest to partner schools on programmes and co-create solutions with students and educators.  | 
+| [Pro-Enterprise Panel](https://www.mti.gov.sg/PEP/About-the-PEP): Have an innovative business idea that needs a trial space, or a suggestion on business process and regulations? Write to us!| [School-Industry Partnership](https://go.gov.sg/partnerwithschools): Indicate your interest to partner schools on programmes and co-create solutions with students and educators.  | 
 
 
 ### Youths
