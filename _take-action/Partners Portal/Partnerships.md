@@ -29,7 +29,7 @@ variant: markdown
 
 | ![](/images/Opportunities/PEP_logo.jpg) | ![](/images/Opportunities/moe-logo_422x304.jpg)|
 | --- | - | 
-| [Pro-Enterprise Panel](https://www.mti.gov.sg/PEP/About-the-PEP): Have an innovative business idea that need a trial space, or a suggestion on business process and regulations? Write to us!| [School-Industry Partnership](https://go.gov.sg/partnerwithschools): Indicate your interest to partner schools on programmes and co-create solutions with students and educators.  | 
+| [Pro-Enterprise Panel](https://www.mti.gov.sg/PEP/About-the-PEP): Have an innovative business idea that needs a trial space, or a suggestion on business process and regulations? Write to us!| [School-Industry Partnership](https://go.gov.sg/partnerwithschools): Indicate your interest to partner schools on programmes and co-create solutions with students and educators.  | 
 
 
 ### Youths
