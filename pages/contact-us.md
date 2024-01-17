@@ -16,6 +16,6 @@ contacts:
       - phone: ""
       - email: ""
       - other: ""
-    title: Please use the online form.
+    title: Use the form below
 feedback: https://form.gov.sg/65a74bb37d27490011d6b231
 ---
