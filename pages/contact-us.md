@@ -16,6 +16,6 @@ contacts:
       - phone: ""
       - email: ""
       - other: ""
-    title: General Enquiries & Feedback
-feedback: ""
+    title: Please use the online form.
+feedback: https://form.gov.sg/65a74bb37d27490011d6b231
 ---
