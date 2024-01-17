@@ -5,7 +5,7 @@ description: An Isomer site of the Singapore Government
 image: /images/sgt_sgpo_logo_3-01.svg
 permalink: /
 notification: This is a beta version of the website. Give us your feedback at
-  sgpo@mccy.gov.sg to help us improve it.
+  the 'Contact Us' link below, to help us improve it.
 sections:
   - hero:
       title: Be the Change
