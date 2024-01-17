@@ -2,19 +2,6 @@
 title: About Us
 permalink: /about/about-us/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# Singapore Government Partnerships Office
-The Singapore Government Partnerships Office (SGPO) was officially launched by Deputy Prime Minister and Minister for Finance Lawrence Wong on 19 Jan 2024 to strengthen the government's partnerships and engagements with citizens. The new office is a response to aspirations shared by citizens during the [Forward Singapore](http://www.forwardsingapore.gov.sg) exercise to shape their communities, as well as co-create policies, public spaces and services. 
-
-Singapore faces more complex challenges, and all of us can play a part in shaping our country's future. As Singapore society matures and becomes more diverse, building shared goals and mutual trust between citizens and the government is paramount. 
-
-![Singapore Government Partnership Office](/images/About%20SGPO/SGPO_v3_1_clean.png)
-
-
-### **Singapore Government Partnerships Office News**
-| Date | News  |
-| -------- | -------- | 
-| 19 Jan 2024 |[Press Release of Singapore Government Partnerships Office launch](www.sgpo.gov.sg)|
-| 19 Jan 2024 |[DPM's speech of Singapore Government Partnerships Office launch](www.sgpo.gov.sg)|
-
+<h1>Singapore Government Partnerships Office</h1><p>The Singapore Government Partnerships Office (SGPO) was officially launched by Deputy Prime Minister and Minister for Finance Lawrence Wong on 19 Jan 2024 to strengthen the government's partnerships and engagements with citizens. The new office is a response to aspirations shared by citizens during the <a href="http://www.forwardsingapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Forward Singapore</a> exercise to shape their communities, as well as co-create policies, public spaces and services.</p><p>Singapore faces more complex challenges, and all of us can play a part in shaping our country's future. As Singapore society matures and becomes more diverse, building shared goals and mutual trust between citizens and the government is paramount.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singapore Government Partnership Office" src="/images/About%20SGPO/SGPO_v3_1_clean.png"></div><h3><strong>Singapore Government Partnerships Office News</strong></h3><table><tbody><tr><th rowspan="1" colspan="1"><p>Date</p></th><th rowspan="1" colspan="1"><p>News</p></th></tr><tr><td rowspan="1" colspan="1"><p>19 Jan 2024</p></td><td rowspan="1" colspan="1"><p><a href="www.sgpo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Press Release of Singapore Government Partnerships Office launch</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>19 Jan 2024</p></td><td rowspan="1" colspan="1"><p><a href="www.sgpo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">DPM's speech of Singapore Government Partnerships Office launch</a></p></td></tr></tbody></table><p></p>
