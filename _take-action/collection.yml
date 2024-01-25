@@ -1,0 +1,16 @@
+collections:
+  take-action:
+    output: true
+    order:
+      - Get Started.md
+      - Partners Portal/.keep
+      - Partners Portal/Introduction to Partners Portal.md
+      - Partners Portal/Partnerships.md
+      - Partners Portal/Funding.md
+      - Partners Portal/Volunteering.md
+      - Partners Portal/Other Resources.md
+      - Frequently Asked Questions/.keep
+      - Frequently Asked Questions/About Singapore Government Partnerships
+        Office.md
+      - Frequently Asked Questions/Sharing a Partnership Proposal.md
+      - Share Your Proposal.md
