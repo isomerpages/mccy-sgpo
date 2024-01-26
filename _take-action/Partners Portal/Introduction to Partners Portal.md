@@ -14,30 +14,18 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Click here for Partnerships" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/PARTNERSHIPS.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/take-action/partners-portal/partnerships/"><img style="width: 100%" height="auto" width="100%" alt="Click here for Partnerships" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/PARTNERSHIPS.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Click here for Funding" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/FUNDING.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/take-action/partners-portal/funding/"><img style="width: 100%" height="auto" width="100%" alt="Click here for Funding" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/FUNDING.png"></a>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Click here for Volunteering" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/VOLUNTEERING.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/take-action/partners-portal/volunteering/"><img style="width: 100%" height="auto" width="100%" alt="Click here for Volunteering" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/VOLUNTEERING.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Click here for Other Resources" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/OTHER_RESOURCES.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/take-action/partners-portal/resources/"><img style="width: 100%" height="auto" width="100%" alt="Click here for Other Resources" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/OTHER_RESOURCES.png"></a>
 </td>
 </tr>
 </tbody>
