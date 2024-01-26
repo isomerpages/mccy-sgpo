@@ -14,25 +14,29 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners%20portal/partnerships555.png">
+<img style="width: 100%" height="auto" width="100%" alt="Click here for Partnerships" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/PARTNERSHIPS.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners%20portal/funding666.png">
+<img style="width: 100%" height="auto" width="100%" alt="Click here for Funding" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/FUNDING.png">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners%20portal/volunteeting777.png">
+<img style="width: 100%" height="auto" width="100%" alt="Click here for Volunteering" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/VOLUNTEERING.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners%20portal/other%20resources%20777.png">
+<img style="width: 100%" height="auto" width="100%" alt="Click here for Other Resources" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/OTHER_RESOURCES.png">
 </div>
 </td>
 </tr>
