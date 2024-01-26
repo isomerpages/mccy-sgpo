@@ -44,7 +44,7 @@ to foster a caring community culture in Singapore's public transport system.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.bagustogether.sg/" rel="noopener noreferrer nofollow" target="_blank">BAGUS Together</a> is
 the first-stop <br>platform for changemakers and groundups, volunteers and<br>
-ecosystem partners to provide<br> and gain access to resources, networks and
+ecosystem partners to provide and gain access to resources, networks and
 other forms of support to develop their groundup initiatives.</p>
 </td>
 </tr>
