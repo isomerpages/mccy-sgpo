@@ -24,19 +24,18 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.caringcommuters.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Caring SG Commuters Movement</a> aims
-to foster a
-<br>caring community culture in Singapore's public transport system.</p>
+to foster
+<br>a caring community culture in Singapore's public transport system.</p>
 <p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.bagustogether.sg/" rel="noopener noreferrer nofollow" target="_blank">BAGUS Together</a> is
 the first-stop
-<br>platform for changemakers and groundups,
-<br>volunteers and ecosystem partners to
-<br>provide and gain access to resources, networks
-<br>and other forms of support to develop their
-<br>groundup initiatives.</p>
+<br>platform for changemakers and groundups, volunteers and ecosystem partners
+to
+<br>provide and gain access to resources, networks and other forms of support
+to develop their groundup initiatives.</p>
 </td>
 </tr>
 </tbody>
