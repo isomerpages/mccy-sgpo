@@ -3,7 +3,7 @@ title: Partnerships
 permalink: /take-action/partners-portal/partnerships/
 description: ""
 third_nav_title: Partners Portal
-variant: markdown
+variant: tiptap
 ---
 <h1>Partnerships Opportunities</h1>
 <h3>General Public</h3>
@@ -23,13 +23,16 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.caringcommuters.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Caring SG Commuters Movement</a> aims to foster a caring community culture in Singapore's public transport system.</p>
+<p><a href="https://www.caringcommuters.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Caring SG Commuters Movement</a> aims
+to foster a caring community culture in Singapore's public transport system.</p>
 <p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.bagustogether.sg/" rel="noopener noreferrer nofollow" target="_blank">BAGUS Together</a> is
-the first-stop platform for changemakers and groundups, volunteers and ecosystem partners to provide and gain access to resources, networks and other forms of support to develop their groundup initiatives.</p>
+the first-stop platform for changemakers and groundups, volunteers and
+ecosystem partners to provide and gain access to resources, networks and
+other forms of support to develop their groundup initiatives.</p>
 </td>
 </tr>
 </tbody>
