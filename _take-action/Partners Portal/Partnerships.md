@@ -19,20 +19,7 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Bagus Together" src="/images/Opportunities/Bagus_Together.png">
 </div>
-<p></p>
 </th>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
