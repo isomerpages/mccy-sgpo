@@ -24,15 +24,19 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.caringcommuters.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Caring SG Commuters Movement</a> aims
-to foster a caring community culture in Singapore's public transport system.</p>
+to foster a
+<br>caring community culture in Singapore's public transport system.</p>
 <p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.bagustogether.sg/" rel="noopener noreferrer nofollow" target="_blank">BAGUS Together</a> is
-the first-stop platform for changemakers and groundups, volunteers and
-ecosystem partners to provide and gain access to resources, networks and
-other forms of support to develop their groundup initiatives.</p>
+the first-stop
+<br>platform for changemakers and groundups,
+<br>volunteers and ecosystem partners to
+<br>provide and gain access to resources, networks
+<br>and other forms of support to develop their
+<br>groundup initiatives.</p>
 </td>
 </tr>
 </tbody>
@@ -54,9 +58,10 @@ other forms of support to develop their groundup initiatives.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.digitalforlife.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Digital for Life</a>:
-Make a difference by starting a project to enhance Singaporeans' digital
-skills and wellbeing. Find out how you can make a difference to drive a
-Digitally inclusive Singapore by partnering with us.</p>
+Make a difference by starting a
+<br>project to enhance Singaporeans' digital skills and wellbeing. Find out
+how you can make a difference to drive a Digitally inclusive Singapore
+by partnering with us.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.mentoringsg.com" rel="noopener noreferrer nofollow" target="_blank">Mentoring.SG</a> Connect
@@ -207,9 +212,10 @@ to work on policies, co-creating them together.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/ysn/" rel="noopener noreferrer nofollow" target="_blank">Youth Stewards for Nature</a>:
-6-month-long programme suitable for youths aged 18 to 25 with interest
-and have some experience in fields such as landscape architecture, environmental
-studies, and biological or life sciences.</p>
+6-month-long programme
+<br>suitable for youths aged 18 to 25 with interest and have some experience
+in fields such as landscape architecture, environmental studies, and biological
+or life sciences.</p>
 </td>
 </tr>
 </tbody>
