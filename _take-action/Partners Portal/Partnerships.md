@@ -22,8 +22,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.caringcommuters.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Caring SG Commuters Movement</a> aims
-to foster
-<br>a caring community culture in Singapore's public transport system.</p>
+to foster a caring community culture in Singapore's public transport system.</p>
 <p></p>
 <p></p>
 </td>
