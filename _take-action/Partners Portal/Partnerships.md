@@ -212,5 +212,37 @@ or life sciences.</p>
 </tr>
 </tbody>
 </table>
+<h3></h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opportunities/dfl-play-it-forward-logo-v2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opportunities/Bagus_Together.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.digitalforlife.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Digital for Life</a>:
+Make a difference by starting a
+<br>project to enhance Singaporeans' digital skills and wellbeing. Find out
+how you can make a difference to drive a Digitally inclusive Singapore
+by partnering with us.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.mentoringsg.com" rel="noopener noreferrer nofollow" target="_blank">Mentoring.SG</a> Connect
+is a place where you can contribute your expertise and wisdom to make a
+lasting difference in the lives of a growing community of young minds.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>If the above is not what you are looking for, share your proposal here.</h3>
 <p></p>
