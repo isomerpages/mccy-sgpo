@@ -189,10 +189,6 @@ municipal issues. Find out about MSO's youth initiatives via the link.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opportunities/youth-panels_422x304.jpg">
 </div>
