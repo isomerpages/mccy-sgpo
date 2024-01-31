@@ -11,8 +11,9 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Caring SG Commuters" src="/images/Opportunities/CaringSGCommuters_422x304.png">
+<img style="width: 100%" height="auto" width="100%" alt="Caring SG Commuters" src="/images/Opportunities/caringsg-logo_422x304.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
