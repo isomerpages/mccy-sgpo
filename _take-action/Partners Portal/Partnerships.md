@@ -12,7 +12,7 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opportunities/caringsg-logo_422x304.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Caring SG Commuters" src="/images/Opportunities/CaringSGCommuters_422x304.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -25,6 +25,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="https://www.caringcommuters.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Caring SG Commuters Movement</a> aims
 to foster a caring community culture in Singapore's public transport system.</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 </td>
@@ -54,10 +57,9 @@ other forms of support to develop their groundup initiatives.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.digitalforlife.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Digital for Life</a>:
-Make a difference by starting a
-<br>project to enhance Singaporeans' digital skills and wellbeing. Find out
-how you can make a difference to drive a Digitally inclusive Singapore
-by partnering with us.</p>
+Make a difference by starting a project to enhance Singaporeans' digital
+skills and wellbeing. Find out how you can make a difference to drive a
+Digitally inclusive Singapore by partnering with us.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.mentoringsg.com" rel="noopener noreferrer nofollow" target="_blank">Mentoring.SG</a> Connect
@@ -208,38 +210,6 @@ to work on policies, co-creating them together.</p>
 <br>suitable for youths aged 18 to 25 with interest and have some experience
 in fields such as landscape architecture, environmental studies, and biological
 or life sciences.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3></h3>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opportunities/dfl-play-it-forward-logo-v2.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opportunities/Bagus_Together.png">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.digitalforlife.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Digital for Life</a>:
-Make a difference by starting a
-<br>project to enhance Singaporeans' digital skills and wellbeing. Find out
-how you can make a difference to drive a Digitally inclusive Singapore
-by partnering with us.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.mentoringsg.com" rel="noopener noreferrer nofollow" target="_blank">Mentoring.SG</a> Connect
-is a place where you can contribute your expertise and wisdom to make a
-lasting difference in the lives of a growing community of young minds.</p>
 </td>
 </tr>
 </tbody>
