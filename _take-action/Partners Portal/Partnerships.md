@@ -29,11 +29,10 @@ to foster
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.bagustogether.sg/" rel="noopener noreferrer nofollow" target="_blank">BAGUS Together</a> is
-the first-stop
-<br>platform for changemakers and groundups, volunteers and ecosystem partners
-to
-<br>provide and gain access to resources, networks and other forms of support
-to develop their groundup initiatives.</p>
+the</p>
+<p>first-stop platform for changemakers and groundups, volunteers and ecosystem
+partners to provide and gain access to resources, networks and other forms
+of support to develop their groundup initiatives.</p>
 </td>
 </tr>
 </tbody>
