@@ -68,5 +68,5 @@ to get back to citizens with a meaningful response.</p>
 you do not hear back on your proposal after 5 - 6 weeks.</p>
 <h4>If you are already clear on how to submit a proposal you want to take action on, click here.</h4>
 <p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/takeactiontoday"><img style="width: 100%" height="auto" width="100%" alt="Click here to Take Action" src="/images/take action.png"></a>
-<h4>If not, please head to our <a href="/take-action/partnersportal/" rel="noopener noreferrer nofollow" target="_blank">Partners Portal</a> page to explore resources that may support your idea .</h4>
+<h4>If not, please head to our <a href="/take-action/partnersportal/" rel="noopener noreferrer nofollow" target="_blank">Partners Portal</a> page to explore resources that may support your idea.</h4>
 <p></p>
