@@ -213,5 +213,5 @@ or life sciences.</p>
 </tr>
 </tbody>
 </table>
-<h3>If the above is not what you are looking for, share your proposal here.</h3>
+<h3>If the above is not what you are looking for, share your proposal <a href="https://go.gov.sg/takeactiontoday" rel="noopener noreferrer nofollow" target="_blank">here</a>.</h3>
 <p></p>
