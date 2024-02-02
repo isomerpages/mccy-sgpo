@@ -11,7 +11,6 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Caring SG Commuters" src="/images/Opportunities/caringsg-logo_422x304.jpg">
 </div>
@@ -34,9 +33,8 @@ to foster a caring community culture in Singapore's public transport system.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.bagustogether.sg/" rel="noopener noreferrer nofollow" target="_blank">BAGUS Together</a> is
-the first-stop platform for changemakers and groundups, volunteers and
-ecosystem partners to provide and gain access to resources, networks and
-other forms of support to develop their groundup initiatives.</p>
+a first-stop platform for changemakers to gain access to resources, networks
+and other support to develop their groundup initiatives.</p>
 </td>
 </tr>
 </tbody>
