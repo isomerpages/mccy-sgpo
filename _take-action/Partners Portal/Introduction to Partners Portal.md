@@ -50,6 +50,5 @@ variant: tiptap
 </tbody>
 </table>
 <p><strong>Click here to read the <a href="/take-action/frequently-asked-questions/sgpo2/" rel="noopener noreferrer nofollow" target="_blank">FAQs</a> on sharing a partnership proposal</strong>.</p>
-<p><strong>If you are already clear on how to submit a proposal you want to take action on, click here.</strong>
-</p>
-<p></p>
+<p><strong>If you are already clear on how to submit a proposal you want to take action on, click </strong>
+<a href="https://go.gov.sg/takeactiontoday" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
