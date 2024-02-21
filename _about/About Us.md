@@ -71,7 +71,7 @@ the government is paramount.</p>
 <p>19 Jan 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TODAY: <a href="https://www.todayonline.com/singapore/new-government-office-launched-serve-first-stop-singaporeans-share-ideas-seek-support-ground-initiatives-2345906" rel="noopener noreferrer nofollow" target="_blank"> New government office launched to serve as ‘first stop’ for Singaporeans to share ideas, seek support for ground-up initiatives</a>
+<p>TODAY: <a href="https://www.todayonline.com/singapore/new-government-office-launched-serve-first-stop-singaporeans-share-ideas-seek-support-ground-initiatives-2345906" rel="noopener noreferrer nofollow" target="_blank">New government office launched to serve as ‘first stop’ for Singaporeans to share ideas, seek support for ground-up initiatives</a>
 </p>
 </td>
 </tr>
