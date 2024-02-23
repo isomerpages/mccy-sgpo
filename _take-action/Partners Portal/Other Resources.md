@@ -49,8 +49,8 @@ government policy or issue</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Volunteer close to you and close to your heart!
-<br>Make a difference with the <a href="https://go.gov.sg/volunteercentres" rel="noopener noreferrer nofollow" target="_blank">SG Cares Volunteer Centres</a>.</p>
+<p>Volunteer close to you and close to your heart! Make a difference with
+the <a href="https://go.gov.sg/volunteercentres" rel="noopener noreferrer nofollow" target="_blank">SG Cares Volunteer Centres</a>.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
