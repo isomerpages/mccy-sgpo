@@ -60,3 +60,7 @@ government policy or issue</p>
 </table>
 <h5>If the above is not what you are looking for, share your proposal here.</h5>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Take Action button" src="/images/take action.png">
+</div>
+<p></p>
