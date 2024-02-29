@@ -4,7 +4,7 @@ permalink: /alliances-for-action/
 description: ""
 variant: markdown
 ---
-#### The Alliances for Action (AfAs) bring the People, Private and Public sectors together to provide impactful solutions to complex issues for a better Singapore.
+#### The Alliances for Action (AfAs) bring the People, Private and Public sectors together to provide impactful solutions to complex issues for a better Singapore. Here are some examples:
 
 <br>
 
