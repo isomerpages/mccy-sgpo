@@ -22,9 +22,9 @@ The SGPO website is a first-stop platform. If you want to act on ideas that cont
 
 ### 3. How does the SGPO website differ from existing platforms like REACH? 
 
-[REACH](https://www.reach.gov.sg/) is the lead agency in facilitating whole-of-government efforts to engage and connect with you on national and social issues close to your hearts. Its key roles are to gauge ground sentiments, engage citizens for feedback, and promote activity citizenry through public consultation. 
+[REACH](https://www.reach.gov.sg/) is the lead agency in facilitating whole-of-government efforts to engage and connect with you on national and social issues close to your hearts. Its key roles are to gauge ground sentiments, engage citizens for feedback, and promote active citizenry through public consultation. 
 
-SGPO's mission complements this by supporting those who want to take action on issues they care about, through partnering with government and others. 
+SGPO's mission complements this by supporting those who want to take action on issues they care about, through partnership with the Government. 
  
 #### If you are already clear on how to submit a proposal you want to take action on, click here. 
 
