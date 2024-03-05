@@ -205,10 +205,9 @@ to work on policies, co-creating them together.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/ysn/" rel="noopener noreferrer nofollow" target="_blank">Youth Stewards for Nature</a>:
-6-month-long programme
-<br>suitable for youths aged 18 to 25 with interest and have some experience
-in fields such as landscape architecture, environmental studies, and biological
-or life sciences.</p>
+6-month-long programme suitable for youths aged 18 to 25 with interest
+and have some experience in fields such as landscape architecture, environmental
+studies, and biological or life sciences.</p>
 </td>
 </tr>
 </tbody>
