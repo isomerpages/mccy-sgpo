@@ -218,6 +218,11 @@ recipes</a>
 </p>
 </li>
 <li>
+<p><a href="https://www.majurity.sg" rel="noopener noreferrer nofollow" target="_blank">The Majurity Trust</a>:
+<a href="https://www.straitstimes.com/singapore/politics/former-elections-department-building-to-become-social-enterprises-hub" rel="noopener noreferrer nofollow" target="_blank">Former Elections Department building to become social enterprise hub</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.wellbeingcircles.sg/" rel="noopener noreferrer nofollow" target="_blank">Well-being Circles</a>:
 <a href="https://www.straitstimes.com/singapore/community/nationwide-network-for-citizens-mental-health-to-run-well-being-circles" rel="noopener noreferrer nofollow" target="_blank">Heartland 'well-being circles' to be formed to safeguard mental health
 of S'poreans</a>
