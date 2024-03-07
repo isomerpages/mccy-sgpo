@@ -13,8 +13,7 @@ Singaporeans also want to contribute to issues close to their heart. The Governm
 
 The Singapore Government Partnerships Office (SGPO) was officially launched by Deputy Prime Minister and Minister for Finance Lawrence Wong on 19 Jan 2024 to strengthen the government's partnerships and engagements with citizens. The new office is a response to aspirations shared by citizens during the [Forward Singapore](http://www.forwardsingapore.gov.sg) exercise to shape their communities, as well as co-create policies, public spaces and services.  
 
-![Explanation of SGPO's mission](/images/About%20SGPO/SGPO_v3_1_clean.png) 
-
+![SGPO - Our Mission](/images/About%20SGPO/SGPO_OurMission_5_Mar_2024_1400x1040.jpg)
 
 ### 2. How does this website help me to partner the government for the public good? 
 
