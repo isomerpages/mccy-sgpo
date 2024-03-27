@@ -42,6 +42,24 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
+
+<iframe height="197" width="350" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/70gfINm6qvs?si=WGoHqpsS1lP7RhmH"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="197" width="350" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SRy-hJ3kO0U?si=GHVlyObFUa4h-hgI"></iframe>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+</table><table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
 <iframe height="300" width="750" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XHjubMnOsGw?si=cgb2ayaqFEkMyqyX"></iframe>
 </div>
 </td>
