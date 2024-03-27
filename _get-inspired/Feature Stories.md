@@ -199,10 +199,6 @@ recipes</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.projgetflamed.com/about/our-journey" rel="noopener noreferrer nofollow" target="_blank">Project Get Flamed</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.theprojecthills.com" rel="noopener noreferrer nofollow" target="_blank">Project Hills</a>:
 <a href="https://www.gov.sg/article/zulayqha-zulkifli" rel="noopener noreferrer nofollow" target="_blank">Paying it forward</a>
 </p>
@@ -232,6 +228,10 @@ of S'poreans</a>
 <p><a href="https://www.nyc.gov.sg/youthpanels" rel="noopener noreferrer nofollow" target="_blank">Youth Panels</a>:
 <a href="https://www.channelnewsasia.com/singapore/new-youth-panels-develop-policy-recommendations-government-3434586" rel="noopener noreferrer nofollow" target="_blank">New youth panels to develop policy recommendations with the government
 to be launched this year</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.projgetflamed.com/about/our-journey" rel="noopener noreferrer nofollow" target="_blank">Project Get Flamed</a>
 </p>
 </li>
 </ul>
