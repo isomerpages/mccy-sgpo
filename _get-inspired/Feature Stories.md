@@ -8,6 +8,34 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mountbatten Parking Heroes" src="/images/Get%20inspired/Banner/Featured_stories.png">
 </div>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Otterly Enchanted" src="/images/Get%20inspired/otterly-enchanted2.jpg">
+</div>
+<br><a href="https://www.sg/stories/anusha-shivram-youth-stewards-of-nature-afa" rel="noopener noreferrer nofollow" target="_blank">Otterly Enchanted</a>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Making Online Sphere Safer" src="/images/Get%20inspired/online-sphere-safer2.jpg">
+</div>
+<br><a href="https://www.straitstimes.com/singapore/this-22-year-old-is-tackling-online-harms-to-make-the-online-sphere-safer-for-her-peers" rel="noopener noreferrer nofollow" target="_blank">Making the Online Sphere Safer</a>
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h5><strong>Stories</strong></h5>
 <table>
 <tbody>
