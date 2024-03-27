@@ -2,6 +2,6 @@ collections:
   get-inspired:
     output: true
     order:
-      - Stories Archive.md
       - Feature Stories.md
       - Alliances for Action.md
+      - Stories Archive.md
