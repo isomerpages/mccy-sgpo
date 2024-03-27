@@ -14,7 +14,7 @@ variant: markdown
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="New!" src="/images/Get%20inspired/new.gif">
+<img style="width: 100%" height="auto" width="100%" alt="New!" src="/images/Get%20inspired/new_animated.gif">
 </div>
 <p></p>
 </th>
