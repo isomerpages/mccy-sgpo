@@ -165,69 +165,69 @@ variant: markdown
 <h5><strong>Community Projects</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.3pumpkins.co/" rel="noopener noreferrer nofollow" target="_blank">3Pumpkins</a>:
-<a href="https://www.3pumpkins.co/post/a-journey-in-strengthening-communities" rel="noopener noreferrer nofollow" target="_blank">A journey in strengthening communities</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.build.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Build for Good</a>:
-<a href="https://www.straitstimes.com/singapore/students-create-app-that-lets-users-scan-barcodes-on-packaging-to-see-how-items-can-be-recycled" rel="noopener noreferrer nofollow" target="_blank">Students create app that lets users scan barcodes on packaging to see
-how items can be recycled</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.byte.sg/" rel="noopener noreferrer nofollow" target="_blank">Byte.sg</a>:
-<a href="https://www.straitstimes.com/singapore/children-living-in-rental-flats-get-tech-savvy-under-programme-run-by-ground-up-initiative-bytesg" rel="noopener noreferrer nofollow" target="_blank">Children living in rental flats get tech-savvy under programme run by
-ground-up initiative Byte.sg</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.frc.sg" rel="noopener noreferrer nofollow" target="_blank">Fridge Restock Community</a>:
-<a href="https://www.todayonline.com/singapore/stories-behind-fridge-restock-community-daniel-yap-2164221" rel="noopener noreferrer nofollow" target="_blank">The Stories Behind: Fridge Restock Community, a ground-up food rescue
-group founded by a Little India shopowner</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.goodhoodsg.com" rel="noopener noreferrer nofollow" target="_blank">GoodHood.sg</a>:
-<a href="https://www.goodhoodsg.com/post/with-goodhood-kampung-spirit-is-only-a-tap-away" rel="noopener noreferrer nofollow" target="_blank">With GoodHood, kampung spirit is only a tap away</a>
-</p>
-</li>
-<li>
-<p><a href="https://kampungeats.com/" rel="noopener noreferrer nofollow" target="_blank">Kampung Eats</a>:
-<a href="https://mothership.sg/2023/10/nyc-kampung-eats/" rel="noopener noreferrer nofollow" target="_blank">How a team of youths are working together to preserve old S’porean hawker
-recipes</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.theprojecthills.com" rel="noopener noreferrer nofollow" target="_blank">Project Hills</a>:
-<a href="https://www.gov.sg/article/zulayqha-zulkifli" rel="noopener noreferrer nofollow" target="_blank">Paying it forward</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.projectlovelunch.com/about" rel="noopener noreferrer nofollow" target="_blank">ProjectLoveLunch</a>:
-<a href="https://pride.kindness.sg/its-a-family-affair-yishun-block-carnival-brings-residents-together/" rel="noopener noreferrer nofollow" target="_blank">It’s a family affair: Project Love Lunch brings residents closer</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.facebook.com/SGFamilies/" rel="noopener noreferrer nofollow" target="_blank">SGFamilies</a>:
-<a href="https://www.straitstimes.com/opinion/forum/forum-parent-volunteers-group-offers-support-to-families-under-stress?fbclid=IwAR3-AivF0sb2UvWC6Fu74RvboOww_uKFT2VeRs_JzMwyUn2beAqNz_FGpTo" rel="noopener noreferrer nofollow" target="_blank">Parent volunteers' group offers support to families under stress</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.majurity.sg" rel="noopener noreferrer nofollow" target="_blank">The Majurity Trust</a>:
 <a href="https://www.straitstimes.com/singapore/politics/former-elections-department-building-to-become-social-enterprises-hub" rel="noopener noreferrer nofollow" target="_blank">Former Elections Department building to become social enterprise hub</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.wellbeingcircles.sg/" rel="noopener noreferrer nofollow" target="_blank">Well-being Circles</a>:
-<a href="https://www.straitstimes.com/singapore/community/nationwide-network-for-citizens-mental-health-to-run-well-being-circles" rel="noopener noreferrer nofollow" target="_blank">Heartland 'well-being circles' to be formed to safeguard mental health
-of S'poreans</a>
+	<p><a href="https://www.3pumpkins.co/" rel="noopener noreferrer nofollow" target="_blank">3Pumpkins</a>:
+<a href="https://www.3pumpkins.co/post/a-journey-in-strengthening-communities" rel="noopener noreferrer nofollow" target="_blank">A journey in strengthening communities</a>
+</p>
+</li>
+<li>
+	<p><a href="https://kampungeats.com/" rel="noopener noreferrer nofollow" target="_blank">Kampung Eats</a>:
+<a href="https://mothership.sg/2023/10/nyc-kampung-eats/" rel="noopener noreferrer nofollow" target="_blank">How a team of youths are working together to preserve old S’porean hawker
+recipes</a>
+</p>
+</li>
+<li>
+	<p><a href="https://www.build.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Build for Good</a>:
+<a href="https://www.straitstimes.com/singapore/students-create-app-that-lets-users-scan-barcodes-on-packaging-to-see-how-items-can-be-recycled" rel="noopener noreferrer nofollow" target="_blank">Students create app that lets users scan barcodes on packaging to see
+how items can be recycled</a>
+</p>
+</li>
+<li>
+	<p><a href="https://www.frc.sg" rel="noopener noreferrer nofollow" target="_blank">Fridge Restock Community</a>:
+<a href="https://www.todayonline.com/singapore/stories-behind-fridge-restock-community-daniel-yap-2164221" rel="noopener noreferrer nofollow" target="_blank">The Stories Behind: Fridge Restock Community, a ground-up food rescue
+group founded by a Little India shopowner</a>
 </p>
 </li>
 <li>
 <p><a href="https://www.nyc.gov.sg/youthpanels" rel="noopener noreferrer nofollow" target="_blank">Youth Panels</a>:
 <a href="https://www.channelnewsasia.com/singapore/new-youth-panels-develop-policy-recommendations-government-3434586" rel="noopener noreferrer nofollow" target="_blank">New youth panels to develop policy recommendations with the government
 to be launched this year</a>
+</p>
+</li>
+<li>
+	<p><a href="https://www.byte.sg/" rel="noopener noreferrer nofollow" target="_blank">Byte.sg</a>:
+<a href="https://www.straitstimes.com/singapore/children-living-in-rental-flats-get-tech-savvy-under-programme-run-by-ground-up-initiative-bytesg" rel="noopener noreferrer nofollow" target="_blank">Children living in rental flats get tech-savvy under programme run by
+ground-up initiative Byte.sg</a>
+</p>
+</li>
+<li>
+	<p><a href="https://www.wellbeingcircles.sg/" rel="noopener noreferrer nofollow" target="_blank">Well-being Circles</a>:
+<a href="https://www.straitstimes.com/singapore/community/nationwide-network-for-citizens-mental-health-to-run-well-being-circles" rel="noopener noreferrer nofollow" target="_blank">Heartland 'well-being circles' to be formed to safeguard mental health
+of S'poreans</a>
+</p>
+</li>
+<li>
+	<p><a href="https://www.projectlovelunch.com/about" rel="noopener noreferrer nofollow" target="_blank">ProjectLoveLunch</a>:
+<a href="https://pride.kindness.sg/its-a-family-affair-yishun-block-carnival-brings-residents-together/" rel="noopener noreferrer nofollow" target="_blank">It’s a family affair: Project Love Lunch brings residents closer</a>
+</p>
+</li>
+<li>
+	<p><a href="https://www.facebook.com/SGFamilies/" rel="noopener noreferrer nofollow" target="_blank">SGFamilies</a>:
+<a href="https://www.straitstimes.com/opinion/forum/forum-parent-volunteers-group-offers-support-to-families-under-stress?fbclid=IwAR3-AivF0sb2UvWC6Fu74RvboOww_uKFT2VeRs_JzMwyUn2beAqNz_FGpTo" rel="noopener noreferrer nofollow" target="_blank">Parent volunteers' group offers support to families under stress</a>
+</p>
+</li>
+<li>
+	<p><a href="https://www.theprojecthills.com" rel="noopener noreferrer nofollow" target="_blank">Project Hills</a>:
+<a href="https://www.gov.sg/article/zulayqha-zulkifli" rel="noopener noreferrer nofollow" target="_blank">Paying it forward</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.goodhoodsg.com" rel="noopener noreferrer nofollow" target="_blank">GoodHood.sg</a>:
+<a href="https://www.goodhoodsg.com/post/with-goodhood-kampung-spirit-is-only-a-tap-away" rel="noopener noreferrer nofollow" target="_blank">With GoodHood, kampung spirit is only a tap away</a>
 </p>
 </li>
 <li>
