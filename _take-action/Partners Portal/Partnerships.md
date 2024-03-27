@@ -227,9 +227,9 @@ studies, and biological or life sciences.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ura.gov.sg/corporate/planning/Master-Plan/Draft-Master-Plan-2025/Long-Island/?utm_source=facebook&amp;utm_medium=carousel&amp;utm_campaign=longisland1&amp;utm_term=&amp;utm_content=&amp;utm_id=dmp" rel="noopener noreferrer nofollow" target="_blank">'Long Island':</a> an
-opportunity for Singaporeans to come together to shape the future of the
-East Coast.</p>
+<p><a href="https://www.ura.gov.sg/corporate/planning/Master-Plan/Draft-Master-Plan-2025/Long-Island/?utm_source=facebook&amp;utm_medium=carousel&amp;utm_campaign=longisland1&amp;utm_term=&amp;utm_content=&amp;utm_id=dmp" rel="noopener noreferrer nofollow" target="_blank">'Long Island'</a>:
+an opportunity for Singaporeans to come together to shape the future of
+the East Coast.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
