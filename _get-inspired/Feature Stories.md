@@ -13,9 +13,8 @@ variant: markdown
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Otterly Enchanted" src="/images/Get%20inspired/otterly-enchanted2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="New!" src="/images/Get%20inspired/new.gif">
 </div>
-<br><a href="https://www.sg/stories/anusha-shivram-youth-stewards-of-nature-afa" rel="noopener noreferrer nofollow" target="_blank">Otterly Enchanted</a>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
