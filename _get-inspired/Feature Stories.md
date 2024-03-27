@@ -8,6 +8,7 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mountbatten Parking Heroes" src="/images/Get%20inspired/Banner/Featured_stories.png">
 </div>
+<h5><strong>Highlighted Stories</strong></h5>
 <table>
 <tbody>
 <tr>
@@ -19,11 +20,11 @@ variant: markdown
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Making Online Sphere Safer" src="/images/Get%20inspired/online-sphere-safer2.jpg">
-</div>
-<br><a href="https://www.straitstimes.com/singapore/this-22-year-old-is-tackling-online-harms-to-make-the-online-sphere-safer-for-her-peers" rel="noopener noreferrer nofollow" target="_blank">Making the Online Sphere Safer</a>
+<p><a href="https://www.majurity.sg" rel="noopener noreferrer nofollow" target="_blank">The Majurity Trust</a>:
+<a href="https://www.straitstimes.com/singapore/politics/former-elections-department-building-to-become-social-enterprises-hub" rel="noopener noreferrer nofollow" target="_blank">Former Elections Department building to become social enterprise hub</a>
+</p>
 <p></p>
-</th>
+</div></th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
