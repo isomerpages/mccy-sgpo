@@ -223,9 +223,6 @@ studies, and biological or life sciences.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opportunities/Blank_space.png">
-</div>
 </td>
 </tr>
 <tr>
