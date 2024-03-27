@@ -6,7 +6,7 @@ variant: markdown
 ---
 <h4><strong>Want to partner the government for a better Singapore but don't know where to start? Get some inspiration from these stories and projects.</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mountbatten Parking Heroes" src="/images/img_mountbatten-parking-hero---1296x550.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mountbatten Parking Heroes" src="/images/Get%20inspired/Banner/Featured_stories.png">
 </div>
 <h5><strong>Stories</strong></h5>
 <table>
