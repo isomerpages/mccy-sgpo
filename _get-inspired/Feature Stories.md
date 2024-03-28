@@ -8,7 +8,7 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mountbatten Parking Heroes" src="/images/Get%20inspired/Banner/Featured_stories.png">
 </div>
-<h5><strong>Highlighted Stories</strong></h5>
+<h5><strong>Latest Stories</strong></h5>
 <table>
 <tbody>
 <tr>
@@ -20,9 +20,16 @@ variant: markdown
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<p><a href="https://www.majurity.sg" rel="noopener noreferrer nofollow" target="_blank">The Majurity Trust</a>:
+<p>
+	</p><ul>
+		<li><a href="https://www.majurity.sg" rel="noopener noreferrer nofollow" target="_blank">The Majurity Trust</a>:
 <a href="https://www.straitstimes.com/singapore/politics/former-elections-department-building-to-become-social-enterprises-hub" rel="noopener noreferrer nofollow" target="_blank">Former Elections Department building to become social enterprise hub</a>
-</p>
+		</li>
+		<li>
+			<a href="https://www.probono.sg/" rel="noopener noreferrer nofollow" target="_blank">Pro Bono SG</a>:
+<a href="https://www.straitstimes.com/singapore/pro-bono-sg-opens-its-second-free-community-law-centre-in-woodlands" rel="noopener noreferrer nofollow" target="_blank">Pro Bono SG opens its second free community law centre in Woodlands</a></li>
+	</ul>
+<p></p>
 <p></p>
 </div></th>
 </tr>
