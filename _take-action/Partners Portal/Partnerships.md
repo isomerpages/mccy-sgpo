@@ -215,16 +215,10 @@ studies, and biological or life sciences.</p>
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Urban Redevelopment Authority logo" src="/images/Opportunities/URA_logo_422x304.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opportunities/Blank_space.png">
+<img style="width: 100%" height="auto" width="100%" alt="Urban Redevelopment Authority" src="/images/Opportunities/URA_logo_844x304.gif">
 </div>
 </td>
 </tr>
@@ -236,6 +230,9 @@ the East Coast.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="blank space" src="/images/Opportunities/Blank_space.png">
+</div>
 </td>
 </tr>
 </tbody>
