@@ -36,14 +36,10 @@ government policy or issue</p>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SGCares logo" src="/images/Opportunities/Other%20resources/SGCares_logo_422x304.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opportunities/Blank_space.png">
+<img style="width: 100%" height="auto" width="100%" alt="SG Cares logo" src="/images/Opportunities/SGCares_logo_844x304.gif">
 </div>
 </th>
 </tr>
@@ -54,6 +50,9 @@ the <a href="https://go.gov.sg/volunteercentres" rel="noopener noreferrer nofoll
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="blank_space" src="/images/Opportunities/Blank_space.png">
+</div>
 </td>
 </tr>
 </tbody>
