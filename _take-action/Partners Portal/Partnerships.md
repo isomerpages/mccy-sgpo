@@ -212,5 +212,30 @@ studies, and biological or life sciences.</p>
 </tr>
 </tbody>
 </table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Urban Redevelopment Authority" src="/images/Opportunities/URA_logo_844x304.gif">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.ura.gov.sg/corporate/planning/Master-Plan/Draft-Master-Plan-2025/Long-Island/?utm_source=facebook&amp;utm_medium=carousel&amp;utm_campaign=longisland1&amp;utm_term=&amp;utm_content=&amp;utm_id=dmp" rel="noopener noreferrer nofollow" target="_blank">'Long Island'</a>:
+an opportunity for Singaporeans to come together to shape the future of
+the East Coast.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="blank space" src="/images/Opportunities/Blank_space.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>If the above is not what you are looking for, share your proposal <a href="https://go.gov.sg/takeactiontoday" rel="noopener noreferrer nofollow" target="_blank">here</a>.</h3>
 <p></p>
