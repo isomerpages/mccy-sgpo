@@ -36,10 +36,16 @@ government policy or issue</p>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SG Cares logo" src="/images/Opportunities/SGCares_logo_844x304.gif">
+<img style="width: 100%" height="auto" width="100%" alt="SG Cares logo" src="/images/Opportunities/Other resources/SGCares_logo_422x304.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Community Foundation of Singapore" src="/images/Opportunities/Other resources/CFS.png">
 </div>
 </th>
 </tr>
@@ -49,10 +55,9 @@ government policy or issue</p>
 the <a href="https://go.gov.sg/volunteercentres" rel="noopener noreferrer nofollow" target="_blank">SG Cares Volunteer Centres</a>.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="blank_space" src="/images/Opportunities/Blank_space.png">
-</div>
+<p><a href="http://www.cf.org.sg/" rel="noopener noreferrer nofollow" target="_blank">The Community Foundation of Singapore</a> is
+a trusted philanthropy advisor, assisting donors in achieving tangible
+and lasting change.</p>
 </td>
 </tr>
 </tbody>
