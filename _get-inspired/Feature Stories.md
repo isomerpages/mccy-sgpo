@@ -223,6 +223,13 @@ ground-up initiative Byte.sg</a>
 </p>
 </li>
 <li>
+		<p><a href="https://www.wellbeingcircles.sg/" rel="noopener noreferrer nofollow" target="_blank">Well-being Circles</a>:
+<a href="/files/Feature%20Stories/Heritage_Stories___Kampong_Gelam_Heritage_Businesses.pdf" rel="noopener noreferrer nofollow" target="_blank">Kampong Gelam Heritage Businesses</a> []()
+			
+			
+</p>
+</li>
+<li>
 	<p><a href="https://www.wellbeingcircles.sg/" rel="noopener noreferrer nofollow" target="_blank">Well-being Circles</a>:
 <a href="https://www.straitstimes.com/singapore/community/nationwide-network-for-citizens-mental-health-to-run-well-being-circles" rel="noopener noreferrer nofollow" target="_blank">Heartland 'well-being circles' to be formed to safeguard mental health
 of S'poreans</a>
