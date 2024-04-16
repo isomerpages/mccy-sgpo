@@ -188,11 +188,6 @@ variant: markdown
 <h5><strong>Community Projects</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.majurity.sg" rel="noopener noreferrer nofollow" target="_blank">The Majurity Trust</a>:
-<a href="https://www.straitstimes.com/singapore/politics/former-elections-department-building-to-become-social-enterprises-hub" rel="noopener noreferrer nofollow" target="_blank">Former Elections Department building to become social enterprise hub</a>
-</p>
-</li>
-<li>
 	<p><a href="https://www.3pumpkins.co/" rel="noopener noreferrer nofollow" target="_blank">3Pumpkins</a>:
 <a href="https://www.3pumpkins.co/post/a-journey-in-strengthening-communities" rel="noopener noreferrer nofollow" target="_blank">A journey in strengthening communities</a>
 </p>
