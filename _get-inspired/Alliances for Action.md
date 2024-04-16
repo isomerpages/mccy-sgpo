@@ -13,7 +13,7 @@ variant: markdown
 * [AfA on Caregivers of Persons with Disabilities](https://caring.sg/#services)
 * [AfA on Corporate Purpose](https://www.thecompanyofgood.sg/corporate-purpose#alliance-for-action-on-corporate-purpose)
 * [AfA on Kampong Gelam Alliance](https://www.straitstimes.com/singapore/five-year-plan-launched-to-energise-kampong-glam-attract-more-visitors)
-* [AfA for Lower Wage Workers](https://www.momafalww.com/)
+* [AfA for Lower Wage Workers](https://www.straitstimes.com/singapore/initiatives-to-empower-uplift-lower-wage-workers-to-forge-ahead-even-as-alliance-for-action-ends)
 * [AfA to Strengthen Marriages and Family Relationships](https://www.msf.gov.sg/what-we-do/afam/home)
 * [AfA on Supply Chain Digitalisation](https://sgtradex.com/index.php)
 * [AfA on Sustainability](https://www.climateimpactx.com/about)
