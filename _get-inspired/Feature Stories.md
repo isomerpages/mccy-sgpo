@@ -224,9 +224,7 @@ ground-up initiative Byte.sg</a>
 </li>
 <li>
 		<p>
-<a href="/files/Feature%20Stories/Heritage_Stories___Kampong_Gelam_Heritage_Businesses.pdf" rel="noopener noreferrer nofollow" target="_blank">Kampong Gelam Heritage Businesses</a>
-			
-			
+<a href="/files/Feature%20Stories/Heritage_Stories___Kampong_Gelam_Heritage_Businesses.pdf" rel="noopener noreferrer nofollow" target="_blank">Kampong Gelam Heritage Businesses</a>	
 </p>
 </li>
 <li>
