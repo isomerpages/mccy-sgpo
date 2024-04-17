@@ -25,7 +25,7 @@ variant: markdown
 <p>
 	</p><ul>
 		<li><a href="https://www.majurity.sg" rel="noopener noreferrer nofollow" target="_blank">The Majurity Trust</a>:
-<a href="https://www.straitstimes.com/singapore/politics/former-elections-department-building-to-become-social-enterprises-hub" rel="noopener noreferrer nofollow" target="_blank">Former Elections Department building to become social enterprise hub</a>
+<a href="https://www.straitstimes.com/singapore/politics/former-elections-department-building-to-become-social-enterprises-hub" rel="noopener noreferrer nofollow" target="_blank">Former Elections Department building to become social impact hub</a>
 		</li>
 		<li>
 			<a href="https://www.probono.sg/" rel="noopener noreferrer nofollow" target="_blank">Pro Bono SG</a>:
