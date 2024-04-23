@@ -25,7 +25,7 @@ variant: markdown
 <p>
 	</p><ul>
 		<li><a href="https://www.majurity.sg" rel="noopener noreferrer nofollow" target="_blank">The Majurity Trust</a>:
-<a href="https://www.straitstimes.com/singapore/politics/former-elections-department-building-to-become-social-enterprises-hub" rel="noopener noreferrer nofollow" target="_blank">Former Elections Department building to become social enterprise hub</a>
+<a href="https://www.straitstimes.com/singapore/politics/former-elections-department-building-to-become-social-enterprises-hub" rel="noopener noreferrer nofollow" target="_blank">Former Elections Department building to become social impact hub</a>
 		</li>
 		<li>
 			<a href="https://www.probono.sg/" rel="noopener noreferrer nofollow" target="_blank">Pro Bono SG</a>:
@@ -188,11 +188,6 @@ variant: markdown
 <h5><strong>Community Projects</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.majurity.sg" rel="noopener noreferrer nofollow" target="_blank">The Majurity Trust</a>:
-<a href="https://www.straitstimes.com/singapore/politics/former-elections-department-building-to-become-social-enterprises-hub" rel="noopener noreferrer nofollow" target="_blank">Former Elections Department building to become social enterprise hub</a>
-</p>
-</li>
-<li>
 	<p><a href="https://www.3pumpkins.co/" rel="noopener noreferrer nofollow" target="_blank">3Pumpkins</a>:
 <a href="https://www.3pumpkins.co/post/a-journey-in-strengthening-communities" rel="noopener noreferrer nofollow" target="_blank">A journey in strengthening communities</a>
 </p>
@@ -225,6 +220,11 @@ to be launched this year</a>
 	<p><a href="https://www.byte.sg/" rel="noopener noreferrer nofollow" target="_blank">Byte.sg</a>:
 <a href="https://www.straitstimes.com/singapore/children-living-in-rental-flats-get-tech-savvy-under-programme-run-by-ground-up-initiative-bytesg" rel="noopener noreferrer nofollow" target="_blank">Children living in rental flats get tech-savvy under programme run by
 ground-up initiative Byte.sg</a>
+</p>
+</li>
+<li>
+		<p>
+<a href="/files/Feature%20Stories/Heritage_Stories___Kampong_Gelam_Heritage_Businesses.pdf" rel="noopener noreferrer nofollow" target="_blank">Kampong Gelam Heritage Businesses</a>	
 </p>
 </li>
 <li>
