@@ -166,7 +166,7 @@ with students and educators.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Total Defence Sandbox logo" src="/images/Opportunities/TDSandbox_logo_422x304.png">
+<img style="width: 100%" height="auto" width="100%" alt="TD Sandbox logo" src="/images/Opportunities/TDSandbox_logo1_422x304.png">
 </div>
 </td>
 </tr>
