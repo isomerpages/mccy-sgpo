@@ -165,6 +165,9 @@ with students and educators.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Total Defence Sandbox logo" src="/images/Opportunities/TDSandbox_logo_422x304.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -174,7 +177,8 @@ an opportunity for Singaporeans to come together to shape the future of
 the East Coast.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Have a bright idea that could help the community put Total Defence into
+<p><a href="https://go.gov.sg/tdsandbox" rel="noopener noreferrer nofollow" target="_blank">Total Defence (TD) Sandbox</a>:
+Have a bright idea that could help the community put Total Defence into
 action? Share it with us and we may bring it to life!</p>
 </td>
 </tr>
