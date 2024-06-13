@@ -31,7 +31,7 @@ variant: markdown
 
 |![](/images/Opportunities/Funding/URA_HDB.png)|
 | -------- |
-|[Lively Places Fund](https://www.ura.gov.sg/Corporate/Get-Involved/Enliven-Public-Spaces/Shaping-Public-Spaces): Have an idea to enliven<br> the public spaces in your neighbourhood? <br>Find out how with this fund!|
+|[Lively Places Fund](https://www.ura.gov.sg/Corporate/Get-Involved/Enliven-Public-Spaces/Activate-public-spaces): Have an idea to enliven<br> the public spaces in your neighbourhood? <br>Find out how with this fund!|
 
 ### Commercial Ideas 
 
