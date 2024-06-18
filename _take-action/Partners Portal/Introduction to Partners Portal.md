@@ -61,5 +61,6 @@ variant: tiptap
 </tbody>
 </table>
 <p><strong>Click here to read the <a href="/take-action/frequently-asked-questions/sgpo2/" rel="noopener noreferrer nofollow" target="_blank">FAQs</a> on sharing a partnership proposal</strong>.</p>
-<h4>*Please note that our partnerships proposal form is currently undergoing scheduled maintenance between 18 June to 19 June 2024.&nbsp;We apologise for any inconvenience caused and appreciate your patience.</h4>
+<h4>*Please note that our partnerships proposal form is currently undergoing scheduled maintenance between 18 June to 19 June 2024.&nbsp;</h4>
+<h4>We apologise for any inconvenience caused and appreciate your patience.</h4>
 <p></p>
