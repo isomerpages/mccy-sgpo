@@ -70,5 +70,5 @@ and lasting change.</p>
 </tr>
 </tbody>
 </table>
-<h4>*Please note that our partnerships proposal is currently undergoing scheduled maintenance between 18 June to 19 June 2024.&nbsp;We apologise for any inconvenience caused and appreciate your patience.</h4>
+<h4>*Please note that our partnerships proposal form is currently undergoing scheduled maintenance between 18 June to 19 June 2024.&nbsp;We apologise for any inconvenience caused and appreciate your patience.</h4>
 <p></p>
