@@ -10,7 +10,10 @@ variant: tiptap
 </p>
 <p><strong>Click on the buttons below to explore existing resources and platforms that may support your idea.</strong>
 </p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -19,7 +22,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/take-action/partners-portal/partnerships/"><img style="width: 100%" height="auto" width="100%" alt="Click here for Partnerships" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/PARTNERSHIPS_RED.png"></a>
@@ -29,7 +36,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -50,5 +61,5 @@ variant: tiptap
 </tbody>
 </table>
 <p><strong>Click here to read the <a href="/take-action/frequently-asked-questions/sgpo2/" rel="noopener noreferrer nofollow" target="_blank">FAQs</a> on sharing a partnership proposal</strong>.</p>
-<p><strong>If you are already clear on how to submit a proposal you want to take action on, click </strong>
-<a href="https://go.gov.sg/takeactiontoday" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<h4>*Please note that our partnerships proposal is currently undergoing scheduled maintenance between 18 June to 19 June 2024.&nbsp;We apologise for any inconvenience caused and appreciate your patience.</h4>
+<p></p>
