@@ -40,8 +40,8 @@ variant: markdown
 | - | -------- | 
 | **Businesses**: [GoBusiness](https://gobusiness.gov.sg) is the go-to platform to connect businesses in Singapore to various Government e-services and resources. | **Social Enterprise Support**: Find out more about the available support for your business to scale human-centered social impact at [raiSE](https://www.raise.sg). | 
 
-<h5 style="color: #ff0000">*Please note that our partnerships proposal is currently undergoing scheduled maintenance between 18 June to 19 June 2024.&nbsp;
+##### *Please note that our partnerships proposal is currently undergoing scheduled maintenance between 18 June to 19 June 2024.
 
-We apologise for any inconvenience caused and appreciate your patience.</h5>
+##### We apologise for any inconvenience caused and appreciate your patience.
 
 [![](/images/take%20action.png)](https://go.gov.sg/takeactiontoday)
