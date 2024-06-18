@@ -18,6 +18,6 @@ variant: markdown
 
 <h5 style="color: #ff0000">*Please note that our partnerships proposal is currently undergoing scheduled maintenance between 18 June to 19 June 2024.&nbsp;
 
-We apologise for any inconvenience caused and appreciate your patience.
+We apologise for any inconvenience caused and appreciate your patience.</h5>
 
-[![](/images/take%20action.png)](https://go.gov.sg/takeactiontoday)</h5>
+[![](/images/take%20action.png)](https://go.gov.sg/takeactiontoday)
