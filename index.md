@@ -5,7 +5,7 @@ description: Website of the Singapore Government Partnerships Office.
 image: /images/sgt_sgpo_logo_3-01.svg
 permalink: /
 notification: The partnership proposal form is currently undergoing scheduled
-  maintenance between 18 June and 19 June 2024. We apologize for any
+  maintenance between 18 June and 19 June 2024. We apologise for any
   inconvenience caused and appreciate your patience.
 sections:
   - hero:
