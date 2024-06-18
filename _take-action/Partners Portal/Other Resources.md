@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Partners Portal
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -33,7 +37,11 @@ government policy or issue</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -62,6 +70,6 @@ and lasting change.</p>
 </tr>
 </tbody>
 </table>
-<h5>If the above is not what you are looking for, share your proposal here.</h5>
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/takeactiontoday"><img style="width: 100%" height="auto" width="100%" alt="Take Action button" src="/images/take action.png"></a>
+<h4>*Please note that our partnerships proposal form is currently undergoing scheduled maintenance between 18 June to 19 June 2024.&nbsp;</h4>
+<h4>We apologise for any inconvenience caused and appreciate your patience.</h4>
 <p></p>
