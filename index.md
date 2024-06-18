@@ -4,9 +4,8 @@ title: Singapore Government Partnerships Office
 description: Website of the Singapore Government Partnerships Office.
 image: /images/sgt_sgpo_logo_3-01.svg
 permalink: /
-notification: Our partnership proposal form is currently undergoing scheduled
-  maintenance between 18 June to 19 June 2024. We apologise for any
-  inconvenience caused and appreciate your patience.
+notification: This is a beta version of the website. Give us your feedback at
+  the 'Contact Us' link below, to help us improve it.
 sections:
   - hero:
       title: Be the Change
