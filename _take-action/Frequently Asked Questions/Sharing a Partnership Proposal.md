@@ -66,6 +66,6 @@ to assess their feasibility. Hence, adequate time is needed for agencies
 to get back to citizens with a meaningful response.</p>
 <p>You may write in to the <a href="https://form.gov.sg/65a74bb37d27490011d6b231" rel="noopener noreferrer nofollow" target="_blank">Singapore Government Partnerships Office</a> if
 you do not hear back on your proposal after 5 - 6 weeks.</p>
-<h4>Please note that our partnerships proposal form is currently undergoing scheduled maintenance between 18 June to 19 June 2024.&nbsp;</h4>
+<h4>*Please note that our partnerships proposal form is currently undergoing scheduled maintenance between 18 June to 19 June 2024.&nbsp;</h4>
 <h4>We apologise for any inconvenience caused and appreciate your patience.</h4>
 <p></p>
