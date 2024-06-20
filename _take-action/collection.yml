@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Get Started.md
+      - Partners Portal/For Individuals.md
       - Partners Portal/.keep
       - Partners Portal/Introduction to Partners Portal.md
       - Partners Portal/Partnerships.md
