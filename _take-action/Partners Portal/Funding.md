@@ -40,5 +40,5 @@ variant: markdown
 | - | -------- | 
 | **Businesses**: [GoBusiness](https://gobusiness.gov.sg) is the go-to platform to connect businesses in Singapore to various Government e-services and resources. | **Social Enterprise Support**: Find out more about the available support for your business to scale human-centered social impact at [raiSE](https://www.raise.sg). | 
 
-##### **If you are already clear on how to submit a proposal you want to take action on, click [here](https://go.gov.sg/takeactiontoday).**
+##### **If the above is not what you are looking for, share your proposal [here](https://go.gov.sg/takeactiontoday).**
 [![Take Action button](/images/take%20action.png)](https://go.gov.sg/takeactiontoday)
