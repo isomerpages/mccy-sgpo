@@ -12,6 +12,6 @@ would love to hear from you.</p>
 </div>
 <p><strong>We recommend you to explore the <a href="/take-action/partnersportal" rel="noopener noreferrer nofollow" target="_blank">Partners Portal</a> first for resources that may support your idea e.g. existing funding, partnership and volunteering opportunities.</strong>
 </p>
-<h5>*<strong>Please note that our partnerships proposal form is currently undergoing scheduled maintenance between 18 June to 19 June 2024. </strong></h5>
-<h5><strong>We apologise for any inconvenience caused and appreciate your patience.</strong></h5>
+<p><strong>If you are already clear on how to submit a proposal you want to take action on, click <a href="https://go.gov.sg/takeactiontoday" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
+</p>
 <p></p>
