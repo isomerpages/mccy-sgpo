@@ -25,6 +25,6 @@ The SGPO website is a first-stop platform. If you want to act on ideas that cont
 
 SGPO's mission complements this by supporting those who want to take action on issues they care about, through partnership with the Government. 
  
-##### *Please note that our partnerships proposal form is currently undergoing scheduled maintenance between 18 June to 19 June 2024. 
-
-##### We apologise for any inconvenience caused and appreciate your patience.
+#### **If you are already clear on how to submit a proposal you want to take action on, click [here](https://go.gov.sg/takeactiontoday).**
+[![](/images/take%20action.png)](https://go.gov.sg/takeactiontoday)
+##### If not, please head to our [Partners Portal](/take-action/partnersportal/) page to explore resources that may support your idea.
