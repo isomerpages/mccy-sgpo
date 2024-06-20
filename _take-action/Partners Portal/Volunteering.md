@@ -16,5 +16,5 @@ variant: markdown
 | --- | - | 
 | [PA Community Volunteering](https://onepa.gov.sg): Individuals passionate about community causes can sign up as Community Volunteers and explore the opportunities available. | [Volunteer.Gov.SG](https://www.volunteer.gov.sg): Search for available volunteering opportunities that strikes a chord with your heart to kick start your volunteering journey today.| 
 
-##### **If you are already clear on how to submit a proposal you want to take action on, click [here](https://go.gov.sg/takeactiontoday).**
+##### **If the above is not what you are looking for, share your proposal [here](https://go.gov.sg/takeactiontoday).**
 [![Take Action button](/images/take%20action.png)](https://go.gov.sg/takeactiontoday)
