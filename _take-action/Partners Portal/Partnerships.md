@@ -275,7 +275,8 @@ studies, and biological or life sciences.</p>
 </tbody>
 </table>
 <p></p>
-<h4>*Please note that our partnerships proposal form is currently undergoing scheduled maintenance between 18 June to 19 June 2024.&nbsp;</h4>
-<h4>We apologise for any inconvenience caused and appreciate your patience.</h4>
+<h4><strong>If the above is not what you are looking for, share your proposal <a href="https://go.gov.sg/takeactiontoday" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong></h4>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/takeactiontoday"><img style="width: 100%" height="auto" width="100%" alt="Take Action button" src="/images/take action.png"></a>
+<p></p>
 <p></p>
 <p></p>

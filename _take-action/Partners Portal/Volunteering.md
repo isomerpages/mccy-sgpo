@@ -16,6 +16,5 @@ variant: markdown
 | --- | - | 
 | [PA Community Volunteering](https://onepa.gov.sg): Individuals passionate about community causes can sign up as Community Volunteers and explore the opportunities available. | [Volunteer.Gov.SG](https://www.volunteer.gov.sg): Search for available volunteering opportunities that strikes a chord with your heart to kick start your volunteering journey today.| 
 
-##### *Please note that our partnerships proposal form is currently undergoing scheduled maintenance between 18 June to 19 June 2024.
-
-##### We apologise for any inconvenience caused and appreciate your patience.
+##### **If the above is not what you are looking for, share your proposal [here](https://go.gov.sg/takeactiontoday).**
+[![Take Action button](/images/take%20action.png)](https://go.gov.sg/takeactiontoday)
