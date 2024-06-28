@@ -46,9 +46,6 @@ government policy or issue</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SG Cares logo" src="/images/Opportunities/Other resources/SGCares_logo_422x304.png">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -59,8 +56,7 @@ government policy or issue</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Volunteer close to you and close to your heart! Make a difference with
-the <a href="https://go.gov.sg/volunteercentres" rel="noopener noreferrer nofollow" target="_blank">SG Cares Volunteer Centres</a>.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="http://www.cf.org.sg/" rel="noopener noreferrer nofollow" target="_blank">The Community Foundation of Singapore</a> is
