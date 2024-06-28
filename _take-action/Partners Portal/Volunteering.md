@@ -51,7 +51,9 @@ lasting difference in the lives of a growing community of young minds.</p>
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opportunities/nparks-logo_422x304.jpg">
+</div>
 </th>
 </tr>
 <tr>
@@ -61,7 +63,10 @@ Volunteer to help everyone become more aware of our shared environmental
 responsibility for a Clean &amp; Green Singapore.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/omtvolfacil" rel="noopener noreferrer nofollow" target="_blank">OneMillionTrees Facilitator</a>:
+Volunteer facilitators will assist with tree planting events and share
+the key messaging of how this contributes towards NParks' City in Nature
+vision.</p>
 </td>
 </tr>
 </tbody>
