@@ -46,22 +46,22 @@ lasting difference in the lives of a growing community of young minds.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opportunities/volunter-corps_422x304.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opportunities/pa-logo-v2.jpg">
-</div>
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.cgs.gov.sg/how-can-we-act/volunteer/roles" rel="noopener noreferrer nofollow" target="_blank">NEA Volunteer Corps</a>:
+Volunteer to help everyone become more aware of our shared environmental
+responsibility for a Clean &amp; Green Singapore.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://onepa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA Community Volunteering</a>:
-Individuals passionate about community causes can sign up as Community
-Volunteers and explore the opportunities available.</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -75,25 +75,58 @@ Volunteers and explore the opportunities available.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opportunities/volunter-corps_422x304.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opportunities/pa-logo-v2.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opportunities/volunteersg-logo-v3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="SGCares logo" src="/images/Opportunities/SGCares_logo_422x304.png">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.cgs.gov.sg/how-can-we-act/volunteer/roles" rel="noopener noreferrer nofollow" target="_blank">NEA Volunteer Corps</a>:
-Volunteer to help everyone become more aware of our shared environmental
-responsibility for a Clean &amp; Green Singapore.</p>
+<p><a href="https://onepa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA Community Volunteering</a>:
+Individuals passionate about community causes can sign up as Community
+Volunteers and explore the opportunities available.</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Volunteer close to you and close to your heart! Make a difference with
+the <a href="https://go.gov.sg/volunteercentres" rel="noopener noreferrer nofollow" target="_blank">SG Cares Volunteer Centres</a>.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opportunities/volunteersg-logo-v3.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="space" src="/images/Opportunities/Blank_space.png">
+</div>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.volunteer.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Volunteer.Gov.SG</a>:
 Search for available volunteering opportunities that strikes a chord with
 your heart to kick start your volunteering journey today.</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="space" src="/images/Opportunities/Blank_space.png">
+</div>
 </td>
 </tr>
 </tbody>
