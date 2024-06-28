@@ -85,9 +85,7 @@ Digitally inclusive Singapore by partnering with us.</p>
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opportunities/nparks-logo_422x304.jpg">
-</div>
+<p></p>
 </th>
 </tr>
 <tr>
@@ -98,10 +96,7 @@ in Nature vision in the heartlands, as well as encourage greater appreciation
 and community stewardship.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/omtvolfacil" rel="noopener noreferrer nofollow" target="_blank">OneMillionTrees Facilitator</a>:
-Volunteer facilitators will assist with tree planting events and share
-the key messaging of how this contributes towards NParks' City in Nature
-vision.</p>
+<p></p>
 </td>
 </tr>
 </tbody>
