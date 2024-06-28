@@ -87,6 +87,9 @@ and partners play their parts!</p>
 </th>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="raiSE Singapore: Centre for Social Enterprise logo" src="/images/Opportunities/rsz_1rsz_raise.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -96,7 +99,9 @@ Have an innovative business idea that needs a trial space, or a suggestion
 on business process and regulations? Write to us!</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.raise.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>raiSE:</u></a> Find
+out more about the available support for your business to scale human-centered
+social impact.</p>
 </td>
 </tr>
 </tbody>
