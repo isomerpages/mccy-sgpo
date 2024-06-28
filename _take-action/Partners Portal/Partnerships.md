@@ -56,9 +56,7 @@ and other support to develop their groundup initiatives.</p>
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opportunities/mentoring-sg_422x304.jpg">
-</div>
+<p></p>
 </th>
 </tr>
 <tr>
@@ -69,9 +67,7 @@ skills and wellbeing. Find out how you can make a difference to drive a
 Digitally inclusive Singapore by partnering with us.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.mentoringsg.com" rel="noopener noreferrer nofollow" target="_blank">Mentoring.SG</a> Connect
-is a place where you can contribute your expertise and wisdom to make a
-lasting difference in the lives of a growing community of young minds.</p>
+<p></p>
 </td>
 </tr>
 </tbody>
