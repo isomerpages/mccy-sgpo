@@ -27,14 +27,15 @@ third_nav_title: Partners Portal
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.caringcommuters.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Caring SG Commuters Movement</a> aims
-to foster a caring community culture in Singapore's public transport system.</p>
+<p><a href="https://www.caringcommuters.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Caring SG Commuters Movement (Multi-Agency)</a>:
+aims to foster a caring community culture in Singapore's public transport
+system.</p>
 <p></p>
 <p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.digitalforlife.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Digital for Life</a>:
+<p><a href="https://www.digitalforlife.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Digital for Life (Multi-Agency)</a>:
 Make a difference by starting a project to enhance Singaporeans' digital
 skills and wellbeing. Find out how you can make a difference to drive a
 Digitally inclusive Singapore by partnering with us.</p>
@@ -63,12 +64,12 @@ Digitally inclusive Singapore by partnering with us.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ura.gov.sg/corporate/planning/Master-Plan/Draft-Master-Plan-2025/Long-Island/?utm_source=facebook&amp;utm_medium=carousel&amp;utm_campaign=longisland1&amp;utm_term=&amp;utm_content=&amp;utm_id=dmp" rel="noopener noreferrer nofollow" target="_blank">'Long Island'</a>:
+<p><a href="https://www.ura.gov.sg/corporate/planning/Master-Plan/Draft-Master-Plan-2025/Long-Island/?utm_source=facebook&amp;utm_medium=carousel&amp;utm_campaign=longisland1&amp;utm_term=&amp;utm_content=&amp;utm_id=dmp" rel="noopener noreferrer nofollow" target="_blank">'Long Island' (URA)</a>:
 an opportunity for Singaporeans to come together to shape the future of
 the East Coast.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/oskgettoknowyou" rel="noopener noreferrer nofollow" target="_blank">One Service Kakis Network</a>:
+<p><a href="https://go.gov.sg/oskgettoknowyou" rel="noopener noreferrer nofollow" target="_blank">One Service Kakis Network (MSO)</a>:
 Join OSK Network to gain awareness of municipal issues and participate
 in grounds-up initiatives.</p>
 </td>
@@ -95,12 +96,12 @@ in grounds-up initiatives.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nac.gov.sg/about-us/oursgartsplan/join-the-making" rel="noopener noreferrer nofollow" target="_blank">Our SG Arts Plan (2023 - 2027)</a>:
+<p><a href="https://www.nac.gov.sg/about-us/oursgartsplan/join-the-making" rel="noopener noreferrer nofollow" target="_blank">Our SG Arts Plan (2023 - 2027) (NAC)</a>:
 Join the Making of Singapore's future arts scene where artists, audiences,
 and partners play their parts!</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/naturekakisenquiry" rel="noopener noreferrer nofollow" target="_blank">Nature Kakis</a>:
+<p><a href="https://go.gov.sg/naturekakisenquiry" rel="noopener noreferrer nofollow" target="_blank">Nature Kakis (NEA)</a>:
 The Nature Kakis Network is a platform that will help grow NParks' City
 in Nature vision in the heartlands, as well as encourage greater appreciation
 and community stewardship.</p>
@@ -129,12 +130,12 @@ and community stewardship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/tdsandbox" rel="noopener noreferrer nofollow" target="_blank">Total Defence (TD) Sandbox</a>:
+<p><a href="https://go.gov.sg/tdsandbox" rel="noopener noreferrer nofollow" target="_blank">Total Defence (TD) Sandbox (MINDEF)</a>:
 Have a bright idea that could help the community put Total Defence into
 action? Share it with us and we may bring it to life!</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nyc.gov.sg/programmes-grants/young-changemakers" rel="noopener noreferrer nofollow" target="_blank">Young ChangeMakers Programme</a>:
+<p><a href="https://www.nyc.gov.sg/programmes-grants/young-changemakers" rel="noopener noreferrer nofollow" target="_blank">Young ChangeMakers Programme (NYC-Changemakers)</a>:
 A by youth for youth programme to empower youths through grants and mentorship
 in starting projects that benefit the community.</p>
 </td>
