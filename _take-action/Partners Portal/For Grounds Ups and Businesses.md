@@ -32,7 +32,7 @@ a first-stop platform for changemakers to gain access to resources, networks
 and other support to develop their groundup initiatives.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.digitalforlife.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Digital for Life</a>:
+<p><a href="https://www.digitalforlife.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Digital for Life (Multi-Agency)</a>:
 Make a difference by starting a project to enhance Singaporeans' digital
 skills and wellbeing. Find out how you can make a difference to drive a
 Digitally inclusive Singapore by partnering with us.</p>
@@ -61,12 +61,12 @@ Digitally inclusive Singapore by partnering with us.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ura.gov.sg/corporate/planning/Master-Plan/Draft-Master-Plan-2025/Long-Island/?utm_source=facebook&amp;utm_medium=carousel&amp;utm_campaign=longisland1&amp;utm_term=&amp;utm_content=&amp;utm_id=dmp" rel="noopener noreferrer nofollow" target="_blank">'Long Island'</a>:
+<p><a href="https://www.ura.gov.sg/corporate/planning/Master-Plan/Draft-Master-Plan-2025/Long-Island/?utm_source=facebook&amp;utm_medium=carousel&amp;utm_campaign=longisland1&amp;utm_term=&amp;utm_content=&amp;utm_id=dmp" rel="noopener noreferrer nofollow" target="_blank">'Long Island' (URA)</a>:
 an opportunity for Singaporeans to come together to shape the future of
 the East Coast.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nac.gov.sg/about-us/oursgartsplan/join-the-making" rel="noopener noreferrer nofollow" target="_blank">Our SG Arts Plan (2023 - 2027)</a>:
+<p><a href="https://www.nac.gov.sg/about-us/oursgartsplan/join-the-making" rel="noopener noreferrer nofollow" target="_blank">Our SG Arts Plan (2023 - 2027) (NAC)</a>:
 Join the Making of Singapore's future arts scene where artists, audiences,
 and partners play their parts!</p>
 </td>
@@ -94,7 +94,7 @@ and partners play their parts!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.mti.gov.sg/PEP/About-the-PEP" rel="noopener noreferrer nofollow" target="_blank">Pro-Enterprise Panel</a>:
+<p><a href="https://www.mti.gov.sg/PEP/About-the-PEP" rel="noopener noreferrer nofollow" target="_blank">Pro-Enterprise Panel (MTI)</a>:
 Have an innovative business idea that needs a trial space, or a suggestion
 on business process and regulations? Write to us!</p>
 </td>
@@ -127,12 +127,12 @@ social impact.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/partnerwithschools" rel="noopener noreferrer nofollow" target="_blank">School-Industry Partnership</a>:
+<p><a href="https://go.gov.sg/partnerwithschools" rel="noopener noreferrer nofollow" target="_blank">School-Industry Partnership (MOE)</a>:
 Indicate your interest to partner schools on programmes and co-create solutions
 with students and educators.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/tdsandbox" rel="noopener noreferrer nofollow" target="_blank">Total Defence (TD) Sandbox</a>:
+<p><a href="https://go.gov.sg/tdsandbox" rel="noopener noreferrer nofollow" target="_blank">Total Defence (TD) Sandbox (MINDEF)</a>:
 Have a bright idea that could help the community put Total Defence into
 action? Share it with us and we may bring it to life!</p>
 </td>
