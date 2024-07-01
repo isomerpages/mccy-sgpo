@@ -9,7 +9,7 @@ notification: This is a beta version of the website. Give us your feedback at
 sections:
   - hero:
       title: Be the Change
-      background: /images/masthead_1_hands_sgpo3_di.jpeg
+      background: /images/About SGPO/Jul_masthead.png
       subtitle: The Singapore Government Partnerships Office works with you -
         citizens, communities and organisations - to co-create solutions for a
         better Singapore
