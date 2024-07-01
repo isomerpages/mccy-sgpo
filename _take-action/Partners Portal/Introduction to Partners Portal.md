@@ -10,18 +10,6 @@ variant: tiptap
 </p>
 <p><strong>Click on the buttons below to explore existing resources and platforms that may support your idea.</strong>
 </p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -30,16 +18,10 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Partnerships and Engagements button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Partnerships_Engagements_RED_NEW.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/take-action/partners-portal/partnerships-engagements/"><img style="width: 100%" height="auto" width="100%" alt="Partnerships and Engagements button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Partnerships_Engagements_RED_NEW.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Funding button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Funding_YELLOW.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/take-action/partners-portal/funding/"><img style="width: 100%" height="auto" width="100%" alt="Funding button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Funding_YELLOW.png"></a>
 </th>
 </tr>
 </tbody>
@@ -60,16 +42,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Volunteering and Giving button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Volunteering_TEAL.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/take-action/partners-portal/volunteering-giving/"><img style="width: 100%" height="auto" width="100%" alt="Volunteering and Giving button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Volunteering_TEAL.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Other Resources button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Other_ORANGE.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/take-action/partners-portal/resources/"><img style="width: 100%" height="auto" width="100%" alt="Other Resources button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Other_ORANGE.png"></a>
 </td>
 </tr>
 </tbody>
