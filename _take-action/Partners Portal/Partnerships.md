@@ -14,7 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/take-action/partners-portal/for-individuals"><img style="width: 100%" height="auto" width="100%" alt="For Individuals button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/PARTNERSHIPS_FOR_INDIVIDUALS.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/take-action/partners-portal/partnerships/for-individuals/"><img style="width: 100%" height="auto" width="100%" alt="For Individuals button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/PARTNERSHIPS_FOR_INDIVIDUALS.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="/take-action/partners-portal/for-groundup and"><img style="width: 100%" height="auto" width="100%" alt="For Ground-Ups and Businesses button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/PARTNERSHIPS_FOR_GROUNDUPS_BUSINESSES.png"></a>
