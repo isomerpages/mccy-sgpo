@@ -46,22 +46,28 @@ government policy or issue</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Community Foundation of Singapore" src="/images/Opportunities/Other resources/CFS.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Community Foundation of Singapore" src="/images/Opportunities/Other resources/CFS.png">
+<img style="width: 100%" height="auto" width="100%" alt="space" src="/images/Opportunities/Blank_space.png">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="http://www.cf.org.sg/" rel="noopener noreferrer nofollow" target="_blank">The Community Foundation of Singapore</a> is
 a trusted philanthropy advisor, assisting donors in achieving tangible
 and lasting change.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="space" src="/images/Opportunities/Blank_space.png">
+</div>
 </td>
 </tr>
 </tbody>
