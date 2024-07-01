@@ -29,9 +29,17 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/take-action/partners-portal/partnerships/"><img style="width: 100%" height="auto" width="100%" alt="Click here for Partnerships" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/PARTNERSHIPS_RED.png"></a>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Partnerships and Engagements button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Partnerships_Engagements_RED_NEW.png">
+</div>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/take-action/partners-portal/funding/"><img style="width: 100%" height="auto" width="100%" alt="Click here for Funding" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/FUNDING_YELLOW.png"></a>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Funding button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Funding_YELLOW.png">
+</div>
 </th>
 </tr>
 </tbody>
@@ -52,10 +60,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/take-action/partners-portal/volunteering/"><img style="width: 100%" height="auto" width="100%" alt="Click here for Volunteering" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/VOLUNTEERING_BLUE.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Volunteering and Giving button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Volunteering_TEAL.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/take-action/partners-portal/resources/"><img style="width: 100%" height="auto" width="100%" alt="Click here for Other Resources" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/FUNDING_GREY.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Other Resources button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Other_ORANGE.png">
+</div>
 </td>
 </tr>
 </tbody>
