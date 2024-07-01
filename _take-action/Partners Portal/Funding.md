@@ -3,42 +3,171 @@ title: Funding
 permalink: /take-action/partners-portal/funding/
 description: ""
 third_nav_title: Partners Portal
-variant: markdown
+variant: tiptap
 ---
-# Funding Possibilities
-
-
-### Government Grants
-
-##### [OurSG Grants Portal](https://oursggrants.gov.sg)
-
-[![](/images/oursggrants_logo.png)](https://oursggrants.gov.sg)
-
-[OurSG Grants portal](https://oursggrants.gov.sg) brings government grants for the arts, community, heritage, social good, sports and youth into one space. 
-
-| ![](/images/Opportunities/mso-logo_422x304.jpg)|  ![](/images/Opportunities/nea-logo_422x304.jpg) |
-| -------- | -------- | 
-| [Love Our 'Hood Fund (LOH Fund)](https://go.gov.sg/fund-application) supports grounds-up initiatives that addresses municipal issues in our neighbourhoods. Apply via the link. | [NEA Call for Ideas Fund](https://www.nea.gov.sg/programmes-grants/grants-and-awards/call-for-ideas-fund) provides funding for projects that promotes environmental sustainability and public cleanliness in the community. | 
-
-
-| ![](/images/Opportunities/mpa-logo_422x304.jpg)|  ![](/images/Opportunities/osf-logo_422x304.jpg)|
-| -------- | -------- | 
-|[Maritime Outreach Fund](https://www.mpa.gov.sg/events-careers/public-outreach/maritime-outreach-fund): Make use of this funding platform to organise maritime-related activities, and gain first-hand experience of various aspects of the maritime industry.| [Our Singapore Fund](https://www.sg/oursingaporefund): Have an idea for projects that bring communities together, or promotes Singapore's national identity and shared values? Find out if you are eligible to apply. | 
-
-|![](/images/Opportunities/sg-eco-fund_422x304.jpg)  |  ![](/images/Opportunities/nyc-ycm-logo-(422x304).jpg) |
-| -------- | -------- | 
-|[SG Eco Fund](https://www.mse.gov.sg/sgecofund): Provides funding for community projects that advance environmental sustainability (e.g., community farming, biodiversity awareness, and resource conservation). | [Young Changemakers - Youth Heritage Kickstarter Fund](https://www.nyc.gov.sg/programmes-grants/young-changemakers)​:  provides funding and resources to empower youths to take an active role in preserving and safeguarding Singapore's heritage. | 
-
-|![](/images/Opportunities/Funding/URA_HDB.png)|
-| -------- |
-|[Lively Places Fund](https://www.ura.gov.sg/Corporate/Get-Involved/Enliven-Public-Spaces/Activate-public-spaces): Have an idea to enliven<br> the public spaces in your neighbourhood? <br>Find out how with this fund!|
-
-### Commercial Ideas 
-
-
-| ![](/images/Opportunities/gobusiness-logo-v2.jpg) | ![](/images/Opportunities/raise-logo-v2.jpg)|
-| - | -------- | 
-| **Businesses**: [GoBusiness](https://gobusiness.gov.sg) is the go-to platform to connect businesses in Singapore to various Government e-services and resources. | **Social Enterprise Support**: Find out more about the available support for your business to scale human-centered social impact at [raiSE](https://www.raise.sg). | 
-
-##### **If the above is not what you are looking for, share your proposal [here](https://go.gov.sg/takeactiontoday).**
-[![Take Action button](/images/take%20action.png)](https://go.gov.sg/takeactiontoday)
+<h1>Funding Possibilities</h1>
+<h3>Government Grants</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opportunities/mso-logo_422x304.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="URA and HDB logo" src="/images/Opportunities/Funding/URA_logo_422x304.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/fund-application" rel="noopener noreferrer nofollow" target="_blank">Love Our 'Hood Fund (LOH Fund)</a> supports
+grounds-up initiatives that addresses municipal issues in our neighbourhoods.
+Apply via the link.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.ura.gov.sg/Corporate/Get-Involved/Enliven-Public-Spaces/Activate-public-spaces" rel="noopener noreferrer nofollow" target="_blank">Lively Places Fund</a>:
+Have an idea to enliven the public spaces in your neighbourhood? Find out
+how with this fund!</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opportunities/mpa-logo_422x304.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opportunities/nea-logo_422x304.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.mpa.gov.sg/events-careers/public-outreach/maritime-outreach-fund" rel="noopener noreferrer nofollow" target="_blank">Maritime Outreach Fund</a>:
+Make use of this funding platform to organise maritime-related activities,
+and gain first-hand experience of various aspects of the maritime industry.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/call-for-ideas-fund" rel="noopener noreferrer nofollow" target="_blank">NEA Call for Ideas Fund</a> provides
+funding for projects that promotes environmental sustainability and public
+cleanliness in the community.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Our SG Grants Portal" src="/images/oursggrants_logo.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opportunities/osf-logo_422x304.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://oursggrants.gov.sg" rel="noopener noreferrer nofollow" target="_blank">OurSG Grants portal</a> brings
+government grants for the arts, community, heritage, social good, sports
+and youth into one space.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.sg/oursingaporefund" rel="noopener noreferrer nofollow" target="_blank">Our Singapore Fund</a>:
+Have an idea for projects that bring communities together, or promotes
+Singapore's national identity and shared values? Find out if you are eligible
+to apply.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opportunities/sg-eco-fund_422x304.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opportunities/nyc-ycm-logo-(422x304).jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.mse.gov.sg/sgecofund" rel="noopener noreferrer nofollow" target="_blank">SG Eco Fund</a>:
+Provides funding for community projects that advance environmental sustainability
+(e.g., community farming, biodiversity awareness, and resource conservation).</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nyc.gov.sg/programmes-grants/young-changemakers" rel="noopener noreferrer nofollow" target="_blank">Young Changemakers - Youth Heritage Kickstarter Fund</a>​:
+provides funding and resources to empower youths to take an active role
+in preserving and safeguarding Singapore's heritage.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Commercial Ideas</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opportunities/gobusiness-logo-v2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opportunities/raise-logo-v2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Businesses</strong>: <a href="https://gobusiness.gov.sg" rel="noopener noreferrer nofollow" target="_blank">GoBusiness</a> is the go-to platform to
+connect businesses in Singapore to various Government e-services and resources.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Social Enterprise Support</strong>: Find out more about the available
+support for your business to scale human-centered social impact at <a href="https://www.raise.sg" rel="noopener noreferrer nofollow" target="_blank">raiSE</a>.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5><strong>If the above is not what you are looking for, share your proposal <a href="https://go.gov.sg/takeactiontoday" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong></h5>
+<p></p>
