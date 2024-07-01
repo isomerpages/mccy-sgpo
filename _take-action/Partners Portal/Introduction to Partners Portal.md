@@ -33,19 +33,13 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/take-action/partners-portal/volunteering-giving/"><img style="width: 100%" height="auto" width="100%" alt="Volunteering and Giving button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Volunteering_TEAL.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/take-action/partners-portal/volunteering-giving/"><img style="width: 100%" height="auto" width="100%" alt="Volunteering and Giving button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Volunteering_TEAL.png"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/take-action/partners-portal/resources/"><img style="width: 100%" height="auto" width="100%" alt="Other Resources button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Other_ORANGE.png"></a>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="space" src="/images/Opportunities/Blank_space.png">
+</div>
 </td>
 </tr>
 </tbody>
