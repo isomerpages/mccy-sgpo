@@ -28,12 +28,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/fund-application" rel="noopener noreferrer nofollow" target="_blank">Love Our 'Hood Fund (LOH Fund)</a> supports
-grounds-up initiatives that addresses municipal issues in our neighbourhoods.
-Apply via the link.</p>
+<p><a href="https://go.gov.sg/fund-application" rel="noopener noreferrer nofollow" target="_blank">Love Our 'Hood Fund (LOH Fund) (MSO)</a>:
+supports grounds-up initiatives that addresses municipal issues in our
+neighbourhoods. Apply via the link.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ura.gov.sg/Corporate/Get-Involved/Enliven-Public-Spaces/Activate-public-spaces" rel="noopener noreferrer nofollow" target="_blank">Lively Places Fund</a>:
+<p><a href="https://www.ura.gov.sg/Corporate/Get-Involved/Enliven-Public-Spaces/Activate-public-spaces" rel="noopener noreferrer nofollow" target="_blank">Lively Places Fund (URA-HDB)</a>:
 Have an idea to enliven the public spaces in your neighbourhood? Find out
 how with this fund!</p>
 </td>
@@ -60,14 +60,14 @@ how with this fund!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.mpa.gov.sg/events-careers/public-outreach/maritime-outreach-fund" rel="noopener noreferrer nofollow" target="_blank">Maritime Outreach Fund</a>:
+<p><a href="https://www.mpa.gov.sg/events-careers/public-outreach/maritime-outreach-fund" rel="noopener noreferrer nofollow" target="_blank">Maritime Outreach Fund (MPA)</a>:
 Make use of this funding platform to organise maritime-related activities,
 and gain first-hand experience of various aspects of the maritime industry.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/call-for-ideas-fund" rel="noopener noreferrer nofollow" target="_blank">NEA Call for Ideas Fund</a> provides
-funding for projects that promotes environmental sustainability and public
-cleanliness in the community.</p>
+<p><a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/call-for-ideas-fund" rel="noopener noreferrer nofollow" target="_blank">NEA Call for Ideas Fund (NEA)</a>:
+provides funding for projects that promotes environmental sustainability
+and public cleanliness in the community.</p>
 </td>
 </tr>
 </tbody>
@@ -93,12 +93,12 @@ cleanliness in the community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://oursggrants.gov.sg" rel="noopener noreferrer nofollow" target="_blank">OurSG Grants portal</a> brings
-government grants for the arts, community, heritage, social good, sports
-and youth into one space.</p>
+<p><a href="https://oursggrants.gov.sg" rel="noopener noreferrer nofollow" target="_blank">OurSG Grants portal (MCCY)</a>:
+brings government grants for the arts, community, heritage, social good,
+sports and youth into one space.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sg/oursingaporefund" rel="noopener noreferrer nofollow" target="_blank">Our Singapore Fund</a>:
+<p><a href="https://www.sg/oursingaporefund" rel="noopener noreferrer nofollow" target="_blank">Our Singapore Fund (MCCY)</a>:
 Have an idea for projects that bring communities together, or promotes
 Singapore's national identity and shared values? Find out if you are eligible
 to apply.</p>
@@ -126,12 +126,12 @@ to apply.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.mse.gov.sg/sgecofund" rel="noopener noreferrer nofollow" target="_blank">SG Eco Fund</a>:
+<p><a href="https://www.mse.gov.sg/sgecofund" rel="noopener noreferrer nofollow" target="_blank">SG Eco Fund (MSE)</a>:
 Provides funding for community projects that advance environmental sustainability
 (e.g., community farming, biodiversity awareness, and resource conservation).</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nyc.gov.sg/programmes-grants/young-changemakers" rel="noopener noreferrer nofollow" target="_blank">Young Changemakers - Youth Heritage Kickstarter Fund</a>​:
+<p><a href="https://www.nyc.gov.sg/programmes-grants/young-changemakers" rel="noopener noreferrer nofollow" target="_blank">Young Changemakers - Youth Heritage Kickstarter Fund (NYC-Changemakers)</a>​:
 provides funding and resources to empower youths to take an active role
 in preserving and safeguarding Singapore's heritage.</p>
 </td>
@@ -159,8 +159,9 @@ in preserving and safeguarding Singapore's heritage.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Businesses</strong>: <a href="https://gobusiness.gov.sg" rel="noopener noreferrer nofollow" target="_blank">GoBusiness</a> is the go-to platform to
-connect businesses in Singapore to various Government e-services and resources.</p>
+<p><strong>Businesses</strong>: <a href="https://gobusiness.gov.sg" rel="noopener noreferrer nofollow" target="_blank">GoBusiness (Multi-Agency)</a> is the go-to
+platform to connect businesses in Singapore to various Government e-services
+and resources.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Social Enterprise Support</strong>: Find out more about the available
