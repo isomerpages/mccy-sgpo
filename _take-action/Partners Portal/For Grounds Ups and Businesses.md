@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Partners Portal
 ---
-<h1>Partnerships Opportunities</h1>
+<h2>Partnerships and Engagements Opportunities</h2>
 <h3>For Ground-Ups and Businesses</h3>
 <table style="minWidth: 50px">
 <colgroup>
