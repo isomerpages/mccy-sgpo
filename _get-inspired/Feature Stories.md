@@ -24,12 +24,12 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <p>
 	</p><ul>
+		<li>
+<a href="https://www.straitstimes.com/singapore/project-for-coastal-clean-ups-among-winners-of-sustainability-hackathon-held-at-smu" rel="noopener noreferrer nofollow" target="_blank">Project for coastal cleanups among winners at Singapore sustainability hackathon</a>
+		</li>
 		<li><a href="https://www.majurity.sg" rel="noopener noreferrer nofollow" target="_blank">The Majurity Trust</a>:
 <a href="https://www.straitstimes.com/singapore/politics/former-elections-department-building-to-become-social-enterprises-hub" rel="noopener noreferrer nofollow" target="_blank">Former Elections Department building to become social impact hub</a>
 		</li>
-		<li>
-			<a href="https://www.probono.sg/" rel="noopener noreferrer nofollow" target="_blank">Pro Bono SG</a>:
-<a href="https://www.straitstimes.com/singapore/pro-bono-sg-opens-its-second-free-community-law-centre-in-woodlands" rel="noopener noreferrer nofollow" target="_blank">Pro Bono SG opens its second free community law centre in Woodlands</a></li>
 	</ul>
 <p></p>
 <p></p>
@@ -233,6 +233,9 @@ ground-up initiative Byte.sg</a>
 of S'poreans</a>
 </p>
 </li>
+			<li>
+			<a href="https://www.probono.sg/" rel="noopener noreferrer nofollow" target="_blank">Pro Bono SG</a>:
+<a href="https://www.straitstimes.com/singapore/pro-bono-sg-opens-its-second-free-community-law-centre-in-woodlands" rel="noopener noreferrer nofollow" target="_blank">Pro Bono SG opens its second free community law centre in Woodlands</a></li>
 <li>
 	<p><a href="https://www.projectlovelunch.com/about" rel="noopener noreferrer nofollow" target="_blank">ProjectLoveLunch</a>:
 <a href="https://pride.kindness.sg/its-a-family-affair-yishun-block-carnival-brings-residents-together/" rel="noopener noreferrer nofollow" target="_blank">It’s a family affair: Project Love Lunch brings residents closer</a>
