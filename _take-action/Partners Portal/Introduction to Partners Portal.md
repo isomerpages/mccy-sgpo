@@ -18,16 +18,10 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Partnerships and Engagements (For individuals) button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Partnerships_Engagements_INDIVIDUALS_RED.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/take-action/partners-portal/partnerships/for-individuals/"><img style="width: 100%" height="auto" width="100%" alt="Partnerships and Engagements (For individuals) button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Partnerships_Engagements_INDIVIDUALS_RED.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Partnerships and Engagements (For Ground-ups and Engagements) button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Partnerships_Engagements_GROUNDUPS_BLUE.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/take-action/partners-portal/partnerships/for-grounds-ups-and-businesses/"><img style="width: 100%" height="auto" width="100%" alt="Partnerships and Engagements (For Ground-ups and Engagements) button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Partnerships_Engagements_GROUNDUPS_BLUE.png"></a>
 </th>
 </tr>
 </tbody>
@@ -40,16 +34,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Funding button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Funding_ORANGE.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/take-action/partners-portal/funding/"><img style="width: 100%" height="auto" width="100%" alt="Funding button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Funding_ORANGE.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Volunteering and Giving button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Volunteering_TEAL_NEW.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/take-action/partners-portal/volunteering-giving/"><img style="width: 100%" height="auto" width="100%" alt="Volunteering and Giving button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Volunteering_TEAL_NEW.png"></a>
 </td>
 </tr>
 </tbody>
