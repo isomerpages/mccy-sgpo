@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Partners Portal
 variant: tiptap
 ---
-<h1>Volunteering Opportunities</h1>
+<h1>Volunteering and Giving Opportunities</h1>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
