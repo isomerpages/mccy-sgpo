@@ -25,10 +25,10 @@ variant: markdown
 <p>
 	</p><ul>
 		<li>
-<a href="https://www.straitstimes.com/singapore/project-for-coastal-clean-ups-among-winners-of-sustainability-hackathon-held-at-smu" rel="noopener noreferrer nofollow" target="_blank">Project for coastal cleanups among winners at Singapore sustainability hackathon</a>
+<a href="https://www.facebook.com/share/p/fC5moi66sb2ScTh7/" rel="noopener noreferrer nofollow" target="_blank">Meet Tan Bing Wen, a Singaporean tech tinkerer leading a team of local volunteers to combat misinformation with CheckMate.</a>
 		</li>
-		<li><a href="https://www.majurity.sg" rel="noopener noreferrer nofollow" target="_blank">The Majurity Trust</a>:
-<a href="https://www.straitstimes.com/singapore/politics/former-elections-department-building-to-become-social-enterprises-hub" rel="noopener noreferrer nofollow" target="_blank">Former Elections Department building to become social impact hub</a>
+		<li>
+<a href="https://www.straitstimes.com/singapore/project-for-coastal-clean-ups-among-winners-of-sustainability-hackathon-held-at-smu" rel="noopener noreferrer nofollow" target="_blank">Project for coastal cleanups among winners at Singapore sustainability hackathon</a>
 		</li>
 	</ul>
 <p></p>
@@ -187,6 +187,13 @@ variant: markdown
 </table>
 <h5><strong>Community Projects</strong></h5>
 <ul data-tight="true" class="tight">
+			<li><a href="https://www.majurity.sg" rel="noopener noreferrer nofollow" target="_blank">The Majurity Trust</a>:
+<a href="https://www.straitstimes.com/singapore/politics/former-elections-department-building-to-become-social-enterprises-hub" rel="noopener noreferrer nofollow" target="_blank">Former Elections Department building to become social impact hub</a>
+		</li>
+				<li>
+			<a href="https://www.probono.sg/" rel="noopener noreferrer nofollow" target="_blank">Pro Bono SG</a>:
+<a href="https://www.straitstimes.com/singapore/pro-bono-sg-opens-its-second-free-community-law-centre-in-woodlands" rel="noopener noreferrer nofollow" target="_blank">Pro Bono SG opens its second free community law centre in Woodlands</a></li>
+
 <li>
 	<p><a href="https://www.3pumpkins.co/" rel="noopener noreferrer nofollow" target="_blank">3Pumpkins</a>:
 <a href="https://www.3pumpkins.co/post/a-journey-in-strengthening-communities" rel="noopener noreferrer nofollow" target="_blank">A journey in strengthening communities</a>
@@ -233,10 +240,7 @@ ground-up initiative Byte.sg</a>
 of S'poreans</a>
 </p>
 </li>
-			<li>
-			<a href="https://www.probono.sg/" rel="noopener noreferrer nofollow" target="_blank">Pro Bono SG</a>:
-<a href="https://www.straitstimes.com/singapore/pro-bono-sg-opens-its-second-free-community-law-centre-in-woodlands" rel="noopener noreferrer nofollow" target="_blank">Pro Bono SG opens its second free community law centre in Woodlands</a></li>
-<li>
+	<li>
 	<p><a href="https://www.projectlovelunch.com/about" rel="noopener noreferrer nofollow" target="_blank">ProjectLoveLunch</a>:
 <a href="https://pride.kindness.sg/its-a-family-affair-yishun-block-carnival-brings-residents-together/" rel="noopener noreferrer nofollow" target="_blank">It’s a family affair: Project Love Lunch brings residents closer</a>
 </p>
