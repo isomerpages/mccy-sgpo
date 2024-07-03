@@ -145,21 +145,16 @@ the <a href="https://go.gov.sg/volunteercentres" rel="noopener noreferrer nofoll
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opportunities/volunteersg-logo-v3.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="blank space" src="/images/Opportunities/Blank_space.png">
+<img style="width: 100%" height="auto" width="100%" alt="Volunteer.gov.sg" src="/images/Opportunities/VolunteerGovSG_844x304.png">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.volunteer.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Volunteer.Gov.SG (MCCY)</a>:
+<p><a href="https://www.volunteer.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Volunteer.gov.sg (MCCY)</a>:
 Search for available volunteering opportunities that strikes a chord with
 your heart to kick start your volunteering journey today.</p>
 </td>
