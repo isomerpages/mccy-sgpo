@@ -19,9 +19,7 @@ variant: tiptap
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opportunities/msf-care-network_422x304.jpg">
-</div>
+<p></p>
 </th>
 </tr>
 <tr>
