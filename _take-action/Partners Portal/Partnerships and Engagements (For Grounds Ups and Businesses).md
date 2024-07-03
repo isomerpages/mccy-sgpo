@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Partners Portal
 ---
 <h2>Partnerships and Engagements Opportunities</h2>
-<h3>For Ground-Ups and Businesses</h3>
+<h3>For Ground-Ups and Organisations</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
