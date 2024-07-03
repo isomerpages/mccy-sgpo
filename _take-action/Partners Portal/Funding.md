@@ -15,27 +15,27 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opportunities/mso-logo_422x304.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="URA and HDB logo" src="/images/Opportunities/Funding/URA_logo_422x304.png">
 </div>
 </th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opportunities/mso-logo_422x304.jpg">
+</div>
+</th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/fund-application" rel="noopener noreferrer nofollow" target="_blank">Love Our 'Hood Fund (LOH Fund) (MSO)</a>:
-supports grounds-up initiatives that addresses municipal issues in our
-neighbourhoods. Apply via the link.</p>
-</td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.ura.gov.sg/Corporate/Get-Involved/Enliven-Public-Spaces/Activate-public-spaces" rel="noopener noreferrer nofollow" target="_blank">Lively Places Fund (URA-HDB)</a>:
 Have an idea to enliven the public spaces in your neighbourhood? Find out
 how with this fund!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/fund-application" rel="noopener noreferrer nofollow" target="_blank">Love Our 'Hood Fund (LOH Fund) (MSO)</a>:
+supports grounds-up initiatives that addresses municipal issues in our
+neighbourhoods. Apply via the link.</p>
 </td>
 </tr>
 </tbody>
