@@ -25,7 +25,7 @@ variant: markdown
 <p>
 	</p><ul>
 		<li>
-<a href="https://www.facebook.com/share/p/fC5moi66sb2ScTh7/" rel="noopener noreferrer nofollow" target="_blank">Meet Tan Bing Wen, a Singaporean tech tinkerer leading a team of local volunteers to combat misinformation with CheckMate.</a>
+<a href="https://www.instagram.com/p/C8oD7cBSVE5" rel="noopener noreferrer nofollow" target="_blank">This Singaporean is fighting online misinformation with AI and a team of volunteers</a>
 		</li>
 		<li>
 <a href="https://www.straitstimes.com/singapore/project-for-coastal-clean-ups-among-winners-of-sustainability-hackathon-held-at-smu" rel="noopener noreferrer nofollow" target="_blank">Project for coastal cleanups among winners at Singapore sustainability hackathon</a>
