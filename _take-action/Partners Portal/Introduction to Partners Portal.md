@@ -10,14 +10,18 @@ variant: tiptap
 </p>
 <p><strong>Click on the buttons below to explore existing resources and platforms that may support your idea.</strong>
 </p>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="/take-action/partners-portal/partnerships/for-individuals/"><img style="width: 100%" height="auto" width="100%" alt="Partnerships and Engagements (For individuals) button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Partnerships_Engagements_INDIVIDUALS_RED.png"></a>
+</th>
+<th rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="/take-action/partners-portal/partnerships/for-grounds-ups-and-organisations/"><img style="width: 100%" height="auto" width="100%" alt="Partnerships and Engagements - Ground-Ups and Organisations button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Partnerships_Engagements_GROUNDUPS_BLUE_NEW.png"></a>
 </th>
 </tr>
 </tbody>
@@ -29,33 +33,11 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/take-action/partners-portal/partnerships/"><img style="width: 100%" height="auto" width="100%" alt="Click here for Partnerships" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/PARTNERSHIPS_RED.png"></a>
-</th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/take-action/partners-portal/funding/"><img style="width: 100%" height="auto" width="100%" alt="Click here for Funding" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/FUNDING_YELLOW.png"></a>
-</th>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="/take-action/partners-portal/funding/"><img style="width: 100%" height="auto" width="100%" alt="Funding button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Funding_ORANGE.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/take-action/partners-portal/volunteering/"><img style="width: 100%" height="auto" width="100%" alt="Click here for Volunteering" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/VOLUNTEERING_BLUE.png"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/take-action/partners-portal/resources/"><img style="width: 100%" height="auto" width="100%" alt="Click here for Other Resources" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/FUNDING_GREY.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/take-action/partners-portal/volunteering-giving/"><img style="width: 100%" height="auto" width="100%" alt="Volunteering and Giving button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Volunteering_TEAL_NEW.png"></a>
 </td>
 </tr>
 </tbody>
