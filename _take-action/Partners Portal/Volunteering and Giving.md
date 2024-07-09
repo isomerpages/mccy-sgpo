@@ -145,24 +145,28 @@ the <a href="https://go.gov.sg/volunteercentres" rel="noopener noreferrer nofoll
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MSF Volunteer Fest logo" src="/images/Opportunities/VolunteerFest_2024_422x304.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Volunteer.gov.sg" src="/images/Opportunities/VolunteerGovSG_844x304.png">
+<img style="width: 100%" height="auto" width="100%" alt="Volunteer.gov.sg logo" src="/images/Opportunities/volunteersg_422x304.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Check out <a href="https://www.celebratingvolunteers.sg/" rel="noopener noreferrer nofollow" target="_blank">MSF’s Volunteer Fest</a> in
+July, to learn more about volunteering and explore volunteering opportunities
+near you.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.volunteer.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Volunteer.gov.sg (MCCY)</a>:
 Search for available volunteering opportunities that strikes a chord with
 your heart to kick start your volunteering journey today.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="blank space" src="/images/Opportunities/Blank_space.png">
-</div>
 </td>
 </tr>
 </tbody>
