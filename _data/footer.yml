@@ -1,5 +1,10 @@
 show_reach: true
 faq: /take-action/frequently-asked-questions/sgpo/
-social_media: {}
+social_media:
+  facebook: https://www.facebook.com/oursingapore
+  linkedin: https://www.linkedin.com/company/singaporegovernmentpartnershipsoffice
+  twitter: https://x.com/our_sg
+  youtube: https://www.youtube.com/@oursg
+  instagram: https://www.instagram.com/our_sg/
 feedback: https://form.gov.sg/65a74bb37d27490011d6b231
 contact_us: /contact-us/
