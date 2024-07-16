@@ -13,11 +13,11 @@ variant: markdown
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper"><br>
+<div class="isomer-image-wrapper">
 <img style="width: 50%" height="auto" width="50%" alt="New!" src="/images/Get%20inspired/new_animated.gif">
-	<p><br>
+	<p>
 <img style="width: 50%" height="auto" width="50%" alt="New!" src="/images/Get%20inspired/new_animated.gif">
-			</p><p><br>
+			</p><p>
 <img style="width: 100%" height="auto" width="100%" alt="New!" src="/images/Get%20inspired/new_animated.gif">
 </p></div>
 <p></p>
