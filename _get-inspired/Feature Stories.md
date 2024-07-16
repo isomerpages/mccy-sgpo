@@ -17,6 +17,8 @@ variant: markdown
 <img style="width: 100%" height="auto" width="100%" alt="New!" src="/images/Get%20inspired/new_animated.gif">
 	<p>
 <img style="width: 100%" height="auto" width="100%" alt="New!" src="/images/Get%20inspired/new_animated.gif">
+			</p><p>
+<img style="width: 100%" height="auto" width="100%" alt="New!" src="/images/Get%20inspired/new_animated.gif">
 </p></div>
 <p></p>
 </th>
@@ -24,6 +26,9 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <p>
 	</p><ul>
+			<li>
+<a href="https://www.instagram.com/p/C9TogpcyeiV" rel="noopener noreferrer nofollow" target="_blank">This educator started a community garden and transformed his neighbourhood</a>
+		</li>
 		<li>
 <a href="https://www.instagram.com/p/C8oD7cBSVE5" rel="noopener noreferrer nofollow" target="_blank">This Singaporean is fighting online misinformation with AI and a team of volunteers</a>
 		</li>
