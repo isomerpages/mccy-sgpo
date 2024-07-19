@@ -28,10 +28,10 @@ variant: markdown
 	</p><ul>
 			<li>
 <a href="https://www.instagram.com/p/C9TogpcyeiV" rel="noopener noreferrer nofollow" target="_blank">This educator started a community garden and transformed his neighbourhood</a>
-		</li><br>
+		</li>
 		<li>
 <a href="https://www.instagram.com/p/C8oD7cBSVE5" rel="noopener noreferrer nofollow" target="_blank">This Singaporean is fighting online misinformation with AI and a team of volunteers</a>
-		</li><br>
+		</li>
 		<li>
 <a href="https://www.straitstimes.com/singapore/project-for-coastal-clean-ups-among-winners-of-sustainability-hackathon-held-at-smu" rel="noopener noreferrer nofollow" target="_blank">Project for coastal cleanups among winners at Singapore sustainability hackathon</a>
 		</li>
