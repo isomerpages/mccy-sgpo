@@ -161,6 +161,19 @@ skills and wellbeing. Find out how you can make a difference to drive a
 Digitally inclusive Singapore by partnering with us.</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.ura.gov.sg/corporate/planning/Master-Plan/Draft-Master-Plan-2025/Long-Island/?utm_source=facebook&amp;utm_medium=carousel&amp;utm_campaign=longisland1&amp;utm_term=&amp;utm_content=&amp;utm_id=dmp" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="URA logo" src="/images/Opportunities/URA_logo_422x304.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">'Long Island' (URA)</div><div class="isomer-card-description">'Long Island' (URA) is an opportunity for Singaporeans to come together to shape the future of the East Coast.</div><div class="isomer-card-link">Find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/oskgettoknowyou" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MSO logo" src="/images/Opportunities/mso-logo_422x304.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">One Service Kakis Network (MSO)</div>
+<div class="isomer-card-description">Join OSK Network to gain awareness of municipal issues and participate
+in grounds-up initiatives.</div>
+<div class="isomer-card-link">Find out more</div>
+</div>
+</a>
 </div>
 <p></p>
