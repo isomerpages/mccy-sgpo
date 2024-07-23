@@ -148,16 +148,18 @@ in starting projects that benefit the community.</p>
 <p></p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.caringcommuters.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Caring SG Commuters Movement" src="/images/Opportunities/CaringSGCommuters_422x304.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Caring SG Commuters Movement (Multi-Agency)</div><div class="isomer-card-description">Caring SG Commuters Movement aims to foster a caring community culture in Singapore's public transport system.</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.digitalforlife.gov.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Digital for Life logo" src="/images/Opportunities/dfl-play-it-forward-logo-v2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Digital for Life (Multi-Agency)</div>
+<div class="isomer-card-description">Make a difference by starting a project to enhance Singaporeans' digital
+skills and wellbeing. Find out how you can make a difference to drive a
+Digitally inclusive Singapore by partnering with us.</div>
+<div class="isomer-card-link">Find out more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
