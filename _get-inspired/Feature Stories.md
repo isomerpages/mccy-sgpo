@@ -26,14 +26,14 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <p>
 	</p><ul>
+	<li>
+	<a href="https://www.straitstimes.com/singapore/woman-who-started-community-fridge-i-m-always-looking-out-for-my-neighbours" rel="noopener noreferrer nofollow" target="_blank">Woman who started community fridge: ‘I’m always looking out for my neighbours’</a>
+		</li>
 			<li>
 <a href="https://www.instagram.com/p/C9TogpcyeiV" rel="noopener noreferrer nofollow" target="_blank">This educator started a community garden and transformed his neighbourhood</a>
 		</li>
 		<li>
 <a href="https://www.instagram.com/p/C8oD7cBSVE5" rel="noopener noreferrer nofollow" target="_blank">This Singaporean is fighting online misinformation with AI and a team of volunteers</a>
-		</li>
-		<li>
-<a href="https://www.straitstimes.com/singapore/project-for-coastal-clean-ups-among-winners-of-sustainability-hackathon-held-at-smu" rel="noopener noreferrer nofollow" target="_blank">Project for coastal cleanups among winners at Singapore sustainability hackathon</a>
 		</li>
 	</ul>
 <p></p>
@@ -192,6 +192,7 @@ variant: markdown
 </table>
 <h5><strong>Community Projects</strong></h5>
 <ul data-tight="true" class="tight">
+	<li><a href="https://www.straitstimes.com/singapore/project-for-coastal-clean-ups-among-winners-of-sustainability-hackathon-held-at-smu" rel="noopener noreferrer nofollow" target="_blank">Project for coastal cleanups among winners at Singapore sustainability hackathon</a></li>
 			<li><a href="https://www.majurity.sg" rel="noopener noreferrer nofollow" target="_blank">The Majurity Trust</a>:
 <a href="https://www.straitstimes.com/singapore/politics/former-elections-department-building-to-become-social-enterprises-hub" rel="noopener noreferrer nofollow" target="_blank">Former Elections Department building to become social impact hub</a>
 		</li>
