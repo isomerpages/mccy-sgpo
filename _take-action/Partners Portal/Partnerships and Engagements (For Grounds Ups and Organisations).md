@@ -153,45 +153,6 @@ skills and wellbeing. Find out how you can make a difference to drive a
 Digitally inclusive Singapore by partnering with us.</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.ura.gov.sg/corporate/planning/Master-Plan/Draft-Master-Plan-2025/Long-Island/?utm_source=facebook&amp;utm_medium=carousel&amp;utm_campaign=longisland1&amp;utm_term=&amp;utm_content=&amp;utm_id=dmp" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="URA logo" src="/images/Opportunities/Card images 600x400/URA_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">'Long Island' (URA)</div><div class="isomer-card-description">'Long Island' (URA) project is an opportunity for Singaporeans to come together to shape the future of the East Coast.</div><div class="isomer-card-link">Learn more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.nac.gov.sg/about-us/oursgartsplan/join-the-making" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Our SG Arts Plan logo" src="/images/Opportunities/Card images 600x400/ArtsPlan_NAC_600x400.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Our SG Arts Plan (NAC)</div>
-<div class="isomer-card-description">Join the Making of Singapore's future arts scene where artists, audiences,
-and partners play their parts!</div>
-<div class="isomer-card-link">Learn more</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.mti.gov.sg/PEP/About-the-PEP" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Pro Enterprise Panel logo" src="/images/Opportunities/Card images 600x400/Pro_Enterprise_Panel_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Pro Enterprise Panel</div><div class="isomer-card-description">Have an innovative business idea that needs a trial space, or a suggestion on business process and regulations? Write to us!</div><div class="isomer-card-link">Learn more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.raise.sg/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="raiSE logo" src="/images/Opportunities/Card images 600x400/rAISE_600x400.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">raiSE</div>
-<div class="isomer-card-description">Find out more about the available support for your business to scale human-centered
-social impact.</div>
-<div class="isomer-card-link">Learn more</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/partnerwithschools" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="MOE logo" src="/images/Opportunities/Card images 600x400/MOE_logo_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">School-Industry Partnership (MOE</div><div class="isomer-card-description">Indicate your interest to partner schools on programmes and co-create solutions with students and educators.</div><div class="isomer-card-link">Learn more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/tdsandbox" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Total Defence Sandbox logo" src="/images/Opportunities/Card images 600x400/TDSandbox_600x400.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Total Defence (TD) Sandbox (MINDEF)</div>
-<div class="isomer-card-description">Have a bright idea that could help the community put Total Defence into
-action? Share it with us and we may bring it to life!</div>
-<div class="isomer-card-link">Learn more</div>
-</div>
 </a>
 </div>
 <p></p>
