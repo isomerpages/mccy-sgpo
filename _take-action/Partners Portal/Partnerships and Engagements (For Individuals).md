@@ -216,19 +216,37 @@ in grounds-up initiatives.</div>
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.nac.gov.sg/about-us/oursgartsplan/join-the-making" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Our SG Arts Plan logo" src="/images/Opportunities/Card images 600x400/ArtsPlan_NAC_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Our SG Arts Plan (2023 - 2027) (NAC)</div><div class="isomer-card-description">Join the Making of Singapore's future arts scene where artists, audiences, and partners play their parts!</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/naturekakisenquiry" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="NParks logo" src="/images/Opportunities/Card images 600x400/Nparks_logo_600x400.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Nature Kakis (NParks)</div>
+<div class="isomer-card-description">The Nature Kakis Network is a platform that will help grow NParks' City
+in Nature vision in the heartlands, as well as encourage greater appreciation
+and community stewardship.</div>
+<div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/tdsandbox" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Total Defence Sandbox logo" src="/images/Opportunities/Card images 600x400/TDSandbox_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Total Defence (TD) Sandbox (MINDEF)</div><div class="isomer-card-description">Have a bright idea that could help the community put Total Defence into action? Share it with us and we may bring it to life!</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.nyc.gov.sg/programmes-grants/young-changemakers" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NYC - Young Changmakers logo" src="/images/Opportunities/Card images 600x400/NYC_YCM_600x400.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Young ChangeMakers Programme (NYC-Changemakers)</div>
+<div class="isomer-card-description">A by youth for youth programme to empower youths through grants and mentorship
+in starting projects that benefit the community.</div>
+<div class="isomer-card-link">Learn more</div>
+</div>
+</a>
 </div>
 <h4><strong>If the above is not what you are looking for, share your proposal <a href="https://go.gov.sg/takeactiontoday" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong></h4>
 <p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/takeactiontoday"><img style="width: 100%" height="auto" width="100%" alt="Take Action button" src="/images/take action.png"></a>
