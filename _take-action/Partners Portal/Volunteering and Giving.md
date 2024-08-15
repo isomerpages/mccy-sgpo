@@ -276,7 +276,7 @@ Volunteers and explore the opportunities available.</div>
 your heart to kick start your volunteering journey today.</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Sample" src="/images/Opportunities/Card images 600x400/CaringSGCommuters_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Sample</div><div class="isomer-card-description">Sample</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <h5><strong>If the above is not what you are looking for, share your proposal <a href="https://go.gov.sg/takeactiontoday" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong></h5>
 <p></p>
