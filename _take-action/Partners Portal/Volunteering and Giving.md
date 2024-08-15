@@ -211,7 +211,10 @@ your heart to kick start your volunteering journey today.</p>
 better serve Singapore’s growing dementia community.</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.giving.sg/home" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Giving.sg logo" src="/images/Opportunities/Card images volunteer 600x400/givingsg_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Giving.sg</div><div class="isomer-card-description">One-stop national platform to donate, volunteer and fundraise for over 600 registered non-profits in Singapore.</div><div class="isomer-card-link">Learn more</div></div></a>
+</a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.giving.sg/home" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Giving.sg logo" src="/images/Opportunities/Card images volunteer 600x400/givingsg_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Giving.sg</div><div class="isomer-card-description">One-stop national platform to donate, volunteer and fundraise for over 600 registered non-profits in Singapore.</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.mentoringsg.com/index.html" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -225,7 +228,10 @@ to make a lasting difference in the lives of a growing community of young
 minds.</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/msfcarenetwork" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="MSFCare Network logo" src="/images/Opportunities/Card Images Funding 600x400/MSFCares_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MSFCare Network (MSF)</div><div class="isomer-card-description">Join us and be part of a like-minded community dedicated to building a more inclusive and caring Singapore.</div><div class="isomer-card-link">Learn more</div></div></a>
+</a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/msfcarenetwork" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="MSFCare Network logo" src="/images/Opportunities/Card Images Funding 600x400/MSFCares_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MSFCare Network (MSF)</div><div class="isomer-card-description">Join us and be part of a like-minded community dedicated to building a more inclusive and caring Singapore.</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.cgs.gov.sg/how-can-we-act/volunteer/roles/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -238,7 +244,10 @@ minds.</div>
 responsibility for a Clean &amp; Green Singapore.</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/omtvolfacil" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NParks logo" src="/images/Opportunities/Card images 600x400/Nparks_logo_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">OneMillionTrees Facilitator (NEA)</div><div class="isomer-card-description">Volunteer facilitators will assist with tree planting events and share the key messaging of how this contributes towards NParks' City in Nature vision.</div><div class="isomer-card-link">Learn more</div></div></a>
+</a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/omtvolfacil" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NParks logo" src="/images/Opportunities/Card images 600x400/Nparks_logo_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">OneMillionTrees Facilitator (NParks)</div><div class="isomer-card-description">Volunteer facilitators will assist with tree planting events and share the key messaging of how this contributes towards NParks' City in Nature vision.</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -251,7 +260,10 @@ responsibility for a Clean &amp; Green Singapore.</div>
 Volunteers and explore the opportunities available.</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/volunteercentres" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SGCares logo" src="/images/Opportunities/Card Images Funding 600x400/SGCares_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SG Cares Volunteer Centres (MCCY)</div><div class="isomer-card-description">Volunteer close to you and close to your heart! Make a difference with the SG Cares Volunteer Centres (MCCY).</div><div class="isomer-card-link">Learn more</div></div></a>
+</a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/volunteercentres" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SGCares logo" src="/images/Opportunities/Card Images Funding 600x400/SGCares_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SG Cares Volunteer Centres (MCCY)</div><div class="isomer-card-description">Volunteer close to you and close to your heart! Make a difference with the SG Cares Volunteer Centres (MCCY).</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.volunteer.gov.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
