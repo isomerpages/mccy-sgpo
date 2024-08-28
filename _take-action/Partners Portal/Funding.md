@@ -173,7 +173,7 @@ support for your business to scale human-centered social impact at <a href="http
 </tbody>
 </table>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.ura.gov.sg/Corporate/Get-Involved/Enliven-Public-Spaces/Activate-public-spaces" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="URA and HDB logo" src="/images/Opportunities/Card Images Funding 600x400/URA_HDB_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Lively Places Fund (URA-HDB)</div><div class="isomer-card-description">Have an idea to enliven the public spaces in your neighbourhood? Find out how with this fund!</div><div class="isomer-card-link">Learn more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.ura.gov.sg/Corporate/Get-Involved/Enliven-Public-Spaces/Activate-public-spaces" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="URA and HDB logo" src="/images/Opportunities/Card Images Funding 600x400/URA_HDB_1_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Lively Places Fund (URA-HDB)</div><div class="isomer-card-description">Have an idea to enliven the public spaces in your neighbourhood? Find out how with this fund!</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/fund-application" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
