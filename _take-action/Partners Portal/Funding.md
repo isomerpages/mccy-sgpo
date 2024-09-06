@@ -74,7 +74,6 @@ safeguarding Singapore's heritage.</div>
 </a>
 </div>
 <h3>Commercial Ideas</h3>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.gobusiness.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GoBusiness logo" src="/images/Opportunities/Card Images Funding 600x400/GoBusiness_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Businesses: GoBusiness (Multi-Agency)</div><div class="isomer-card-description">GoBusiness is the go-to platform to connect businesses in Singapore to various Government e-services and resources.</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.raise.sg/" class="isomer-card">
 <div class="isomer-card-image">
