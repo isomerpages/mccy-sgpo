@@ -8,7 +8,7 @@ third_nav_title: Partners Portal
 <h2>Partnerships and Engagements Opportunities</h2>
 <h3>For Ground-Ups and Organisations</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.bagustogether.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Bagus Together logo" src="/images/Opportunities/Card images volunteer 600x400/BagusTogether_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Bagus Together</div><div class="isomer-card-description">BAGUS Together is a first-stop platform for changemakers to gain access to resources, networks and other support to develop their groundup initiatives.</div><div class="isomer-card-link">Learn more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.digitalforlife.gov.sg/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.digitalforlife.gov.sg/Contribute/Partner-with-Us" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Digital For Life logo" src="/images/Opportunities/Card images 600x400/DFL_600x400.png">
