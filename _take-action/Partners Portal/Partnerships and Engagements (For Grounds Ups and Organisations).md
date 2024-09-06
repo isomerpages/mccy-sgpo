@@ -56,7 +56,7 @@ social impact.</div>
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/partnerwithschools" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="MOE logo" src="/images/Opportunities/Card images 600x400/MOE_logo_1_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">School-Industry Partnership (MOE</div><div class="isomer-card-description">Indicate your interest to partner schools on programmes and co-create solutions with students and educators.</div><div class="isomer-card-link">Learn more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/partnerwithschools" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="MOE logo" src="/images/Opportunities/Card images 600x400/MOE_logo_1_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">School-Industry Partnership (MOE)</div><div class="isomer-card-description">Indicate your interest to partner schools on programmes and co-create solutions with students and educators.</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/tdsandbox" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
