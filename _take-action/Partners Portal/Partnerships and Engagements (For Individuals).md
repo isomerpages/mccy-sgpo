@@ -8,7 +8,7 @@ third_nav_title: Partners Portal
 <h2>Partnerships and Engagements Opportunities</h2>
 <h3>For Individuals</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.caringcommuters.gov.sg/champions" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Caring Commuters Movement logo" src="/images/Opportunities/Card images 600x400/CaringSGCommuters_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Caring SG Commuters Movement (Multi-Agency)</div><div class="isomer-card-description">Caring SG Commuters Movement aims to foster a caring community culture in Singapore's public transport system.</div><div class="isomer-card-link">Learn more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.digitalforlife.gov.sg/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.digitalforlife.gov.sg/Contribute/Partner-with-Us" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Digital For Life logo" src="/images/Opportunities/Card images 600x400/DFL_600x400.png">
