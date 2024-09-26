@@ -209,7 +209,7 @@ variant: markdown
 </p>
 </li>
 <li>
-	<p><a href="https://kampungeats.com/" rel="noopener noreferrer nofollow" target="_blank">Kampung Eats</a>:
+	<p><a href="https://www.instagram.com/kampungeats" rel="noopener noreferrer nofollow" target="_blank">Kampung Eats</a>:
 <a href="https://mothership.sg/2023/10/nyc-kampung-eats/" rel="noopener noreferrer nofollow" target="_blank">How a team of youths are working together to preserve old S’porean hawker
 recipes</a>
 </p>
