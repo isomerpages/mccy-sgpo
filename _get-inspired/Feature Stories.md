@@ -27,13 +27,13 @@ variant: markdown
 <p>
 	</p><ul>
 			<li>
-<a href="https://www.straitstimes.com/singapore/youth-s-policy-recommendations-will-be-seriously-considered-pm-wong" rel="noopener noreferrer nofollow" target="_blank">Youth’s policy recommendations will be seriously considered: PM Wong</a>
+<a href="https://www.straitstimes.com/tech/motion-detector-for-seniors-living-alone-takes-top-prize-at-citizen-hackathon" rel="noopener noreferrer nofollow" target="_blank">Motion detector for seniors living alone among winners at citizen hackathon</a>
 		</li>
 	<li>
-	<a href="https://www.straitstimes.com/singapore/woman-who-started-community-fridge-i-m-always-looking-out-for-my-neighbours" rel="noopener noreferrer nofollow" target="_blank">Woman who started community fridge: ‘I’m always looking out for my neighbours’</a>
+<a href="https://www.straitstimes.com/singapore/youth-s-policy-recommendations-will-be-seriously-considered-pm-wong" rel="noopener noreferrer nofollow" target="_blank">Youth’s policy recommendations will be seriously considered: PM Wong</a>
 		</li>
 			<li>
-<a href="https://www.instagram.com/p/C9TogpcyeiV" rel="noopener noreferrer nofollow" target="_blank">This educator started a community garden and transformed his neighbourhood</a>
+	<a href="https://www.straitstimes.com/singapore/woman-who-started-community-fridge-i-m-always-looking-out-for-my-neighbours" rel="noopener noreferrer nofollow" target="_blank">Woman who started community fridge: ‘I’m always looking out for my neighbours’</a>
 		</li>
 	</ul>
 <p></p>
