@@ -34,7 +34,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/take-action/partners-portal/funding/"><img style="width: 100%" height="auto" width="100%" alt="Funding button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Funding_ORANGE.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/take-action/partners-portal/funding-resources/"><img style="width: 100%" height="auto" width="100%" alt="Funding button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Funding_ORANGE.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="/take-action/partners-portal/volunteering-giving/"><img style="width: 100%" height="auto" width="100%" alt="Volunteering and Giving button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Volunteering_TEAL_NEW.png"></a>
