@@ -57,7 +57,7 @@ and community stewardship.</div>
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.nyc.gov.sg/programmes-grants/young-changemakers" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Public Consultation on Singapore's Decarbonisation Journey" src="/images/Opportunities/Card images 600x400/Decarbonisation_600x400_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore's Decarbonisation Journey</div><div class="isomer-card-description">A by youth for youth programme to empower youths through grants and mentorship in starting projects that benefit the community.</div><div class="isomer-card-link">Learn more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/feedbacksgdecarb" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Public Consultation on Singapore's Decarbonisation Journey" src="/images/Opportunities/Card images 600x400/NCSS_logo_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore's Decarbonisation Journey</div><div class="isomer-card-description">Share your thoughts on Singapore's decarbonisation journey as we develop our next bound of climate targets, measures and policies.</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/tdsandbox" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
