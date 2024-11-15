@@ -50,7 +50,7 @@ the government is paramount.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/News PDFs/Singapore_Government_Partnerships_Office_Launched_to_Strengthen_Partnerships_Between_Citizens_and_the_Government___19_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Build for Good 2024 </a>
-<a href="/files/News PDFs/Build_For_Good_2024___Media_Fact_Sheet.pdf" rel="noopener nofollow" target="_blank">Build for Good - Media Fact Sheet</a><a href="/files/News PDFs/Singapore_Government_Partnerships_Office_Launched_to_Strengthen_Partnerships_Between_Citizens_and_the_Government___19_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">- Media Fact Sheet</a>
+<a href="/files/News PDFs/Build_For_Good_2024___Media_Fact_Sheet.pdf" rel="noopener nofollow" target="_blank">Build for Good - Media Fact Sheet</a>
 </p>
 </td>
 </tr>
