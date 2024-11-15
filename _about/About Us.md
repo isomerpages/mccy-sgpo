@@ -40,7 +40,7 @@ the government is paramount.</p>
 <p>4 Nov 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://safe.menlosecurity.com/https://www.pmo.gov.sg/Newsroom/PM-Lawrence-Wong-at-the-PA-CCMC-60th-Anniversary" rel="noopener nofollow" target="_blank">20241104_CCMC60_BannerPhoto jpg PM Lawrence Wong at the PA CCMC 60th Anniversary</a>
+<p><a href="https://safe.menlosecurity.com/https://www.pmo.gov.sg/Newsroom/PM-Lawrence-Wong-at-the-PA-CCMC-60th-Anniversary" rel="noopener nofollow" target="_blank">PM Lawrence Wong at the PA CCMC 60th Anniversary</a>
 </p>
 </td>
 </tr>
