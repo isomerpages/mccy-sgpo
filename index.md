@@ -38,4 +38,12 @@ sections:
       url: /feature-stories/
       image: /images/happinessinitiatives_sgpo.jpg
       alt: Citizen Stories
+  - infopic:
+      title: Celebrate SG60 and build our future Singapore Together
+      subtitle: play your part
+      id: infopic
+      button: Find out more
+      url: https://www.sg60.gov.sg/
+      image: /images/SG60/SG60_banner.png
+      alt: SG60 Celebration
 ---
