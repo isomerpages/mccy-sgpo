@@ -30,7 +30,7 @@ sections:
       id: infopic
       button: Find out more
       url: https://www.sg60.gov.sg/
-      image: /images/SG60/SG60_banner.png
+      image: /images/SG60/SG60_banner_1.jpg
       alt: SG60 Celebration
   - infopic:
       title: All set with your partnership proposal?
