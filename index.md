@@ -25,6 +25,14 @@ sections:
           - title: Find out more about us
             url: /about/about-us/
   - infopic:
+      title: Celebrate SG60 and build our future Singapore Together
+      subtitle: play your part
+      id: infopic
+      button: Find out more
+      url: https://www.sg60.gov.sg/
+      image: /images/SG60/SG60_banner_1.jpg
+      alt: SG60 Celebration
+  - infopic:
       title: All set with your partnership proposal?
       button: get started
       url: /take-action/take-action-today/
