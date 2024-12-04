@@ -21,7 +21,7 @@ variant: tiptap
 <p></p><a class="isomer-image-wrapper" href="/take-action/partners-portal/partnerships/for-individuals/"><img style="width: 100%" height="auto" width="100%" alt="Partnerships and Engagements (For individuals) button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Partnerships_Engagements_INDIVIDUALS_RED.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/take-action/partners-portal/partnerships/for-grounds-ups-and-organisations/"><img style="width: 100%" height="auto" width="100%" alt="Partnerships and Engagements - Ground-Ups and Organisations button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Partnerships_Engagements_GROUNDUPS_BLUE_NEW.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/take-action/partners-portal/partnerships/for-grounds-ups-and-organisations/"><img style="width: 100%" height="auto" width="100%" alt="Partnerships and Engagements (Ground-Ups and Organisations) button" src="/images/Partners portal/PARTNERS PORTAL BUTTONS/Partnerships_Engagements_GROUNDUPS_BLUE_NEW.png"></a>
 </th>
 </tr>
 </tbody>
