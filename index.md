@@ -31,7 +31,7 @@ sections:
       button: Find out more
       url: https://www.sg60.gov.sg/
       image: /images/SG60/SG60_banner_1.jpg
-      alt: SG60 Celebration
+      alt: Celebration in a stadium
   - infopic:
       title: All set with your partnership proposal?
       button: get started
