@@ -32,7 +32,7 @@ Digitally inclusive Singapore by partnering with us.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">One Service Kakis Network (MSO)</div>
+<div class="isomer-card-title">One Service Kakis Network (MSO) logo</div>
 <div class="isomer-card-description">Join OSK Network to gain awareness of municipal issues and participate
 in grounds-up initiatives.</div>
 <div class="isomer-card-link">Learn more</div>
