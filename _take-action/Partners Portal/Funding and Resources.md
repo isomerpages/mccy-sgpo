@@ -39,7 +39,7 @@ sustainability and public cleanliness in the community.</div>
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://oursggrants.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Our SG Grants" src="/images/Opportunities/Card Images Funding 600x400/OurSGGrants_1_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">OurSG Grants portal (MCCY)</div><div class="isomer-card-description">OurSG Grants portal brings government grants for the arts, community, heritage, social good, sports and youth into one space.</div><div class="isomer-card-link">Learn more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://oursggrants.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Our SG Grants portal logo" src="/images/Opportunities/Card Images Funding 600x400/OurSGGrants_1_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">OurSG Grants portal (MCCY)</div><div class="isomer-card-description">OurSG Grants portal brings government grants for the arts, community, heritage, social good, sports and youth into one space.</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.sg/oursingaporefund" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
