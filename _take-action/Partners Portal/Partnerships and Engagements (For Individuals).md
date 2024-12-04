@@ -57,7 +57,7 @@ and community stewardship.</div>
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/feedbacksgdecarb" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Public Consultation on Singapore's Decarbonisation Journey" src="/images/Opportunities/Card images 600x400/NCSS_logo_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore's Decarbonisation Journey</div><div class="isomer-card-description">Share your thoughts on Singapore's decarbonisation journey as we develop our next bound of climate targets, measures and policies.</div><div class="isomer-card-link">Learn more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/feedbacksgdecarb" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="National Climate Change Secretariat logo" src="/images/Opportunities/Card images 600x400/NCSS_logo_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore's Decarbonisation Journey</div><div class="isomer-card-description">Share your thoughts on Singapore's decarbonisation journey as we develop our next bound of climate targets, measures and policies.</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/tdsandbox" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -65,7 +65,7 @@ and community stewardship.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Total Defence (TD) Sandbox (MINDEF)</div>
+<div class="isomer-card-title">Total Defence (TD) Sandbox (MINDEF) logo</div>
 <div class="isomer-card-description">Have a bright idea that could help the community put Total Defence into
 action? Share it with us and we may bring it to life!</div>
 <div class="isomer-card-link">Learn more</div>
@@ -73,7 +73,7 @@ action? Share it with us and we may bring it to life!</div>
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.nyc.gov.sg/programmes-grants/young-changemakers" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NYC - Young ChangeMakers Programme" src="/images/Opportunities/Card images 600x400/NYC_YCM_600x400_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Young ChangeMakers Programme (NYC-Changemakers)</div><div class="isomer-card-description">A by youth for youth programme to empower youths through grants and mentorship in starting projects that benefit the community.</div><div class="isomer-card-link">Learn more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.nyc.gov.sg/programmes-grants/young-changemakers" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NYC - Young ChangeMakers Programme logo" src="/images/Opportunities/Card images 600x400/NYC_YCM_600x400_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Young ChangeMakers Programme (NYC-Changemakers)</div><div class="isomer-card-description">A by youth for youth programme to empower youths through grants and mentorship in starting projects that benefit the community.</div><div class="isomer-card-link">Learn more</div></div></a>
 </div>
 <h4><strong>If the above is not what you are looking for, share your proposal <a href="https://go.gov.sg/takeactiontoday" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong></h4>
 <p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/takeactiontoday"><img style="width: 100%" height="auto" width="100%" alt="Take Action button" src="/images/take action.png"></a>
