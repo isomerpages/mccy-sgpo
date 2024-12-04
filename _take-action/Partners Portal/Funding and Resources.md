@@ -77,7 +77,7 @@ safeguarding Singapore's heritage.</div>
 <a rel="noopener noreferrer nofollow" href="https://www.raise.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="raiSE" src="/images/Opportunities/Card images 600x400/rAISE_600x400.png">
+<img style="width: 100%" height="auto" width="100%" alt="raiSE logo" src="/images/Opportunities/Card images 600x400/rAISE_600x400.png">
 </div>
 </div>
 <div class="isomer-card-body">
