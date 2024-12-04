@@ -11,14 +11,14 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Otterly Enchanted" src="/images/Get%20inspired/otterly-enchanted2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Anusha Shivram (NParks’ Youth Stewards for Nature)" src="/images/Get%20inspired/otterly-enchanted2.jpg">
 </div>
 <br><a href="https://www.sg/stories/anusha-shivram-youth-stewards-of-nature-afa" rel="noopener noreferrer nofollow" target="\_blank">Otterly Enchanted</a>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-    <img style="width: 100%" height="auto" width="100%" alt="Rekindling Kampung Spirit" src="/images/Get%20inspired/rekindling-kampung-spirit2.jpg">
+    <img style="width: 100%" height="auto" width="100%" alt="Screen capture of Kampung Spirit app" src="/images/Get%20inspired/rekindling-kampung-spirit2.jpg">
 </div>
 <br><a href="https://www.sg/stories/sgkampung" rel="noopener noreferrer nofollow" target="\_blank">Rekindling the Kampung Spirit with Technology</a>
 <p></p>
