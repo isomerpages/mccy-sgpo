@@ -31,13 +31,13 @@ sections:
       button: Find out more
       url: https://www.sg60.gov.sg/
       image: /images/SG60/SG60_banner_1.jpg
-      alt: SG60 Celebration
+      alt: Celebration in a stadium
   - infopic:
       title: All set with your partnership proposal?
       button: get started
       url: /take-action/take-action-today/
       image: /images/ideas_submission_masthead.jpg
-      alt: Partnership idea
+      alt: Lightbulb represent ideas
       subtitle: Take Action
   - infopic:
       title: Read partnership stories
@@ -45,5 +45,5 @@ sections:
       button: learn more
       url: /feature-stories/
       image: /images/happinessinitiatives_sgpo.jpg
-      alt: Citizen Stories
+      alt: Community partners interacting
 ---

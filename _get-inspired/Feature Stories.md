@@ -7,7 +7,7 @@ variant: markdown
 <h4><strong>Want to partner the government for a better Singapore but don't know where to start? Get some inspiration from these stories and projects.</strong></h4>
 <div class="isomer-image-wrapper">
 
-<img style="width: 100%" height="auto" width="100%" alt="Mountbatten Parking Heroes" src="/images/Get%20inspired/Featured_Stories_banner_woBG_27_Nov.png">
+<img style="width: 100%" height="auto" width="100%" alt="Image of community building puzzle block" src="/images/Get%20inspired/Featured_Stories_banner_woBG_27_Nov.png">
 </div>
 <h5><strong>Latest Stories</strong></h5>
 <table>
@@ -122,14 +122,14 @@ variant: markdown
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Championing Online Safety" src="/images/Get%20inspired/champion2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mrs Anita Low-Lim - A champion of online safety" src="/images/Get%20inspired/champion2.jpg">
 </div>
 <br><a href="https://www.sg/stories/anita-low-lim---a-champion-of-online-safety" rel="noopener noreferrer nofollow" target="_blank">Championing Online Safety</a>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-	<img style="width: 100%" height="auto" width="100%" alt="Mountbatten Parking Heroes" src="/images/Get%20inspired/mountbatten-parking-heroes2.jpg">
+	<img style="width: 100%" height="auto" width="100%" alt="Mountbatten Parking Heroes members" src="/images/Get%20inspired/mountbatten-parking-heroes2.jpg">
 </div>
 <br><a href="https://www.sg/stories/mountbatten-parking-heroes" rel="noopener noreferrer nofollow" target="_blank">Meet the Mountbatten Parking Heroes</a>
 <p></p>
@@ -150,7 +150,7 @@ variant: markdown
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-	<img style="width: 100%" height="auto" width="100%" alt="Making Online Sphere Safer" src="/images/Get%20inspired/online-sphere-safer2.jpg">
+	<img style="width: 100%" height="auto" width="100%" alt="The Sunlight AfA is led by 48 members across the people, public and private sectors." src="/images/Get%20inspired/online-sphere-safer2.jpg">
 </div>
 <br><a href="https://www.straitstimes.com/singapore/this-22-year-old-is-tackling-online-harms-to-make-the-online-sphere-safer-for-her-peers" rel="noopener noreferrer nofollow" target="_blank">Making the Online Sphere Safer</a>
 
@@ -158,7 +158,7 @@ variant: markdown
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Turning Adversity into Opportunities" src="/images/Get%20inspired/adversityintoopportunities.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Project 3i – an initiative to support caregivers through community training, peer mentorship and partnerships with healthcare providers." src="/images/Get%20inspired/adversityintoopportunities.jpg">
 </div>
 <br><a href="https://www.straitstimes.com/singapore/mother-of-kids-with-special-needs-turns-adversity-into-an-opportunity-to-help-others" rel="noopener noreferrer nofollow" target="_blank">Turning Adversity into Opportunity to Help Others</a>
 <p></p>
@@ -179,7 +179,7 @@ variant: markdown
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Greening Cambridge Road" src="/images/Get%20inspired/greening-cambridge-road2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Rexlee Hah, Ms Michelle Wan and Mr Elango Letchumanan at the “green corridor” of Cambridge Road – one of many greening initiatives led by the community." src="/images/Get%20inspired/greening-cambridge-road2.jpg">
 </div>
 <br><a href="https://www.straitstimes.com/singapore/cambridge-road-residents-are-greening-their-neighbourhood-from-the-ground-up-heres-how-theyre-doing-it" rel="noopener noreferrer nofollow" target="_blank">Greening Cambridge Road</a>
 <p></p>

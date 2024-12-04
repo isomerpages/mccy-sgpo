@@ -27,7 +27,7 @@ better serve Singapore’s growing dementia community.</div>
 <a rel="noopener noreferrer nofollow" href="https://www.mentoringsg.com/index.html" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mentoring SG" src="/images/Opportunities/Card images volunteer 600x400/MentoringSG_600x400.png">
+<img style="width: 100%" height="auto" width="100%" alt="Mentoring SG logo" src="/images/Opportunities/Card images volunteer 600x400/MentoringSG_600x400.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -44,7 +44,7 @@ minds.</div>
 <a rel="noopener noreferrer nofollow" href="https://www.cgs.gov.sg/how-can-we-act/volunteer/roles/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Volunteer Corps - NEA" src="/images/Opportunities/Card images volunteer 600x400/VoluntteerCorps_NEA_600x400.png">
+<img style="width: 100%" height="auto" width="100%" alt="Volunteer Corps - NEA logo" src="/images/Opportunities/Card images volunteer 600x400/VoluntteerCorps_NEA_600x400.png">
 </div>
 </div>
 <div class="isomer-card-body">
