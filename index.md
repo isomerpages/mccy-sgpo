@@ -45,5 +45,5 @@ sections:
       button: learn more
       url: /feature-stories/
       image: /images/happinessinitiatives_sgpo.jpg
-      alt: Citizen Stories
+      alt: Community partners interacting
 ---
