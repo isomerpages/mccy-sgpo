@@ -37,7 +37,7 @@ sections:
       button: get started
       url: /take-action/take-action-today/
       image: /images/ideas_submission_masthead.jpg
-      alt: Partnership idea
+      alt: Lightbulb represent ideas
       subtitle: Take Action
   - infopic:
       title: Read partnership stories
