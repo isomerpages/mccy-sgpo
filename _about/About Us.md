@@ -17,7 +17,7 @@ in shaping our country's future. As Singapore society matures and becomes
 more diverse, building shared goals and mutual trust between citizens and
 the government is paramount.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SGPO - Our Mission" src="/images/About SGPO/SGPO_OurMission_5_Mar_2024_1400x1040.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="SGPO - Mission and what does it do" src="/images/About SGPO/SGPO_OurMission_5_Mar_2024_1400x1040.jpg">
 </div>
 <h4><strong>Singapore Government Partnerships Office News</strong></h4>
 <p></p>
