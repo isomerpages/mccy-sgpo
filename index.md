@@ -32,7 +32,7 @@ sections:
       image: /images/SG60/SG60_banner_1.jpg
       alt: Celebration in a stadium
   - infopic:
-      title: All set with your partnership proposal?
+      title: All set with your SG60 partnership proposal?
       button: get started
       url: /take-action/take-action-today/
       image: /images/ideas_submission_masthead.jpg
