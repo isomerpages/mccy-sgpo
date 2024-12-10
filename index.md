@@ -37,7 +37,7 @@ sections:
       url: /take-action/take-action-today/
       image: /images/ideas_submission_masthead.jpg
       alt: Lightbulb represent ideas
-      subtitle: Take Action
+      subtitle: Play Your Part
   - infopic:
       title: Read partnership stories
       subtitle: get inspired
