@@ -66,7 +66,7 @@ to assess their feasibility. Hence, adequate time is needed for agencies
 to get back to citizens with a meaningful response.</p>
 <p>You may write in to the <a href="https://form.gov.sg/65a74bb37d27490011d6b231" rel="noopener noreferrer nofollow" target="_blank">Singapore Government Partnerships Office</a> if
 you do not hear back on your proposal after 5 - 6 weeks.</p>
-<h4><strong>If you are already clear on how to submit a proposal you want to take action on, click <a href="https://go.gov.sg/takeactiontoday" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong></h4>
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/takeactiontoday"><img style="width: 100%" height="auto" width="100%" alt="Take Action Button" src="/images/take action.png"></a>
+<h4><strong>If you are already clear on how to submit a proposal you want to take action on, click <a href="https://go.gov.sg/takeactiontoday2" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong></h4>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/takeactiontoday2"><img style="width: 100%" height="auto" width="100%" alt="Take Action Button" src="/images/take action.png"></a>
 <h4>If not, please head to our <a href="/take-action/partnersportal/" rel="noopener noreferrer nofollow" target="_blank">Partners Portal</a> page to explore resources that may support your idea.</h4>
 <p></p>

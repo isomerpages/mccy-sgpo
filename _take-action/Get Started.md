@@ -13,6 +13,6 @@ would love to hear from you.</p>
 </div>
 <p><strong>We recommend you to explore the <a href="/take-action/partnersportal" rel="noopener noreferrer nofollow" target="_blank">Partners Portal</a> first for resources that may support your idea e.g. existing funding, partnership and volunteering opportunities.</strong>
 </p>
-<p><strong>If you are already clear on how to submit a proposal you want to take action on, click <a href="https://go.gov.sg/takeactiontoday" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
+<p><strong>If you are already clear on how to submit a proposal you want to take action on, click <a href="https://go.gov.sg/takeactiontoday2" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
 </p>
 <p></p>
