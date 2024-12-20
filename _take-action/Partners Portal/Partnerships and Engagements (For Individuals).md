@@ -75,6 +75,6 @@ action? Share it with us and we may bring it to life!</div>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.nyc.gov.sg/programmes-grants/young-changemakers" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NYC - Young ChangeMakers Programme logo" src="/images/Opportunities/Card images 600x400/NYC_YCM_600x400_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Young ChangeMakers Programme (NYC-Changemakers)</div><div class="isomer-card-description">A by youth for youth programme to empower youths through grants and mentorship in starting projects that benefit the community.</div><div class="isomer-card-link">Learn more</div></div></a>
 </div>
-<h4><strong>If the above is not what you are looking for, share your proposal <a href="https://go.gov.sg/takeactiontoday" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong></h4>
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/takeactiontoday"><img style="width: 100%" height="auto" width="100%" alt="Take Action button" src="/images/take action.png"></a>
+<h4><strong>If the above is not what you are looking for, share your proposal <a href="https://go.gov.sg/takeactiontoday2" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong></h4>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/takeactiontoday2"><img style="width: 100%" height="auto" width="100%" alt="Take Action button" src="/images/take action.png"></a>
 <p></p>
