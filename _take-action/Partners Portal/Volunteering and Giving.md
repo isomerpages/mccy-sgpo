@@ -87,5 +87,5 @@ your heart to kick start your volunteering journey today.</div>
 </div>
 </a>
 </div>
-<h5><strong>If the above is not what you are looking for, share your proposal <a href="https://go.gov.sg/takeactiontoday" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong></h5>
+<h5><strong>If the above is not what you are looking for, share your proposal <a href="https://go.gov.sg/takeactiontoday2" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong></h5>
 <p></p>
