@@ -32,7 +32,7 @@ Digitally inclusive Singapore by partnering with us.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">One Service Kakis Network (MSO) logo</div>
+<div class="isomer-card-title">One Service Kakis Network (MSO)</div>
 <div class="isomer-card-description">Join OSK Network to gain awareness of municipal issues and participate
 in grounds-up initiatives.</div>
 <div class="isomer-card-link">Learn more</div>
@@ -65,7 +65,7 @@ and community stewardship.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Total Defence (TD) Sandbox (MINDEF) logo</div>
+<div class="isomer-card-title">Total Defence (TD) Sandbox (MINDEF)</div>
 <div class="isomer-card-description">Have a bright idea that could help the community put Total Defence into
 action? Share it with us and we may bring it to life!</div>
 <div class="isomer-card-link">Learn more</div>
