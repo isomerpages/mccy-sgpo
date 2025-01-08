@@ -266,7 +266,7 @@ of S'poreans</a>
 </p>
 </li>
 	<li>
-	<p><a href="https://www.projectlovelunch.com/about" rel="noopener noreferrer nofollow" target="_blank">ProjectLoveLunch</a>:
+	<p><a href="https://pll.one/" rel="noopener noreferrer nofollow" target="_blank">ProjectLoveLunch</a>:
 <a href="https://pride.kindness.sg/its-a-family-affair-yishun-block-carnival-brings-residents-together/" rel="noopener noreferrer nofollow" target="_blank">It’s a family affair: Project Love Lunch brings residents closer</a>
 </p>
 </li>
