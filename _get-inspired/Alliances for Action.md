@@ -19,7 +19,7 @@ variant: markdown
 * [AfA on Sustainability](https://www.climateimpactx.com/about)
 * [AfA on Widening Access to Talent ](https://www.straitstimes.com/business/new-one-stop-resource-portal-to-guide-s-pore-employers-on-redesigning-jobs-amid-disruption-competition)
 * [Digital for Life movement: AfA on Online Ordering for Hawkers](https://www.whyq.sg/sghawkersonline)
-* [Digital for Life movement: AfA to Enhance Digital Readiness Skills and Literacy for Daily Living](https://together.smartnation.gov.sg)
+* [Digital for Life movement: AfA to Enhance Digital Readiness Skills and Literacy for Daily Living](https://www.smartnation.gov.sg/media-hub/speeches/smart-nation-and-u-2021/)
 * [Mentoring SG](https://mentoring.sg/)
 * [NParks Friends of the Parks](https://fotp.nparks.gov.sg/)
 * [Uplifting Pupils in Life and Inspiring Families Taskforce (UPLIFT)](https://www.straitstimes.com/singapore/politics/more-help-for-disadvantaged-and-special-needs-students-maliki-osman)
