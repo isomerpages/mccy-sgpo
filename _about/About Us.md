@@ -37,10 +37,11 @@ the government is paramount.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>30 Nov 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/News PDFs/BFG24_Accelerator_Media_Factsheet.pdf" rel="noopener nofollow" target="_blank">Build for Good 2024 Accelerator Finale - Media Fact Sheet</a>
+</p>
 </td>
 </tr>
 <tr>
