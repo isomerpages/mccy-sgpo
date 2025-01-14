@@ -27,7 +27,7 @@ variant: markdown
 <p>
 	</p><ul>
 		<li>
-<a href="https://www.straitstimes.com/singapore/eligible-low-income-queenstown-residents-shop-for-free-at-the-happy-mart" rel="noopener noreferrer nofollow" target="_blank">The Queenstown minimart where everythinee</a>
+<a href="https://www.straitstimes.com/singapore/singaporean-of-the-year-finalist-2-men-started-charity-to-support-struggling-youth" rel="noopener noreferrer nofollow" target="_blank">Singaporean of the Year finalist: They started charity to support struggling youth</a>
 		</li>
 	<li>
 <a href="https://www.straitstimes.com/singapore/eligible-low-income-queenstown-residents-shop-for-free-at-the-happy-mart" rel="noopener noreferrer nofollow" target="_blank">The Queenstown minimart where everything is free</a>
