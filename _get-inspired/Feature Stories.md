@@ -26,16 +26,16 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <p>
 	</p><ul>
+		<li>
+<a href="https://www.straitstimes.com/singapore/eligible-low-income-queenstown-residents-shop-for-free-at-the-happy-mart" rel="noopener noreferrer nofollow" target="_blank">The Queenstown minimart where everythinee</a>
+		</li>
 	<li>
 <a href="https://www.straitstimes.com/singapore/eligible-low-income-queenstown-residents-shop-for-free-at-the-happy-mart" rel="noopener noreferrer nofollow" target="_blank">The Queenstown minimart where everything is free</a>
 		</li>
 			<li>
 <a href="https://www.straitstimes.com/opinion/giving-back-to-society-without-fuss-the-singaporean-way" rel="noopener noreferrer nofollow" target="_blank">Giving back to society without fuss, the Singaporean way</a>
 		</li>
-			<li>
-<a href="https://www.straitstimes.com/tech/motion-detector-for-seniors-living-alone-takes-top-prize-at-citizen-hackathon" rel="noopener noreferrer nofollow" target="_blank">Motion detector for seniors living alone among winners at citizen hackathon</a>
-		</li>
-	</ul>
+</ul>
 <p></p>
 <p></p>
 </div></th>
@@ -202,6 +202,9 @@ variant: markdown
 </table>
 <h5><strong>Community Projects</strong></h5>
 <ul data-tight="true" class="tight">
+		<li>
+<a href="https://www.straitstimes.com/tech/motion-detector-for-seniors-living-alone-takes-top-prize-at-citizen-hackathon" rel="noopener noreferrer nofollow" target="_blank">Motion detector for seniors living alone among winners at citizen hackathon</a>
+		</li>
 	<li>
 <a href="https://www.straitstimes.com/singapore/youth-s-policy-recommendations-will-be-seriously-considered-pm-wong" rel="noopener noreferrer nofollow" target="_blank">Youth’s policy recommendations will be seriously considered: PM Wong</a>
 		</li>
