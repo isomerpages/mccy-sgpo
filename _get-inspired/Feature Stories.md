@@ -26,14 +26,14 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <p>
 	</p><ul>
+			<li>
+<a href="https://cnalifestyle.channelnewsasia.com/women/nabillah-jalal-nj-studio-artsee-piano-teacher-muhammadiyah-450696" rel="noopener noreferrer nofollow" target="_blank">She co-founded a programme for underprivileged boys to learn music: 'I want them to know they can dream’</a>
+		</li>
 		<li>
 <a href="https://www.straitstimes.com/singapore/singaporean-of-the-year-finalist-2-men-started-charity-to-support-struggling-youth" rel="noopener noreferrer nofollow" target="_blank">Singaporean of the Year finalist: They started charity to support struggling youth</a>
 		</li>
 	<li>
 <a href="https://www.straitstimes.com/singapore/eligible-low-income-queenstown-residents-shop-for-free-at-the-happy-mart" rel="noopener noreferrer nofollow" target="_blank">The Queenstown minimart where everything is free</a>
-		</li>
-			<li>
-<a href="https://www.straitstimes.com/opinion/giving-back-to-society-without-fuss-the-singaporean-way" rel="noopener noreferrer nofollow" target="_blank">Giving back to society without fuss, the Singaporean way</a>
 		</li>
 </ul>
 <p></p>
@@ -202,6 +202,9 @@ variant: markdown
 </table>
 <h5><strong>Community Projects</strong></h5>
 <ul data-tight="true" class="tight">
+				<li>
+<a href="https://www.straitstimes.com/opinion/giving-back-to-society-without-fuss-the-singaporean-way" rel="noopener noreferrer nofollow" target="_blank">Giving back to society without fuss, the Singaporean way</a>
+		</li>
 		<li>
 <a href="https://www.straitstimes.com/tech/motion-detector-for-seniors-living-alone-takes-top-prize-at-citizen-hackathon" rel="noopener noreferrer nofollow" target="_blank">Motion detector for seniors living alone among winners at citizen hackathon</a>
 		</li>
