@@ -50,20 +50,14 @@ variant: markdown
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+	<td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="350" width="750" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FQkT1AiZRzU?si=CE70D-GeDMwoJG2v"></iframe>
+<iframe height="197" width="350" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FQkT1AiZRzU?si=CE70D-GeDMwoJG2v"></iframe>
 </div>
 </td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="300" width="750" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/r76Usp5ZbRc?si=yvuj7LwHGtQgt3bx"></iframe>
+<iframe height="197" width="350" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/r76Usp5ZbRc?si=yvuj7LwHGtQgt3bx"></iframe>
 </div>
 </td>
 </tr>
