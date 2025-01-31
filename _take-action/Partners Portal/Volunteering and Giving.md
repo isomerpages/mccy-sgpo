@@ -85,7 +85,7 @@ vision.</div>
 your heart to kick start your volunteering journey today.</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="People's Association logo" src="/images/Opportunities/Card Images Funding 600x400/PA_logo_1_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PA Community Volunteering (PA)</div><div class="isomer-card-description">Individuals passionate about community causes can sign up as Community Volunteers and explore the opportunities available.</div><div class="isomer-card-link">Learn more</div></div></a>
 </div>
 <h5><strong>If the above is not what you are looking for, share your proposal <a href="https://go.gov.sg/takeactiontoday2" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong></h5>
 <p></p>
