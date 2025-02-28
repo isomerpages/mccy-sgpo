@@ -2,6 +2,7 @@ collections:
   get-inspired:
     output: true
     order:
+      - Example Title.md
       - Feature Stories.md
       - Alliances for Action.md
       - Stories Archive.md
