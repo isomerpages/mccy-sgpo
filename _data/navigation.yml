@@ -6,3 +6,5 @@ links:
     collection: get-inspired
   - title: About
     collection: about
+  - title: Personality Quiz
+    url: /permalink
