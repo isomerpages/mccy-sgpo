@@ -27,7 +27,7 @@ variant: markdown
 <p>
 	</p><ul>
 	<li>
-	<a href="https://www.straitstimes.com/singapore/eligible-low-income-queenstown-residents-shop-for-free-at-the-happy-mart" rel="noopener noreferrer nofollow" target="_blank">Barber shop boss gives free haircuts to seniors and the disabled to ‘give'</a>
+	<a href="http://www.straitstimes.com/singapore/barber-shop-boss-gives-free-haircuts-to-seniors-and-the-disabled-to-give-back-to-spore" rel="noopener noreferrer nofollow" target="_blank">Barber shop boss gives free haircuts to seniors and the disabled to ‘give'</a>
 		</li>
 			<li>
 <a href="https://cnalifestyle.channelnewsasia.com/women/nabillah-jalal-nj-studio-artsee-piano-teacher-muhammadiyah-450696" rel="noopener noreferrer nofollow" target="_blank">She co-founded a programme for underprivileged boys to learn music: 'I want them to know they can dream’</a>
