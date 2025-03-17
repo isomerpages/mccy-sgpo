@@ -47,6 +47,23 @@ variant: markdown
 </tbody>
 </table>
 <h5><strong>Stories</strong></h5>
+
+<table>
+<tbody>
+<tr>
+	<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="197" width="350" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4ZyX72b_P2E?si=TreqDWdysHiE2KWB"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="197" width="350" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QgP0NxQukQo?si=cRtIPzcdiEl9wDl3"></iframe>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <table>
 <tbody>
 <tr>
