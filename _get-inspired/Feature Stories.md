@@ -26,14 +26,14 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <p>
 	</p><ul>
+	<li>
+	<a href="http://www.straitstimes.com/singapore/barber-shop-boss-gives-free-haircuts-to-seniors-and-the-disabled-to-give-back-to-spore" rel="noopener noreferrer nofollow" target="_blank">Barber shop boss gives free haircuts to seniors and the disabled to ‘give'</a>
+		</li>
 			<li>
 <a href="https://cnalifestyle.channelnewsasia.com/women/nabillah-jalal-nj-studio-artsee-piano-teacher-muhammadiyah-450696" rel="noopener noreferrer nofollow" target="_blank">She co-founded a programme for underprivileged boys to learn music: 'I want them to know they can dream’</a>
 		</li>
 		<li>
 <a href="https://www.straitstimes.com/singapore/singaporean-of-the-year-finalist-2-men-started-charity-to-support-struggling-youth" rel="noopener noreferrer nofollow" target="_blank">Singaporean of the Year finalist: They started charity to support struggling youth</a>
-		</li>
-	<li>
-<a href="https://www.straitstimes.com/singapore/eligible-low-income-queenstown-residents-shop-for-free-at-the-happy-mart" rel="noopener noreferrer nofollow" target="_blank">The Queenstown minimart where everything is free</a>
 		</li>
 </ul>
 <p></p>
@@ -47,6 +47,23 @@ variant: markdown
 </tbody>
 </table>
 <h5><strong>Stories</strong></h5>
+
+<table>
+<tbody>
+<tr>
+	<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="197" width="350" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4ZyX72b_P2E?si=TreqDWdysHiE2KWB"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="197" width="350" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QgP0NxQukQo?si=cRtIPzcdiEl9wDl3"></iframe>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <table>
 <tbody>
 <tr>
@@ -207,6 +224,9 @@ variant: markdown
 </table>
 <h5><strong>Community Projects</strong></h5>
 <ul data-tight="true" class="tight">
+	<li>
+<a href="https://www.straitstimes.com/singapore/eligible-low-income-queenstown-residents-shop-for-free-at-the-happy-mart" rel="noopener noreferrer nofollow" target="_blank">The Queenstown minimart where everything is free</a>
+		</li>
 				<li>
 <a href="https://www.straitstimes.com/opinion/giving-back-to-society-without-fuss-the-singaporean-way" rel="noopener noreferrer nofollow" target="_blank">Giving back to society without fuss, the Singaporean way</a>
 		</li>
