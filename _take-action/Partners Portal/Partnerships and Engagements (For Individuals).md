@@ -25,7 +25,7 @@ Digitally inclusive Singapore by partnering with us.</div>
 </div>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.ura.gov.sg/corporate/planning/Master-Plan/Draft-Master-Plan-2025/Long-Island/?utm_source=facebook&amp;utm_medium=carousel&amp;utm_campaign=longisland1&amp;utm_term=&amp;utm_content=&amp;utm_id=dmp" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="URA logo" src="/images/Opportunities/Card images 600x400/URA_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">'Long Island' (URA)</div><div class="isomer-card-description">'Long Island' project is an opportunity for Singaporeans to come together to shape the future of the East Coast.</div><div class="isomer-card-link">Learn more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/oskgettoknowyou" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="www.go.gov.sg/osk-join" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="OneService Municipal Services Office" src="/images/Opportunities/Card images 600x400/OneService_MSO_600x400.png">
@@ -57,7 +57,7 @@ and community stewardship.</div>
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://youthplan.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SG Youth Plan logo" src="/images/Opportunities/Card images 600x400/SGYouthPlan_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SG Youth Plan (NYC)</div><div class="isomer-card-description">Share your ideas through the SG Youth Plan and be part of creating a brighter future for Singapore. </div><div class="isomer-card-link">Learn more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://youthplan.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SG Youth Plan logo" src="/images/Opportunities/Card images 600x400/SGYouthPlan_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SG Youth Plan (NYC)</div><div class="isomer-card-description">Share your ideas through the SG Youth Plan and be part of creating a brighter future for Singapore.</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/feedbacksgdecarb" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
