@@ -71,6 +71,9 @@ action? Share it with us and we may bring it to life!</div>
 </div>
 </a>
 </div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/tdsandbox" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Total Defence Sandbox logo" src="/images/Opportunities/Card images 600x400/TDSandbox_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Total Defence (TD) Sandbox (MINDEF)</div><div class="isomer-card-description">Have a bright idea that could help the community put Total Defence into action? Share it with us and we may bring it to life!</div><div class="isomer-card-link">Learn more</div></div></a>
+</div>
 <h4><strong>If the above is not what you are looking for, share your proposal <a href="https://go.gov.sg/takeactiontoday2" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong></h4>
 <p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/takeactiontoday2"><img style="width: 100%" height="auto" width="100%" alt="Take Action button" src="/images/take action.png"></a>
 <p></p>
