@@ -57,17 +57,17 @@ and community stewardship.</div>
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/feedbacksgdecarb" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="National Climate Change Secretariat logo" src="/images/Opportunities/Card images 600x400/NCSS_logo_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore's Decarbonisation Journey</div><div class="isomer-card-description">Share your thoughts on Singapore's decarbonisation journey as we develop our next bound of climate targets, measures and policies.</div><div class="isomer-card-link">Learn more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/tdsandbox" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://youthplan.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SG Youth Plan logo" src="/images/Opportunities/Card images 600x400/SGYouthPlan_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SG Youth Plan (NYC)</div><div class="isomer-card-description">Share your ideas through the SG Youth Plan and be part of creating a brighter future for Singapore. </div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/feedbacksgdecarb" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Total Defence Sandbox logo" src="/images/Opportunities/Card images 600x400/TDSandbox_600x400.png">
+<img style="width: 100%" height="auto" width="100%" alt="National Climate Change Secretariat logo" src="/images/Opportunities/Card images 600x400/NCSS_logo_600x400.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Total Defence (TD) Sandbox (MINDEF)</div>
-<div class="isomer-card-description">Have a bright idea that could help the community put Total Defence into
-action? Share it with us and we may bring it to life!</div>
+<div class="isomer-card-title">Singapore's Decarbonisation Journey</div>
+<div class="isomer-card-description">Share your thoughts on Singapore's decarbonisation journey as we develop
+our next bound of climate targets, measures and policies.</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
 </a>
