@@ -12,6 +12,7 @@ variant: markdown
 * [AfA on Business Leadership Development ](https://www.straitstimes.com/business/companies-government-should-develop-singaporean-talent-for-top-roles-in-global-firms-sbf-report)
 * [AfA on Caregivers of Persons with Disabilities](https://caring.sg/#services)
 * [AfA on Corporate Purpose](https://www.thecompanyofgood.sg/corporate-purpose#alliance-for-action-on-corporate-purpose)
+* &nbsp;[AfA on Empowering Multi-Stage Careers for Mature Workers](https://www.channelnewsasia.com/singapore/older-senior-workers-employment-work-manpower-labour-force-participation-4981606?cid=internal_sharetool_iphone_07032025_cna)
 * [AfA on Kampong Gelam Alliance](https://www.straitstimes.com/singapore/five-year-plan-launched-to-energise-kampong-glam-attract-more-visitors)
 * [AfA for Lower Wage Workers](https://www.straitstimes.com/singapore/initiatives-to-empower-uplift-lower-wage-workers-to-forge-ahead-even-as-alliance-for-action-ends)
 * [AfA to Strengthen Marriages and Family Relationships](https://www.msf.gov.sg/what-we-do/afam/home)
