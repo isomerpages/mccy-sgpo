@@ -50,6 +50,6 @@ sections:
       id: infopic
       button: Take the quiz
       url: https://www.stationery-personality-quiz.com/
-      image: /images/Infopic/Personality_Quiz_Characters_SGPO.jpg
-      alt: Image alt text
+      image: /images/Infopic/Personality_Quiz_Characters_SGPO_1400x700.png
+      alt: Illustrations of the quiz
 ---
