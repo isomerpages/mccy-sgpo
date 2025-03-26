@@ -41,18 +41,17 @@ and community stewardship.</div>
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.nac.gov.sg/about-us/oursgartsplan/join-the-making" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Our SG Arts Plan logo" src="/images/Opportunities/Card images 600x400/ArtsPlan_NAC_1_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Our SG Arts Plan (2023 - 2027) (NAC)</div><div class="isomer-card-description">Join the Making of Singapore's future arts scene where artists, audiences, and partners play their parts!</div><div class="isomer-card-link">Learn more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/naturekakisenquiry" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://www.go.gov.sg/osk-join" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="OneService Municipal Services Office logo" src="/images/Opportunities/Card images 600x400/OneService_MSO_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">One Service Kakis Network (MSO)</div><div class="isomer-card-description">Join OSK Network to gain awareness of municipal issues and participate in grounds-up initiatives.</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.nac.gov.sg/about-us/oursgartsplan/join-the-making" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NParks logo" src="/images/Opportunities/Card images 600x400/Nparks_logo_1_600x400.png">
+<img style="width: 100%" height="auto" width="100%" alt="Our SG Arts Plan logo" src="/images/Opportunities/Card images 600x400/ArtsPlan_NAC_1_600x400.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Nature Kakis (NParks)</div>
-<div class="isomer-card-description">The Nature Kakis Network is a platform that will help grow NParks' City
-in Nature vision in the heartlands, as well as encourage greater appreciation
-and community stewardship.</div>
+<div class="isomer-card-title">Our SG Arts Plan (2023 - 2027) (NAC)</div>
+<div class="isomer-card-description">Join the Making of Singapore's future arts scene where artists, audiences,
+and partners play their parts!</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
 </a>
