@@ -45,4 +45,11 @@ sections:
       url: /feature-stories/
       image: /images/happinessinitiatives_sgpo.jpg
       alt: Community partners interacting
+  - infopic:
+      title: Discover how your strengths can shape a better Singapore
+      id: infopic
+      button: Take the quiz
+      url: https://www.stationery-personality-quiz.com/
+      image: /images/Infopic/Personality_Quiz_Characters_SGPO.jpg
+      alt: Image alt text
 ---
