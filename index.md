@@ -32,6 +32,13 @@ sections:
       image: /images/SG60/SG60_banner_1.jpg
       alt: Celebration in a stadium
   - infopic:
+      title: Discover how your strengths can shape a better Singapore
+      id: infopic
+      button: Take the quiz
+      url: https://www.stationery-personality-quiz.com/
+      image: /images/Infopic/Personality_Quiz_Characters_SGPO_1400x700.png
+      alt: Illustrations of the quiz
+  - infopic:
       title: All set with your SG60 partnership proposal?
       button: get started
       url: /take-action/take-action-today/
@@ -45,11 +52,4 @@ sections:
       url: /feature-stories/
       image: /images/happinessinitiatives_sgpo.jpg
       alt: Community partners interacting
-  - infopic:
-      title: Discover how your strengths can shape a better Singapore
-      id: infopic
-      button: Take the quiz
-      url: https://www.stationery-personality-quiz.com/
-      image: /images/Infopic/Personality_Quiz_Characters_SGPO_1400x700.png
-      alt: Illustrations of the quiz
 ---
