@@ -17,6 +17,8 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="New!" src="/images/Get%20inspired/new_animated.gif">
 	<p>
+	<img style="width: 100%" height="auto" width="100%" alt="New!" src="/images/Get%20inspired/new_animated.gif">
+	</p><p>
 <img style="width: 100%" height="auto" width="100%" alt="New!" src="/images/Get%20inspired/new_animated.gif">
 			</p><p>
 <img style="width: 100%" height="auto" width="100%" alt="New!" src="/images/Get%20inspired/new_animated.gif">
@@ -26,6 +28,9 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <p>
 	</p><ul>
+	<li>
+	<a href="http://www.straitstimes.com/singapore/mans-hunt-for-his-family-history-turns-into-heritage-project-on-seletar-kampongs" rel="noopener noreferrer nofollow" target="_blank">Man’s hunt for family history turns into heritage project on Seletar kampung</a>
+		</li>
 	<li>
 	<a href="http://www.straitstimes.com/singapore/barber-shop-boss-gives-free-haircuts-to-seniors-and-the-disabled-to-give-back-to-spore" rel="noopener noreferrer nofollow" target="_blank">Barber shop boss gives free haircuts to seniors and the disabled to ‘give'</a>
 		</li>
