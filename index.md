@@ -32,12 +32,19 @@ sections:
       image: /images/SG60/SG60_banner_1.jpg
       alt: Celebration in a stadium
   - infopic:
-      title: Discover how your strengths can shape a better Singapore
+      title: "Quiz: Discover how your community-building strengths"
       id: infopic
       button: Take the quiz
       url: https://www.stationery-personality-quiz.com/
       image: /images/Infopic/Personality_Quiz_Characters_SGPO_1400x700.png
       alt: Illustrations of the quiz
+  - infopic:
+      title: Develop your ideas for public good at Citizens’ Circles
+      id: infopic
+      button: sign up
+      url: https://go.gov.sg/citizenscircle2
+      image: /images/Infopic/Citizens_Circle_homepage_banner1.png
+      alt: Citizens' Circles image
   - infopic:
       title: All set with your SG60 partnership proposal?
       button: get started
