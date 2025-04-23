@@ -43,7 +43,7 @@ sections:
       id: infopic
       button: sign up
       url: https://go.gov.sg/citizenscircle2
-      image: /images/Infopic/Citizens_Circle_homepage_banner.png
+      image: /images/Infopic/Citizens_Circle_homepage_banner1.png
       alt: Citizens' Circles image
   - infopic:
       title: All set with your SG60 partnership proposal?
