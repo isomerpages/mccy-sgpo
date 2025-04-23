@@ -39,6 +39,13 @@ sections:
       image: /images/Infopic/Personality_Quiz_Characters_SGPO_1400x700.png
       alt: Illustrations of the quiz
   - infopic:
+      title: Develop your ideas for public good at Citizens’ Circles
+      id: infopic
+      button: sign up
+      url: https://go.gov.sg/citizenscircle2
+      image: /images/Infopic/Citizens_Circle_homepage_banner.png
+      alt: Citizens' Circles image
+  - infopic:
       title: All set with your SG60 partnership proposal?
       button: get started
       url: /take-action/take-action-today/
@@ -52,11 +59,4 @@ sections:
       url: /feature-stories/
       image: /images/happinessinitiatives_sgpo.jpg
       alt: Community partners interacting
-  - infopic:
-      title: Develop your ideas for public good at Citizens’ Circles
-      id: infopic
-      button: Button Text
-      url: https://go.gov.sg/citizenscircle2
-      image: /images/Infopic/Citizens_Circle_homepage_banner.png
-      alt: Citizens' Circles image
 ---
