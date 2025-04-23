@@ -21,7 +21,6 @@ variant: markdown
 	</p><p>
 <img style="width: 100%" height="auto" width="100%" alt="New!" src="/images/Get%20inspired/new_animated.gif">
 			</p><p>
-<img style="width: 100%" height="auto" width="100%" alt="New!" src="/images/Get%20inspired/new_animated.gif">
 </p></div>
 </th>
 <th rowspan="1" colspan="1">
@@ -36,9 +35,6 @@ variant: markdown
 		</li>
 			<li>
 <a href="https://cnalifestyle.channelnewsasia.com/women/nabillah-jalal-nj-studio-artsee-piano-teacher-muhammadiyah-450696" rel="noopener noreferrer nofollow" target="_blank">She co-founded a programme for underprivileged boys to learn music: 'I want them to know they can dream’</a>
-		</li>
-		<li>
-<a href="https://www.straitstimes.com/singapore/singaporean-of-the-year-finalist-2-men-started-charity-to-support-struggling-youth" rel="noopener noreferrer nofollow" target="_blank">Singaporean of the Year finalist: They started charity to support struggling youth</a>
 		</li>
 </ul>
 <p></p>
@@ -229,6 +225,9 @@ variant: markdown
 </table>
 <h5><strong>Community Projects</strong></h5>
 <ul data-tight="true" class="tight">
+			<li>
+<a href="https://www.straitstimes.com/singapore/singaporean-of-the-year-finalist-2-men-started-charity-to-support-struggling-youth" rel="noopener noreferrer nofollow" target="_blank">Singaporean of the Year finalist: They started charity to support struggling youth</a>
+		</li>
 	<li>
 <a href="https://www.straitstimes.com/singapore/eligible-low-income-queenstown-residents-shop-for-free-at-the-happy-mart" rel="noopener noreferrer nofollow" target="_blank">The Queenstown minimart where everything is free</a>
 		</li>
