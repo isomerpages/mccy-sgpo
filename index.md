@@ -25,6 +25,13 @@ sections:
           - title: Find out more about us
             url: /about/about-us/
   - infopic:
+      title: Develop your ideas for public good at Citizens’ Circles
+      id: infopic
+      button: sign up
+      url: https://go.gov.sg/citizenscircle2
+      image: /images/Infopic/Citizens_Circle_homepage_banner2.jpg
+      alt: Citizens' Circles image
+  - infopic:
       title: Celebrate SG60 and build our future Singapore Together
       id: infopic
       button: Find out more
@@ -38,13 +45,6 @@ sections:
       url: https://www.stationery-personality-quiz.com/
       image: /images/Infopic/Personality_Quiz_Characters_SGPO_1400x700.png
       alt: Illustrations of the quiz
-  - infopic:
-      title: Develop your ideas for public good at Citizens’ Circles
-      id: infopic
-      button: sign up
-      url: https://go.gov.sg/citizenscircle2
-      image: /images/Infopic/Citizens_Circle_homepage_banner1.png
-      alt: Citizens' Circles image
   - infopic:
       title: All set with your SG60 partnership proposal?
       button: get started
