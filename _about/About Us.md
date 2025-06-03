@@ -50,9 +50,7 @@ the government is paramount.</p>
 <p>28 Sep 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/News PDFs/Build_For_Good_2024___Media_Fact_Sheet.pdf" rel="noopener nofollow" target="_blank">Build for Good 2024 - Med</a>
-<a href="/files/News PDFs/Build_for_Good_Media_Fact_Sheet_3_June_2025.pdf" rel="noopener nofollow" target="_blank">Build for Good Media Factsheet</a><a href="/files/News PDFs/Build_For_Good_2024___Media_Fact_Sheet.pdf" rel="noopener nofollow" target="_blank">ia</a>
-<a href="/files/News PDFs/Build_for_Good_Media_Fact_Sheet_3_June_2025.pdf" rel="noopener nofollow" target="_blank">Build for Good Media Fact Sheet</a><a href="/files/News PDFs/Build_For_Good_2024___Media_Fact_Sheet.pdf" rel="noopener nofollow" target="_blank"> Fact Sheet</a>
+<p><a href="/files/News PDFs/Build_for_Good_Media_Fact_Sheet_3_June_2025.pdf" rel="noopener nofollow" target="_blank">Build for Good Media Fact Sheet</a>
 </p>
 </td>
 </tr>
