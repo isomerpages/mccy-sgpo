@@ -39,7 +39,7 @@ sections:
       image: /images/SG60/SG60_banner_1.jpg
       alt: Celebration in a stadium
   - infopic:
-      title: "Quiz: Discover how your community-building strengths"
+      title: "Quiz: Discover your community-building strengths"
       id: infopic
       button: Take the quiz
       url: https://www.stationery-personality-quiz.com/
