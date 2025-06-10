@@ -4,8 +4,10 @@ title: Singapore Government Partnerships Office
 description: Website of the Singapore Government Partnerships Office.
 image: /images/sgt_sgpo_logo_3-01.svg
 permalink: /
-notification: This is a beta version of the website. Give us your feedback at
-  the 'Contact Us' link below, to help us improve it.
+notification: Government officials will never ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam, or visit
+  scamshield.gov.sg for more information.
 sections:
   - hero:
       title: Be the Change
