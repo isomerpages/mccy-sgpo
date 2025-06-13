@@ -59,7 +59,7 @@ the government is paramount.</p>
 <p>19 Jan 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/News PDFs/Singapore_Government_Partnerships_Office_Launched_to_Strengthen_Partnerships_Between_Citizens_and_the_Government___19_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Government Partnerships Office Launched to Strengthen Partnerships Between Citizens and the Government</a>
+<p><a href="/files/News PDFs/Singapore_Government_Partnerships_Office_Launched_to_Strengthen_Partnerships_Between_Citizens_and_the_Government___19_Jan_2024_Updated.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Government Partnerships Office Launched to Strengthen Partnerships Between Citizens and the Government</a>
 </p>
 </td>
 </tr>
