@@ -4,7 +4,7 @@ permalink: /my-sg60-goals/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<h4>Meet the inspiring individuals who are shaping Singapore's future through their personal goals and initiatives. Their stories showcase how everyday actions and commitments contribute to building a better Singapore.<br></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Lydia Susiyanti photo" src="/images/MySG60Goals/Lydia_1_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Lydia Susiyanti's SG60 Goal</div><div class="isomer-card-description">Lydia wishes to provide free breakfast to children living and studying in her neighbourhood.</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
