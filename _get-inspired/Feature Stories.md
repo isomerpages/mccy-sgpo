@@ -17,7 +17,7 @@ variant: markdown
 <li>
 <a href="https://www.instagram.com/p/DKgUM3VMJW6/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Jocelyn Teo</a>: Everyone's mental wellness journey is unique. Through an app they’ve designed, Jocelyn and her team are creating a safe digital space where people can explore their thoughts and feelings at their own pace, and at their fingertips.</li>
 <li>
-<a href="https://www.instagram.com/p/DIbEAylNU-X/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Johny</a>: Johny believes that caring for our shared spaces is essential for building the community spirit. With support from the Love Our ’Hood Fund, he started the Boon Lay Clean-up Project to bring neighbours together.</li>
+<a href="https://www.instagram.com/p/DKZcrCWsc3P/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Johny</a>: Johny believes that caring for our shared spaces is essential for building the community spirit. With support from the Love Our ’Hood Fund, he started the Boon Lay Clean-up Project to bring neighbours together.</li>
 <li>
 <a href="https://www.instagram.com/p/DIbEAylNU-X/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Lee Seow Ser</a>: One story at a time, Seow Ser and her team are helping to build a more inclusive Singapore. Through children’s books, they’re nurturing young minds to embrace diversity and foster kindness.</li>
 <li>
