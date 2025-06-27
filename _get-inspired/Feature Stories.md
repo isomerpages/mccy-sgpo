@@ -46,14 +46,14 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <p>
 	</p><ul>
+		<li>
+<a href="https://www.straitstimes.com/singapore/mum-of-six-juggles-three-jobs-starts-free-breakfast-club-for-kids-in-her-ang-mo-kio-neighbourhood" rel="noopener noreferrer nofollow" target="_blank">Mum of six who juggles three jobs starts free breakfast club for children in Ang Mo Kio</a>
+		</li>
 	<li>
 	<a href="http://www.straitstimes.com/singapore/mans-hunt-for-his-family-history-turns-into-heritage-project-on-seletar-kampongs" rel="noopener noreferrer nofollow" target="_blank">Man’s hunt for family history turns into heritage project on Seletar kampung</a>
 		</li>
 	<li>
 	<a href="http://www.straitstimes.com/singapore/barber-shop-boss-gives-free-haircuts-to-seniors-and-the-disabled-to-give-back-to-spore" rel="noopener noreferrer nofollow" target="_blank">Barber shop boss gives free haircuts to seniors and the disabled to ‘give'</a>
-		</li>
-			<li>
-<a href="https://cnalifestyle.channelnewsasia.com/women/nabillah-jalal-nj-studio-artsee-piano-teacher-muhammadiyah-450696" rel="noopener noreferrer nofollow" target="_blank">She co-founded a programme for underprivileged boys to learn music: 'I want them to know they can dream’</a>
 		</li>
 </ul>
 <p></p>
@@ -67,7 +67,17 @@ variant: markdown
 </tbody>
 </table>
 <h5><strong>Stories</strong></h5>
-
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="400" width="750" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oYve2WOUwdY?si=raZL8IX8pCpsPhV8"></iframe>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <table>
 <tbody>
 <tr>
@@ -244,6 +254,9 @@ variant: markdown
 </table>
 <h5><strong>Community Projects</strong></h5>
 <ul data-tight="true" class="tight">
+				<li>
+<a href="https://cnalifestyle.channelnewsasia.com/women/nabillah-jalal-nj-studio-artsee-piano-teacher-muhammadiyah-450696" rel="noopener noreferrer nofollow" target="_blank">She co-founded a programme for underprivileged boys to learn music: 'I want them to know they can dream’</a>
+		</li>
 			<li>
 <a href="https://www.straitstimes.com/singapore/singaporean-of-the-year-finalist-2-men-started-charity-to-support-struggling-youth" rel="noopener noreferrer nofollow" target="_blank">Singaporean of the Year finalist: They started charity to support struggling youth</a>
 		</li>
