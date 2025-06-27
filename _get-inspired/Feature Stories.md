@@ -17,15 +17,16 @@ variant: markdown
 <li>
 <a href="https://www.instagram.com/p/DIbEAylNU-X/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Lee Seow Ser</a>: One story at a time, Seow Ser and her team are helping to build a more inclusive Singapore. Through children’s books, they’re nurturing young minds to embrace diversity and foster kindness.</li>
 <li>
-<a href="https://www.instagram.com/p/DKZcrCWsc3P/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Johny</a>: Johny believes that caring for our shared spaces is essential for building the community spirit. With support from the Love Our ’Hood Fund, he started the Boon Lay Clean-up Project to bring neighbours together.</li>
+<a href="https://www.instagram.com/p/DKZcrCWsc3P/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Johny Tan</a>: Johny believes that caring for our shared spaces is essential for building the community spirit. With support from the Love Our ’Hood Fund, he started the Boon Lay Clean-up Project to bring neighbours together.</li>
 <li>
-<a href="https://www.instagram.com/p/DKgUM3VMJW6/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Jocelyn Teo</a>: Everyone's mental wellness journey is unique. Through an app they’ve designed, Jocelyn and her team are creating a safe digital space where people can explore their thoughts and feelings at their own pace, and at their fingertips.</li>
+<a href="https://www.instagram.com/p/DKgUM3VMJW6/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Jocelyn Teo</a>: Everyone's mental wellness journey is unique. Through an app they’ve designed, Jocelyn and her team are creating a safe digital space where people can explore their thoughts and feelings at their own pace.</li>
 <li>
 <a href="https://www.instagram.com/p/DKrYzCuSB-Q/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Lydia Susiyanti</a>: Meet Lydia, who serves up more than just free breakfast at a void deck for children in her neighbourhood. With every bowl of milk and cereal shared, she's building a community where the kids bond, and feel safe.
 </li>
 </ul>
+	<h3><strong>All set with your SG60 partnership proposal? <a href="/take-action/take-action-today/" target="_blank">Get Started</a></strong> 
 <p></p>
-<h5><strong>Latest Stories</strong></h5>
+</h3><h5><strong>Latest Stories</strong></h5>
 <table>
 <tbody>
 <tr>
