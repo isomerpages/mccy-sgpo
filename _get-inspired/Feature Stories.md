@@ -12,20 +12,20 @@ variant: markdown
 <h5><strong>#MySG60Goal Stories</strong></h5><strong>
 	<p></p><ul>
 	<li>
-	<a href="https://www.instagram.com/p/DHnl-9QSNbB/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Sarimah Amat</a>
+<a href="https://www.instagram.com/p/DKrYzCuSB-Q/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Lydia Susiyanti</a>
+		</li>
+		<li>
+<a href="https://www.instagram.com/p/DKgUM3VMJW6/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Jocelyn Teo</a>
+								</li>
+<li>
+<a href="https://www.instagram.com/p/DIbEAylNU-X/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Johny</a>
 		</li>
 	<li>
 	<a href="https://www.instagram.com/p/DIbEAylNU-X/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Lee Seow Ser</a>
 		</li>
-			<li>
-<a href="https://www.instagram.com/p/DIbEAylNU-X/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Johny</a>
+	<li>
+	<a href="https://www.instagram.com/p/DHnl-9QSNbB/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Sarimah Amat</a>
 		</li>
-				<li>
-<a href="https://www.instagram.com/p/DKgUM3VMJW6/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Jocelyn Teo</a>
-								</li><li>
-<a href="https://www.instagram.com/p/DKrYzCuSB-Q/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Lydia Susiyanti</a>
-		</li>
-		
 </ul>
 <p></p>
 <h5><strong>Latest Stories</strong></h5>
