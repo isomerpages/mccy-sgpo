@@ -12,14 +12,20 @@ variant: markdown
 <h5><strong>#MySG60Goal Stories</strong></h5><strong>
 	<p></p><ul>
 	<li>
-	<a href="http://www.straitstimes.com/singapore/mans-hunt-for-his-family-history-turns-into-heritage-project-on-seletar-kampongs" rel="noopener noreferrer nofollow" target="_blank">Man’s hunt for family history turns into heritage project on Seletar kampung</a>
+	<a href="https://www.instagram.com/p/DHnl-9QSNbB/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Sarimah Amat</a>
 		</li>
 	<li>
-	<a href="http://www.straitstimes.com/singapore/barber-shop-boss-gives-free-haircuts-to-seniors-and-the-disabled-to-give-back-to-spore" rel="noopener noreferrer nofollow" target="_blank">Barber shop boss gives free haircuts to seniors and the disabled to ‘give'</a>
+	<a href="https://www.instagram.com/p/DIbEAylNU-X/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Lee Seow Ser</a>
 		</li>
 			<li>
-<a href="https://cnalifestyle.channelnewsasia.com/women/nabillah-jalal-nj-studio-artsee-piano-teacher-muhammadiyah-450696" rel="noopener noreferrer nofollow" target="_blank">She co-founded a programme for underprivileged boys to learn music: 'I want them to know they can dream’</a>
+<a href="https://www.instagram.com/p/DIbEAylNU-X/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Johny</a>
 		</li>
+				<li>
+<a href="https://www.instagram.com/p/DKgUM3VMJW6/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Jocelyn Teo</a>
+								</li><li>
+<a href="https://www.instagram.com/p/DKrYzCuSB-Q/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Lydia Susiyanti</a>
+		</li>
+		
 </ul>
 <p></p>
 <h5><strong>Latest Stories</strong></h5>
