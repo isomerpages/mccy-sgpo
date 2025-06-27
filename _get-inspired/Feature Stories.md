@@ -9,6 +9,25 @@ variant: markdown
 
 <img style="width: 100%" height="auto" width="100%" alt="Image of community building puzzle block" src="/images/Get%20inspired/Featured_Stories_banner_woBG_27_Nov.png">
 </div>
+<h5><strong>#MySG60Goal Stories</strong></h5><strong>
+<ul>
+<li>
+<a href="https://www.instagram.com/p/DHnl-9QSNbB/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Sarimah Amat</a>: From free enrichment programmes to meals for underprivileged children, changemaker Sarimah and her neighbours are building a culture of giving back – one small act of kindness at a time. 
+</li>
+<li>
+<a href="https://www.instagram.com/p/DIbEAylNU-X/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Lee Seow Ser</a>: One story at a time, Seow Ser and her team are helping to build a more inclusive Singapore. Through children’s books, they’re nurturing young minds to embrace diversity and foster kindness.</li>
+<li>
+<a href="https://www.instagram.com/p/DKZcrCWsc3P/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Johny Tan</a>: Johny believes that caring for our shared spaces is essential for building the community spirit. With support from the Love Our ’Hood Fund, he started the Boon Lay Clean-up Project to bring neighbours together.</li>
+<li>
+<a href="https://www.instagram.com/p/DKgUM3VMJW6/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Jocelyn Teo</a>: Everyone's mental wellness journey is unique. Through an app they’ve designed, Jocelyn and her team are creating a safe digital space where people can explore their thoughts and feelings at their own pace.</li>
+<li>
+<a href="https://www.instagram.com/p/DKrYzCuSB-Q/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Lydia Susiyanti</a>: Meet Lydia, who serves up more than just free breakfast at a void deck for children in her neighbourhood. With every bowl of milk and cereal shared, she's building a community where the kids bond, and feel safe.
+</li>
+</ul>
+<p></p><center><strong>All set with your SG60 partnership proposal?</strong>
+<br>
+<br><a href="https://www.sgpo.gov.sg/take-action/take-action-today/"><img style="width: 30%" height="auto" width="30%" alt="get started button" src="/images/Get%20Started/GET_STARTED_BUTTON.png"></a><p></p></center>
+<p></p><p></p>
 <h5><strong>Latest Stories</strong></h5>
 <table>
 <tbody>
@@ -27,14 +46,14 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <p>
 	</p><ul>
+		<li>
+<a href="https://www.straitstimes.com/singapore/mum-of-six-juggles-three-jobs-starts-free-breakfast-club-for-kids-in-her-ang-mo-kio-neighbourhood" rel="noopener noreferrer nofollow" target="_blank">Mum of six who juggles three jobs starts free breakfast club for children in Ang Mo Kio</a>
+		</li>
 	<li>
 	<a href="http://www.straitstimes.com/singapore/mans-hunt-for-his-family-history-turns-into-heritage-project-on-seletar-kampongs" rel="noopener noreferrer nofollow" target="_blank">Man’s hunt for family history turns into heritage project on Seletar kampung</a>
 		</li>
 	<li>
 	<a href="http://www.straitstimes.com/singapore/barber-shop-boss-gives-free-haircuts-to-seniors-and-the-disabled-to-give-back-to-spore" rel="noopener noreferrer nofollow" target="_blank">Barber shop boss gives free haircuts to seniors and the disabled to ‘give'</a>
-		</li>
-			<li>
-<a href="https://cnalifestyle.channelnewsasia.com/women/nabillah-jalal-nj-studio-artsee-piano-teacher-muhammadiyah-450696" rel="noopener noreferrer nofollow" target="_blank">She co-founded a programme for underprivileged boys to learn music: 'I want them to know they can dream’</a>
 		</li>
 </ul>
 <p></p>
@@ -48,7 +67,17 @@ variant: markdown
 </tbody>
 </table>
 <h5><strong>Stories</strong></h5>
-
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="400" width="750" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oYve2WOUwdY?si=raZL8IX8pCpsPhV8"></iframe>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <table>
 <tbody>
 <tr>
@@ -225,6 +254,9 @@ variant: markdown
 </table>
 <h5><strong>Community Projects</strong></h5>
 <ul data-tight="true" class="tight">
+				<li>
+<a href="https://cnalifestyle.channelnewsasia.com/women/nabillah-jalal-nj-studio-artsee-piano-teacher-muhammadiyah-450696" rel="noopener noreferrer nofollow" target="_blank">She co-founded a programme for underprivileged boys to learn music: 'I want them to know they can dream’</a>
+		</li>
 			<li>
 <a href="https://www.straitstimes.com/singapore/singaporean-of-the-year-finalist-2-men-started-charity-to-support-struggling-youth" rel="noopener noreferrer nofollow" target="_blank">Singaporean of the Year finalist: They started charity to support struggling youth</a>
 		</li>
@@ -328,4 +360,4 @@ of S'poreans</a>
 </p>
 </li>
 </ul>
-<p></p>
+<p></p></strong>
