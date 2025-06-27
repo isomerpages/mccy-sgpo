@@ -24,8 +24,9 @@ variant: markdown
 <a href="https://www.instagram.com/p/DKrYzCuSB-Q/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Lydia Susiyanti</a>: Meet Lydia, who serves up more than just free breakfast at a void deck for children in her neighbourhood. With every bowl of milk and cereal shared, she's building a community where the kids bond, and feel safe.
 </li>
 </ul>
-<strong>All set with your SG60 partnership proposal?</strong>
-<br> <a href="https://www.sgpo.gov.sg/take-action/take-action-today/"><img style="width: 30%" height="auto" width="30%" alt="get started button" src="/images/Get%20Started/GET_STARTED_BUTTON.png"></a>
+	<strong><h3>All set with your SG60 partnership proposal?</h3></strong>
+</strong><p><strong><a href="https://www.sgpo.gov.sg/take-action/take-action-today/"><img style="width: 30%" height="auto" width="30%" alt="get started button" src="/images/Get%20Started/GET_STARTED_BUTTON.png"></a></strong>
+		</p>
 <p></p><p></p>
 <h5><strong>Latest Stories</strong></h5>
 <table>
@@ -359,4 +360,4 @@ of S'poreans</a>
 </p>
 </li>
 </ul>
-<p></p></strong>
+<p></p>
