@@ -27,7 +27,6 @@ variant: markdown
 <p></p><center><strong>All set with your SG60 partnership proposal?</strong>
 <br>
 <br><a href="https://www.sgpo.gov.sg/take-action/take-action-today/"><img style="width: 15%" height="auto" width="15%" alt="get started button" src="/images/Get%20Started/GET_STARTED_BUTTON.png"></a><p></p></center>
-		<p></p>
 <p></p><p></p>
 <h5><strong>Latest Stories</strong></h5>
 <table>
