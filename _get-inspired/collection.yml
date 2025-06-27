@@ -2,6 +2,7 @@ collections:
   get-inspired:
     output: true
     order:
+      - My SG60 Goals.md
       - Feature Stories.md
       - Alliances for Action.md
       - Stories Archive.md
