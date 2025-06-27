@@ -10,7 +10,7 @@ variant: markdown
 <img style="width: 100%" height="auto" width="100%" alt="Image of community building puzzle block" src="/images/Get%20inspired/Featured_Stories_banner_woBG_27_Nov.png">
 </div>
 <h5><strong>#MySG60Goal Stories</strong></h5><strong>
-	<p></p><ul>
+<ul>
 <li>
 <a href="https://www.instagram.com/p/DKrYzCuSB-Q/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Lydia Susiyanti</a>: Meet Lydia, who serves up more than just free breakfast at a void deck for children in her neighbourhood. With every bowl of milk and cereal shared, she's building a community where the kids bond, and feel safe.
 </li>
