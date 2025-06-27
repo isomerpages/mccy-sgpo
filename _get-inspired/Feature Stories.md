@@ -9,6 +9,19 @@ variant: markdown
 
 <img style="width: 100%" height="auto" width="100%" alt="Image of community building puzzle block" src="/images/Get%20inspired/Featured_Stories_banner_woBG_27_Nov.png">
 </div>
+<h5><strong>#MySG60Goal Stories</strong></h5><strong>
+	<p></p><ul>
+	<li>
+	<a href="http://www.straitstimes.com/singapore/mans-hunt-for-his-family-history-turns-into-heritage-project-on-seletar-kampongs" rel="noopener noreferrer nofollow" target="_blank">Man’s hunt for family history turns into heritage project on Seletar kampung</a>
+		</li>
+	<li>
+	<a href="http://www.straitstimes.com/singapore/barber-shop-boss-gives-free-haircuts-to-seniors-and-the-disabled-to-give-back-to-spore" rel="noopener noreferrer nofollow" target="_blank">Barber shop boss gives free haircuts to seniors and the disabled to ‘give'</a>
+		</li>
+			<li>
+<a href="https://cnalifestyle.channelnewsasia.com/women/nabillah-jalal-nj-studio-artsee-piano-teacher-muhammadiyah-450696" rel="noopener noreferrer nofollow" target="_blank">She co-founded a programme for underprivileged boys to learn music: 'I want them to know they can dream’</a>
+		</li>
+</ul>
+<p></p>
 <h5><strong>Latest Stories</strong></h5>
 <table>
 <tbody>
@@ -328,4 +341,4 @@ of S'poreans</a>
 </p>
 </li>
 </ul>
-<p></p>
+<p></p></strong>
