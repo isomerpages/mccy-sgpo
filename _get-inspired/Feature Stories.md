@@ -12,7 +12,7 @@ variant: markdown
 <h5><strong>#MySG60Goal Stories</strong></h5><strong>
 <ul>
 <li>
-<a href="https://www.instagram.com/p/DHnl-9QSNbB/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Sarimah Amat</a>: From free enrichment programmes to meals for underprivileged children, changemaker Sarimah and her neighbours are building a culture of giving back – one small act of kindness at a time. This is what building a more caring Singapore looks like.
+<a href="https://www.instagram.com/p/DHnl-9QSNbB/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Sarimah Amat</a>: From free enrichment programmes to meals for underprivileged children, changemaker Sarimah and her neighbours are building a culture of giving back – one small act of kindness at a time. 
 </li>
 <li>
 <a href="https://www.instagram.com/p/DIbEAylNU-X/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Lee Seow Ser</a>: One story at a time, Seow Ser and her team are helping to build a more inclusive Singapore. Through children’s books, they’re nurturing young minds to embrace diversity and foster kindness.</li>
