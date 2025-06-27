@@ -24,8 +24,8 @@ variant: markdown
 <a href="https://www.instagram.com/p/DKrYzCuSB-Q/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Lydia Susiyanti</a>: Meet Lydia, who serves up more than just free breakfast at a void deck for children in her neighbourhood. With every bowl of milk and cereal shared, she's building a community where the kids bond, and feel safe.
 </li>
 </ul>
-	<h3><strong>All set with your SG60 partnership proposal?</strong></h3>
-<br> <a href="https://www.sgpo.gov.sg/take-action/take-action-today/"><img style="width: 30%" height="auto" width="30%" alt="Image of community building puzzle block" src="/images/Get%20Started/GET_STARTED_BUTTON.png"></a>
+<strong>All set with your SG60 partnership proposal?</strong>
+<br> <a href="https://www.sgpo.gov.sg/take-action/take-action-today/"><img style="width: 30%" height="auto" width="30%" alt="get started button" src="/images/Get%20Started/GET_STARTED_BUTTON.png"></a>
 <p></p><p></p>
 <h5><strong>Latest Stories</strong></h5>
 <table>
