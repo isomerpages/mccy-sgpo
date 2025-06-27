@@ -25,8 +25,8 @@ variant: markdown
 </li>
 </ul>
 	<h3><strong>All set with your SG60 partnership proposal?</strong></h3>
-<p> <a href="https://www.sgpo.gov.sg/take-action/take-action-today/"><img style="width: 100%" height="auto" width="100%" alt="Image of community building puzzle block" src="/images/Get%20inspired/Featured_Stories_banner_woBG_27_Nov.png"></a>
-</p><p></p>
+<br> <a href="https://www.sgpo.gov.sg/take-action/take-action-today/"><img style="width: 30%" height="auto" width="30%" alt="Image of community building puzzle block" src="/images/Get%20Started/GET_STARTED_BUTTON.png"></a>
+<p></p><p></p>
 <h5><strong>Latest Stories</strong></h5>
 <table>
 <tbody>
