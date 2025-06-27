@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Feature Stories.md
-      - My SG60 Goals.md
       - Alliances for Action.md
       - Stories Archive.md
