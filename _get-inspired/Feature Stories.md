@@ -24,7 +24,7 @@ variant: markdown
 <a href="https://www.instagram.com/p/DKrYzCuSB-Q/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Lydia Susiyanti</a>: Meet Lydia, who serves up more than just free breakfast at a void deck for children in her neighbourhood. With every bowl of milk and cereal shared, she's building a community where the kids bond, and feel safe.
 </li>
 </ul>
-	<h3><strong>All set with your SG60 partnership proposal? <a href="/take-action/take-action-today/" target="_blank">Get Started</a></strong></h3>
+	<h3><strong>All set with your SG60 partnership proposal? <a href="/take-action/take-action-today/">Get Started</a></strong></h3>
 <p></p>
 <h5><strong>Latest Stories</strong></h5>
 <table>
