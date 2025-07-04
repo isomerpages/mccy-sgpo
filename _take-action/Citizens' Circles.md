@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Citizens' Circles participants interacting at the session" src="/images/Circles Circles/CC_Masthead.png">
 </div>
-<h3><strong>Have an idea for a better Singapore?</strong></h3>
+<h2><strong>Have an idea for a better Singapore?</strong></h2>
 <p>Citizen ideas and actions can make a big difference in the lives of other
 Singaporeans!</p>
 <p>But how can these ideas be further developed to help the people or causes
