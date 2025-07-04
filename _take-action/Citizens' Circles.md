@@ -44,7 +44,7 @@ bring positive change to Singapore.</p>
 <p><a href="https://safe.menlosecurity.com/https:/go.gov.sg/citizenscircle2" rel="noopener noreferrer nofollow" target="_blank">Sign up here</a> to
 secure your slot! You will receive a confirmation email upon successful
 registration.</p>
+<p></p>
 <p><strong>Upcoming Sessions</strong>
-</p>
-<p><em>Stay tuned to this page for updates on future sessions!</em>
+<br><em>Stay tuned to this page for updates on future sessions!</em>
 </p>
