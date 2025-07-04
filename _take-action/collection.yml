@@ -2,7 +2,6 @@ collections:
   take-action:
     output: true
     order:
-      - Citizens' Circles.md
       - Get Started.md
       - Partners Portal/.keep
       - Partners Portal/Introduction to Partners Portal.md
@@ -11,6 +10,7 @@ collections:
         Organisations).md
       - Partners Portal/Funding and Resources.md
       - Partners Portal/Volunteering and Giving.md
+      - Citizens' Circles.md
       - Frequently Asked Questions/.keep
       - Frequently Asked Questions/About Singapore Government Partnerships
         Office.md
