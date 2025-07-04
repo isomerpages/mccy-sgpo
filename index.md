@@ -31,7 +31,7 @@ sections:
       id: infopic
       button: sign up
       url: https://go.gov.sg/citizenscircle2
-      image: /images/Infopic/Citizens_Circle_homepage_banner2.jpg
+      image: /images/Circles Circles/Citizens_Circle_homepage_banner_2.png
       alt: Citizens' Circles image
   - infopic:
       title: Celebrate SG60 and build our future Singapore Together
