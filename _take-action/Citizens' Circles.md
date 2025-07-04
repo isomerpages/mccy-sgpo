@@ -41,10 +41,10 @@ bring positive change to Singapore.</p>
 </ul>
 <p><strong>How to Participate</strong>
 </p>
-<p><a href="https://safe.menlosecurity.com/https:/go.gov.sg/citizenscircle2" rel="noopener noreferrer nofollow" target="_blank">Sign up here</a> to
+<p><a href="https://go.gov.sg/citizenscircle2" rel="noopener noreferrer nofollow" target="_blank">Sign up here</a> to
 secure your slot! You will receive a confirmation email upon successful
 registration.</p>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/citizenscircle2"><img style="width: 30%;" height="auto" width="100%" alt="Sign up here button" src="/images/Circles Circles/SIGN_UP_HERE.png"></a>
 <p><strong>Upcoming Sessions</strong>
 <br><em>Stay tuned to this page for updates on future sessions!</em>
 </p>
