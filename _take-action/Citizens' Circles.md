@@ -9,7 +9,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="Citizens' Circle engagement sessions" src="/images/Circles Circles/CC_Masthead.png">
 </div>
 <h2>Have an idea for a better Singapore?</h2>
-<p>Citizen ideas and actions can make a big difference in the lives of other
+<p>Citizen ideas and actions can make a difference to the lives of other
 Singaporeans.</p>
 <p>But how can these ideas be further developed to help the people or causes
 we want to help? What support is available? What are possible next steps?</p>
