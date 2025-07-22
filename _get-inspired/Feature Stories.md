@@ -12,7 +12,7 @@ variant: markdown
 <h5><strong>#MySG60Goal Stories</strong></h5><strong>
 <ul>
 <li>
-<a href="https://www.instagram.com/p/DMKgoMSvDG2/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Shirley Ng</a>: Keerthana believes that when different generations come together to share stories, meaningful connections are made. Through her ground-up initiative, she helps seniors feel heard and youths rediscover their roots.</li>
+<a href="https://www.instagram.com/p/DMKgoMSvDG2/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Shirley Ng</a>: Meet Shirley, who once earned $3 an hour as a young single mum and knows what it’s like to feel lost. Today, with her keen eye and big heart, she has trained over 1,000 youths and inmates on how to make a fine latte for a resilient F&amp;B career, while building their confidence.</li>
 <li>
 <a href="https://www.instagram.com/p/DKqnXtbMZCs/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">P. Keerthana</a>: Keerthana believes that when different generations come together to share stories, meaningful connections are made. Through her ground-up initiative, she helps seniors feel heard and youths rediscover their roots.</li>
 <li>
