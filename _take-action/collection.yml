@@ -2,7 +2,6 @@ collections:
   take-action:
     output: true
     order:
-      - Citizens' Circles.md
       - Get Started.md
       - Partners Portal/.keep
       - Partners Portal/Introduction to Partners Portal.md
