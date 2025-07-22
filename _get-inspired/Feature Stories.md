@@ -12,6 +12,10 @@ variant: markdown
 <h5><strong>#MySG60Goal Stories</strong></h5><strong>
 <ul>
 <li>
+<a href="https://www.instagram.com/p/DMKgoMSvDG2/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Shirley Ng</a>: Keerthana believes that when different generations come together to share stories, meaningful connections are made. Through her ground-up initiative, she helps seniors feel heard and youths rediscover their roots.</li>
+<li>
+<a href="https://www.instagram.com/p/DKqnXtbMZCs/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">P. Keerthana</a>: Keerthana believes that when different generations come together to share stories, meaningful connections are made. Through her ground-up initiative, she helps seniors feel heard and youths rediscover their roots.</li>
+<li>
 <a href="https://www.instagram.com/p/DL17nYIBsy4/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Mohamad Ibrahim</a>: Meet Ibrahim, who found a new calling after 35 years in the corporate world, helping incarcerated fathers rebuild bonds with their kids. From simple letters to life-changing reunions, he’s showing how small steps can heal families.</li>
 <li>
 <a href="https://www.instagram.com/p/DKgUM3VMJW6/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Jocelyn Teo</a>: Everyone's mental wellness journey is unique. Through an app they’ve designed, Jocelyn and her team are creating a safe digital space where people can explore their thoughts and feelings at their own pace.</li>
