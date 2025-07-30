@@ -27,13 +27,6 @@ sections:
           - title: Find out more about us
             url: /about/about-us/
   - infopic:
-      title: Develop your ideas for public good at Citizens’ Circles
-      id: infopic
-      button: sign up
-      url: https://go.gov.sg/citizenscircle2
-      image: /images/Circles Circles/Citizens_Circle_homepage_banner_2.png
-      alt: Citizens' Circles image
-  - infopic:
       title: Celebrate SG60 and build our future Singapore Together
       id: infopic
       button: Find out more
