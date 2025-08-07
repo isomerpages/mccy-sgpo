@@ -12,6 +12,8 @@ variant: markdown
 <h5><strong>#MySG60Goal Stories</strong></h5><strong>
 <ul>
 <li>
+<a href="https://www.instagram.com/p/DM9WwcaxFW8/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Satria Sadon</a>: Through outdoor adventures and life coaching, Satria and his team at Project Pathfinder are empowering ITE youths through mentorships. These efforts have grown into a movement that's changing lives, one student at a time.</li>
+<li>
 <a href="https://www.instagram.com/p/DMzGeYTN9Jg/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Sruti Mulupuri</a>: One game at a time, Sruti and her team at Digi-Up! are helping to bridge the digital divide for seniors in Singapore. Through specially-designed games, they're guiding seniors on how to navigate the digital space safely.</li>
 <li>
 <a href="https://www.instagram.com/p/DMuk8ugR6QP/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Yeoh Wan Qing</a>: Through social enterprise Hatch, Wan Qing is equipping communities-in-need with digital skills to support their home-based businesses. From hands-on training to contributing to youth policy discussions, she’s showing how citizen-government partnerships can create meaningful, lasting impact.</li>
