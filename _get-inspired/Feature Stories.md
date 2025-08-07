@@ -215,35 +215,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-	<img style="width: 100%" height="auto" width="100%" alt="The Sunlight AfA is led by 48 members across the people, public and private sectors." src="/images/Get%20inspired/online-sphere-safer2.jpg">
-</div>
-<br><a href="https://www.straitstimes.com/singapore/this-22-year-old-is-tackling-online-harms-to-make-the-online-sphere-safer-for-her-peers" rel="noopener noreferrer nofollow" target="_blank">Making the Online Sphere Safer</a>
 
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Project 3i – an initiative to support caregivers through community training, peer mentorship and partnerships with healthcare providers." src="/images/Get%20inspired/adversityintoopportunities.jpg">
-</div>
-<br><a href="https://www.straitstimes.com/singapore/mother-of-kids-with-special-needs-turns-adversity-into-an-opportunity-to-help-others" rel="noopener noreferrer nofollow" target="_blank">Turning Adversity into Opportunity to Help Others</a>
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 
 <h5><strong>Community Projects</strong></h5>
 <ul data-tight="true" class="tight">
