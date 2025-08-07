@@ -187,36 +187,10 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mrs Anita Low-Lim - A champion of online safety" src="/images/Get%20inspired/champion2.jpg">
-</div>
-<br><a href="https://www.sg/stories/anita-low-lim---a-champion-of-online-safety" rel="noopener noreferrer nofollow" target="_blank">Championing Online Safety</a>
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-	<img style="width: 100%" height="auto" width="100%" alt="Mountbatten Parking Heroes members" src="/images/Get%20inspired/mountbatten-parking-heroes2.jpg">
-</div>
-<br><a href="https://www.sg/stories/mountbatten-parking-heroes" rel="noopener noreferrer nofollow" target="_blank">Meet the Mountbatten Parking Heroes</a>
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 
 
+
+	
 <h5><strong>Community Projects</strong></h5>
 <ul data-tight="true" class="tight">
 				<li>
