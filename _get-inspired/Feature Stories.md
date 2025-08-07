@@ -12,7 +12,7 @@ variant: markdown
 <h5><strong>#MySG60Goal Stories</strong></h5><strong>
 <ul>
 <li>
-<a href="https://www.instagram.com/p/DM9WwcaxFW8/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Narasimman S/O Tivasiha Mani</a>: Through outdoor adventures and life coaching, Satria and his team at Project Pathfinder are empowering ITE youths through mentorships. These efforts have grown into a movement that's changing lives, one student at a time.</li>
+<a href="https://www.instagram.com/p/DNCYBV8JpO5/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Narasimman S/O Tivasiha Mani</a>: Narash of charity Impart, is helping young people overcome tough life challenges, from mental health struggles to domestic violence and homelessness. Through mentorship and community care, he is guiding youths to believe in themselves and give back.</li>
 <li>
 <a href="https://www.instagram.com/p/DM9WwcaxFW8/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Satria Sadon</a>: Through outdoor adventures and life coaching, Satria and his team at Project Pathfinder are empowering ITE youths through mentorships. These efforts have grown into a movement that's changing lives, one student at a time.</li>
 <li>
