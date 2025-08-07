@@ -244,32 +244,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Rexlee Hah, Ms Michelle Wan and Mr Elango Letchumanan at the “green corridor” of Cambridge Road – one of many greening initiatives led by the community." src="/images/Get%20inspired/greening-cambridge-road2.jpg">
-</div>
-<br><a href="https://www.straitstimes.com/singapore/cambridge-road-residents-are-greening-their-neighbourhood-from-the-ground-up-heres-how-theyre-doing-it" rel="noopener noreferrer nofollow" target="_blank">Greening Cambridge Road</a>
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Get%20inspired/blank-story.jpg">
-<p></p>
-</div></th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+
 <h5><strong>Community Projects</strong></h5>
 <ul data-tight="true" class="tight">
 				<li>
