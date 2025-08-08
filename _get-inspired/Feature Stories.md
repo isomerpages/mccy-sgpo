@@ -12,6 +12,10 @@ variant: markdown
 <h5><strong>#MySG60Goal Stories</strong></h5><strong>
 <ul>
 <li>
+<a href="https://www.instagram.com/p/DNCYBV8JpO5/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Narasimman S/O Tivasiha Mani</a>: Narash of charity Impart, is helping young people overcome tough life challenges, from mental health struggles to domestic violence and homelessness. Through mentorship and community care, he is guiding youths to believe in themselves and give back.</li>
+<li>
+<a href="https://www.instagram.com/p/DM9WwcaxFW8/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Satria Sadon</a>: Through outdoor adventures and life coaching, Satria and his team at Project Pathfinder are empowering ITE youths through mentorships. These efforts have grown into a movement that's changing lives, one student at a time.</li>
+<li>
 <a href="https://www.instagram.com/p/DMzGeYTN9Jg/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Sruti Mulupuri</a>: One game at a time, Sruti and her team at Digi-Up! are helping to bridge the digital divide for seniors in Singapore. Through specially-designed games, they're guiding seniors on how to navigate the digital space safely.</li>
 <li>
 <a href="https://www.instagram.com/p/DMuk8ugR6QP/?img_index=1" rel="noopener noreferrer nofollow" target="_blank">Yeoh Wan Qing</a>: Through social enterprise Hatch, Wan Qing is equipping communities-in-need with digital skills to support their home-based businesses. From hands-on training to contributing to youth policy discussions, she’s showing how citizen-government partnerships can create meaningful, lasting impact.</li>
@@ -183,89 +187,10 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mrs Anita Low-Lim - A champion of online safety" src="/images/Get%20inspired/champion2.jpg">
-</div>
-<br><a href="https://www.sg/stories/anita-low-lim---a-champion-of-online-safety" rel="noopener noreferrer nofollow" target="_blank">Championing Online Safety</a>
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-	<img style="width: 100%" height="auto" width="100%" alt="Mountbatten Parking Heroes members" src="/images/Get%20inspired/mountbatten-parking-heroes2.jpg">
-</div>
-<br><a href="https://www.sg/stories/mountbatten-parking-heroes" rel="noopener noreferrer nofollow" target="_blank">Meet the Mountbatten Parking Heroes</a>
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-	<img style="width: 100%" height="auto" width="100%" alt="The Sunlight AfA is led by 48 members across the people, public and private sectors." src="/images/Get%20inspired/online-sphere-safer2.jpg">
-</div>
-<br><a href="https://www.straitstimes.com/singapore/this-22-year-old-is-tackling-online-harms-to-make-the-online-sphere-safer-for-her-peers" rel="noopener noreferrer nofollow" target="_blank">Making the Online Sphere Safer</a>
 
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Project 3i – an initiative to support caregivers through community training, peer mentorship and partnerships with healthcare providers." src="/images/Get%20inspired/adversityintoopportunities.jpg">
-</div>
-<br><a href="https://www.straitstimes.com/singapore/mother-of-kids-with-special-needs-turns-adversity-into-an-opportunity-to-help-others" rel="noopener noreferrer nofollow" target="_blank">Turning Adversity into Opportunity to Help Others</a>
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Rexlee Hah, Ms Michelle Wan and Mr Elango Letchumanan at the “green corridor” of Cambridge Road – one of many greening initiatives led by the community." src="/images/Get%20inspired/greening-cambridge-road2.jpg">
-</div>
-<br><a href="https://www.straitstimes.com/singapore/cambridge-road-residents-are-greening-their-neighbourhood-from-the-ground-up-heres-how-theyre-doing-it" rel="noopener noreferrer nofollow" target="_blank">Greening Cambridge Road</a>
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Get%20inspired/blank-story.jpg">
-<p></p>
-</div></th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+
+
+	
 <h5><strong>Community Projects</strong></h5>
 <ul data-tight="true" class="tight">
 				<li>
