@@ -27,6 +27,13 @@ sections:
           - title: Find out more about us
             url: /about/about-us/
   - infopic:
+      title: All set with your SG60 partnership proposal?
+      button: get started
+      url: /take-action/take-action-today/
+      image: /images/ideas_submission_masthead.jpg
+      alt: Lightbulb represent ideas
+      subtitle: Play Your Part
+  - infopic:
       title: Celebrate SG60 and build our future Singapore Together
       id: infopic
       button: Find out more
@@ -40,13 +47,6 @@ sections:
       url: https://www.stationery-personality-quiz.com/
       image: /images/Infopic/Personality_Quiz_Characters_SGPO_1400x700.png
       alt: Illustrations of the quiz
-  - infopic:
-      title: All set with your SG60 partnership proposal?
-      button: get started
-      url: /take-action/take-action-today/
-      image: /images/ideas_submission_masthead.jpg
-      alt: Lightbulb represent ideas
-      subtitle: Play Your Part
   - infopic:
       title: Read partnership stories
       subtitle: get inspired
