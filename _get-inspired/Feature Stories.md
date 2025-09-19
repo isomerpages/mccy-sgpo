@@ -246,13 +246,13 @@ how items can be recycled</a>
 </p>
 </li>
 <li>
-	<p><a href="https://www.frc.sg" rel="noopener noreferrer nofollow" target="_blank">Fridge Restock Community</a>:
+	<p><a href="https://www.instagram.com/fridgerestockcommunitysg/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Fridge Restock Community</a>:
 <a href="https://www.todayonline.com/singapore/stories-behind-fridge-restock-community-daniel-yap-2164221" rel="noopener noreferrer nofollow" target="_blank">The Stories Behind: Fridge Restock Community, a ground-up food rescue
 group founded by a Little India shopowner</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.nyc.gov.sg/youthpanels" rel="noopener noreferrer nofollow" target="_blank">Youth Panels</a>:
+<p><a href="https://www.nyc.gov.sg/key-initiatives/youth-panels" rel="noopener noreferrer nofollow" target="_blank">Youth Panels</a>:
 <a href="https://www.channelnewsasia.com/singapore/new-youth-panels-develop-policy-recommendations-government-3434586" rel="noopener noreferrer nofollow" target="_blank">New youth panels to develop policy recommendations with the government
 to be launched this year</a>
 </p>
